@@ -1,0 +1,6715 @@
+{
+  "Data": [
+{
+  "countryName": "Africa",
+  "id": "africa",
+  "href": "https://www.sofascore.com/list/category/football/africa/tournaments/json",
+  "tournaments": [
+  {
+    "id": 20554,
+    "order": 100,
+    "name": "CAF Champions League",
+    "slug": "caf-champions-league-group-a",
+    "uniqueName": "CAF Champions League",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1054
+  },
+  {
+    "id": 21762,
+    "order": 94,
+    "name": "CAF Confederations Cup",
+    "slug": "caf-confederations-cup-group-a",
+    "uniqueName": "CAF Confederations Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1115
+  },
+  {
+    "id": 2183,
+    "order": 88,
+    "name": "World Cup Qual. CAF ",
+    "slug": "world-cup-qualification-caf",
+    "uniqueName": "World Cup Qual. CAF ",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 13
+  },
+  {
+    "id": 249,
+    "order": 69,
+    "name": "Africa Cup of Nations",
+    "slug": "africa-cup-of-nations",
+    "uniqueName": "Africa Cup of Nations",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 270
+  },
+  {
+    "id": 59834,
+    "order": 59,
+    "name": "Africa Cup of Nations Qual.",
+    "slug": "africa-cup-of-nations-qualification-group-a",
+    "uniqueName": "Africa Cup of Nations Qual.",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1848
+  },
+  {
+    "id": 56575,
+    "order": 34,
+    "name": "Africa Cup of Nations, Women",
+    "slug": "africa-cup-of-nations-women-group-a",
+    "uniqueName": "Africa Cup of Nations, Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 9558
+  },
+  {
+    "id": 47533,
+    "order": 31,
+    "name": "African Games",
+    "slug": "african-games-group-a",
+    "uniqueName": "African Games",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2139
+  },
+  {
+    "id": 10184,
+    "order": 28,
+    "name": "African Nations Championship",
+    "slug": "african-nations-championship-group-a",
+    "uniqueName": "African Nations Championship",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 637
+  },
+  {
+    "id": 7705,
+    "order": 23,
+    "name": "CAF Super Cup",
+    "slug": "caf-super-cup",
+    "uniqueName": "CAF Super Cup",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1250
+  },
+  {
+    "id": 43637,
+    "order": 22,
+    "name": "COSAFA Cup",
+    "slug": "cosafa-cup-group-a",
+    "uniqueName": "COSAFA Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2076
+  },
+  {
+    "id": 42150,
+    "order": 18,
+    "name": "U20 CAF African Championship",
+    "slug": "u20-caf-african-championship-group-a",
+    "uniqueName": "U20 CAF African Championship",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2063
+  },
+  {
+    "id": 18162,
+    "order": 14,
+    "name": "U23 CAF Championship",
+    "slug": "u23-caf-championship-group-a",
+    "uniqueName": "U23 CAF Championship",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 981
+  }]
+},
+{
+  "countryName": "Albania",
+  "id": "albania",
+  "href": "https://www.sofascore.com/list/category/football/albania/tournaments/json",
+  "tournaments": [
+  {
+    "id": 10795,
+    "order": 20,
+    "name": "Kategoria Superiore",
+    "slug": "kategoria-superiore-relegationpromotion",
+    "uniqueName": "Kategoria Superiore",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 720
+  },
+  {
+    "id": 16091,
+    "order": 17,
+    "name": "Kategoria e Pare",
+    "slug": "kategoria-e-pare-relegationpromotion",
+    "uniqueName": "Kategoria e Pare",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 722
+  },
+  {
+    "id": 6130,
+    "order": 13,
+    "name": "Kupa e Shqiperise",
+    "slug": "kupa-e-shqiperise",
+    "uniqueName": "Kupa e Shqiperise",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 756
+  },
+  {
+    "id": 17225,
+    "order": 5,
+    "name": "Supercup",
+    "slug": "supercup",
+    "uniqueName": "Supercup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1107
+  }]
+},
+{
+  "countryName": "Algeria",
+  "id": "algeria",
+  "href": "https://www.sofascore.com/list/category/football/algeria/tournaments/json",
+  "tournaments": [
+  {
+    "id": 3657,
+    "order": 7,
+    "name": "Ligue 1",
+    "slug": "ligue-1",
+    "uniqueName": "Ligue 1",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 841
+  },
+  {
+    "id": 5467,
+    "order": 6,
+    "name": "Algerian Cup",
+    "slug": "algerian-cup",
+    "uniqueName": "Algerian Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1588
+  },
+  {
+    "id": 11646,
+    "order": 5,
+    "name": "Ligue 2",
+    "slug": "ligue-2",
+    "uniqueName": "Ligue 2",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 9459
+  }]
+},
+{
+  "countryName": "Andorra",
+  "id": "andorra",
+  "href": "https://www.sofascore.com/list/category/football/andorra/tournaments/json",
+  "tournaments": [
+  {
+    "id": 12463,
+    "order": 7,
+    "name": "Primera Divisio",
+    "slug": "primera-divisio-championship-round",
+    "uniqueName": "Primera Divisio",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 742
+  },
+  {
+    "id": 12465,
+    "order": 3,
+    "name": "Segona Divisio",
+    "slug": "segona-divisio-promotion-round",
+    "uniqueName": "Segona Divisio",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 743
+  },
+  {
+    "id": 11433,
+    "order": 1,
+    "name": "Copa Constitucio",
+    "slug": "copa-constitucio",
+    "uniqueName": "Copa Constitucio",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 881
+  }]
+},
+{
+  "countryName": "Angola",
+  "id": "angola",
+  "href": "https://www.sofascore.com/list/category/football/angola/tournaments/json",
+  "tournaments": [
+  {
+    "id": 7752,
+    "order": 1,
+    "name": "Girabola",
+    "slug": "girabola",
+    "uniqueName": "Girabola",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2308
+  }]
+},
+{
+  "countryName": "Argentina",
+  "id": "argentina",
+  "href": "https://www.sofascore.com/list/category/football/argentina/tournaments/json",
+  "tournaments": [
+  {
+    "id": 68,
+    "order": 39,
+    "name": "Superliga",
+    "slug": "superliga",
+    "uniqueName": "Superliga",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 155
+  },
+  {
+    "id": 5071,
+    "order": 32,
+    "name": "Primera B Nacional",
+    "slug": "primera-b-nacional",
+    "uniqueName": "Primera B Nacional",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 703
+  },
+  {
+    "id": 7893,
+    "order": 25,
+    "name": "Primera B",
+    "slug": "primera-b",
+    "uniqueName": "Primera B",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1347
+  },
+  {
+    "id": 273,
+    "order": 21,
+    "name": "Copa Argentina",
+    "slug": "copa-argentina",
+    "uniqueName": "Copa Argentina",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1024
+  },
+  {
+    "id": 23406,
+    "order": 20,
+    "name": "Super Cup",
+    "slug": "super-cup",
+    "uniqueName": "Super Cup",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1618
+  }]
+},
+{
+  "countryName": "Armenia",
+  "id": "armenia",
+  "href": "https://www.sofascore.com/list/category/football/armenia/tournaments/json",
+  "tournaments": [
+  {
+    "id": 3586,
+    "order": 4,
+    "name": "Premier League",
+    "slug": "premier-league",
+    "uniqueName": "Premier League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 671
+  },
+  {
+    "id": 9174,
+    "order": 3,
+    "name": "First League",
+    "slug": "first-league",
+    "uniqueName": "First League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 672
+  },
+  {
+    "id": 5899,
+    "order": 2,
+    "name": "Armenian Cup",
+    "slug": "armenian-cup",
+    "uniqueName": "Armenian Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 778
+  },
+  {
+    "id": 16252,
+    "order": 1,
+    "name": "Super Cup",
+    "slug": "armenia-supercup",
+    "uniqueName": "Super Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1924
+  }]
+},
+{
+  "countryName": "Asia",
+  "id": "asia",
+  "href": "https://www.sofascore.com/list/category/football/asia/tournaments/json",
+  "tournaments": [
+  {
+    "id": 7238,
+    "order": 153,
+    "name": "World Cup Qual. AFC",
+    "slug": "world-cup-qualification-afc-round-2-gr-a",
+    "uniqueName": "World Cup Qual. AFC",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 308
+  },
+  {
+    "id": 1085,
+    "order": 137,
+    "name": "AFC Champions League",
+    "slug": "afc-champions-league-knockout-stage",
+    "uniqueName": "AFC Champions League",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 463
+  },
+  {
+    "id": 14732,
+    "order": 127,
+    "name": "AFC Cup",
+    "slug": "afc-cup-group-a",
+    "uniqueName": "AFC Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 668
+  },
+  {
+    "id": 1489,
+    "order": 116,
+    "name": "AFC Asian Cup",
+    "slug": "afc-asian-cup-final-round",
+    "uniqueName": "AFC Asian Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 246
+  },
+  {
+    "id": 4193,
+    "order": 111,
+    "name": "AFC Asian Cup Qual.",
+    "slug": "afc-asian-cup-qualification-group-a",
+    "uniqueName": "AFC Asian Cup Qual.",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 28
+  },
+  {
+    "id": 4594,
+    "order": 104,
+    "name": "AFC Asian Cup, Women",
+    "slug": "afc-asian-cup-women-group-a",
+    "uniqueName": "AFC Asian Cup, Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1692
+  },
+  {
+    "id": 14062,
+    "order": 100,
+    "name": "AFF Suzuki Cup",
+    "slug": "aff-suzuki-cup-qualification-round",
+    "uniqueName": "AFF Suzuki Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 602
+  },
+  {
+    "id": 38152,
+    "order": 96,
+    "name": "Asian Games",
+    "slug": "asian-games-group-a",
+    "uniqueName": "Asian Games",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1862
+  },
+  {
+    "id": 5242,
+    "order": 87,
+    "name": "Asian Games Men's Round 2",
+    "slug": "asian-games-mens-round-2-group-a",
+    "uniqueName": "Asian Games Men's Round 2",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 474
+  },
+  {
+    "id": 38187,
+    "order": 80,
+    "name": "Asian Games Women",
+    "slug": "asian-games-women-group-a",
+    "uniqueName": "Asian Games Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1866
+  },
+  {
+    "id": 28612,
+    "order": 75,
+    "name": "East Asian Championship",
+    "slug": "east-asian-championship",
+    "uniqueName": "East Asian Championship",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 392
+  },
+  {
+    "id": 9970,
+    "order": 74,
+    "name": "Gulf Cup",
+    "slug": "gulf-cup",
+    "uniqueName": "Gulf Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 622
+  },
+  {
+    "id": 50183,
+    "order": 71,
+    "name": "SAFF Championship",
+    "slug": "saff-championship",
+    "uniqueName": "SAFF Championship",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2354
+  },
+  {
+    "id": 6245,
+    "order": 68,
+    "name": "WAFF Championship",
+    "slug": "waff-championship-final-round",
+    "uniqueName": "WAFF Championship",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 842
+  },
+  {
+    "id": 9431,
+    "order": 64,
+    "name": "U19 AFC Championship",
+    "slug": "u19-afc-championship",
+    "uniqueName": "U19 AFC Championship",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1890
+  },
+  {
+    "id": 11214,
+    "order": 59,
+    "name": "U19 AFC Championship, Women",
+    "slug": "u19-afc-championship-women",
+    "uniqueName": "U19 AFC Championship, Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2087
+  },
+  {
+    "id": 32490,
+    "order": 56,
+    "name": "U22 AFC Championship",
+    "slug": "u22-afc-championship-group-a",
+    "uniqueName": "U22 AFC Championship",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1610
+  },
+  {
+    "id": 50061,
+    "order": 51,
+    "name": "U23 AFC Championship",
+    "slug": "u23-afc-championship-group-a",
+    "uniqueName": "U23 AFC Championship",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2349
+  },
+  {
+    "id": 48684,
+    "order": 46,
+    "name": "U23 WAFF Championship",
+    "slug": "u23-waff-championship-group-a",
+    "uniqueName": "U23 WAFF Championship",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2157
+  }]
+},
+{
+  "countryName": "Austria",
+  "id": "austria",
+  "href": "https://www.sofascore.com/list/category/football/austria/tournaments/json",
+  "tournaments": [
+  {
+    "id": 29,
+    "order": 7,
+    "name": "Bundesliga",
+    "slug": "bundesliga",
+    "uniqueName": "Bundesliga",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 45
+  },
+  {
+    "id": 30,
+    "order": 6,
+    "name": "Erste Liga",
+    "slug": "erste-liga",
+    "uniqueName": "Erste Liga",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 135
+  },
+  {
+    "id": 69,
+    "order": 4,
+    "name": "ÖFB Cup",
+    "slug": "ofb-cup",
+    "uniqueName": "ÖFB Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 445
+  }]
+},
+{
+  "countryName": "Austria Amateur",
+  "id": "austria-amateur",
+  "href": "https://www.sofascore.com/list/category/football/austria-amateur/tournaments/json",
+  "tournaments": [
+  {
+    "id": 128,
+    "order": 27,
+    "name": "Regionalliga East",
+    "slug": "regionalliga-east",
+    "uniqueName": "Regionalliga East",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 166
+  },
+  {
+    "id": 129,
+    "order": 25,
+    "name": "Regionalliga West",
+    "slug": "regionalliga-west",
+    "uniqueName": "Regionalliga West",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 167
+  },
+  {
+    "id": 130,
+    "order": 24,
+    "name": "Regionalliga Centre",
+    "slug": "regionalliga-centre",
+    "uniqueName": "Regionalliga Centre",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 168
+  },
+  {
+    "id": 3718,
+    "order": 22,
+    "name": "Bundesliga, Women",
+    "slug": "bundesliga-women",
+    "uniqueName": "Bundesliga, Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 9415
+  }]
+},
+{
+  "countryName": "Azerbaijan",
+  "id": "azerbaijan",
+  "href": "https://www.sofascore.com/list/category/football/azerbaijan/tournaments/json",
+  "tournaments": [
+  {
+    "id": 12622,
+    "order": 8,
+    "name": "Premier League",
+    "slug": "premier-league-championship-round",
+    "uniqueName": "Premier League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 709
+  },
+  {
+    "id": 11067,
+    "order": 5,
+    "name": "First Division",
+    "slug": "1st-division",
+    "uniqueName": "First Division",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 736
+  },
+  {
+    "id": 5596,
+    "order": 4,
+    "name": "Azerbaijan Cup",
+    "slug": "azerbaijan-cup",
+    "uniqueName": "Azerbaijan Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 740
+  },
+  {
+    "id": 30522,
+    "order": 3,
+    "name": "Super Cup",
+    "slug": "super-cup",
+    "uniqueName": "Super Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1544
+  }]
+},
+{
+  "countryName": "Bolivia",
+  "id": "bolivia",
+  "href": "https://www.sofascore.com/list/category/football/bolivia/tournaments/json",
+  "tournaments": [
+  {
+    "id": 17141,
+    "order": 9,
+    "name": "Liga Profesional Boliviano",
+    "slug": "liga-profesional-boliviano-apertura-playoffs",
+    "uniqueName": "Liga Profesional Boliviano",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 866
+  }]
+},
+{
+  "countryName": "Bosnia & Herzegovina",
+  "id": "bosnia-herzegovina",
+  "href": "https://www.sofascore.com/list/category/football/bosnia-herzegovina/tournaments/json",
+  "tournaments": [
+  {
+    "id": 58598,
+    "order": 11,
+    "name": "Premijer Liga",
+    "slug": "premijer-liga-championship-round",
+    "uniqueName": "Premijer Liga",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 222
+  },
+  {
+    "id": 11270,
+    "order": 8,
+    "name": "Prva Liga, Federacije BiH",
+    "slug": "prva-liga-federacije-bih",
+    "uniqueName": "Prva Liga, Federacije BiH",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 716
+  },
+  {
+    "id": 52668,
+    "order": 7,
+    "name": "Prva Liga, Republike Srpske",
+    "slug": "prva-liga-republic-of-srpska-playoff",
+    "uniqueName": "Prva Liga, Republike Srpske",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 715
+  },
+  {
+    "id": 1237,
+    "order": 3,
+    "name": "Cup",
+    "slug": "cup",
+    "uniqueName": "Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 583
+  }]
+},
+{
+  "countryName": "Brazil",
+  "id": "brazil",
+  "href": "https://www.sofascore.com/list/category/football/brazil/tournaments/json",
+  "tournaments": [
+  {
+    "id": 83,
+    "order": 211,
+    "name": "Brasileiro Série A",
+    "slug": "brasileiro-serie-a",
+    "uniqueName": "Brasileiro Série A",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 325
+  },
+  {
+    "id": 1449,
+    "order": 210,
+    "name": "Brasileiro Série B",
+    "slug": "brasileiro-serie-b",
+    "uniqueName": "Brasileiro Série B",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 390
+  },
+  {
+    "id": 5115,
+    "order": 209,
+    "name": "Brasileiro Série C",
+    "slug": "brasileiro-serie-c-playoffs",
+    "uniqueName": "Brasileiro Série C",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1281
+  },
+  {
+    "id": 60508,
+    "order": 206,
+    "name": "Brasileiro Série D",
+    "slug": "brasileiro-serie-d-knockout-stage",
+    "uniqueName": "Brasileiro Série D",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10326
+  },
+  {
+    "id": 283,
+    "order": 188,
+    "name": "Copa do Brasil",
+    "slug": "copa-do-brasil",
+    "uniqueName": "Copa do Brasil",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 373
+  },
+  {
+    "id": 18866,
+    "order": 186,
+    "name": "Baiano",
+    "slug": "baiano-1-divisao-playoffs",
+    "uniqueName": "Baiano",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 374
+  },
+  {
+    "id": 58724,
+    "order": 182,
+    "name": "Carioca, Série A",
+    "slug": "carioca-serie-a-taca-rio-placement-matches",
+    "uniqueName": "Carioca, Série A",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 92
+  },
+  {
+    "id": 57299,
+    "order": 164,
+    "name": "Catarinense, Divisão Principal",
+    "slug": "catarinense-serie-a",
+    "uniqueName": "Catarinense, Divisão Principal",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 376
+  },
+  {
+    "id": 58262,
+    "order": 159,
+    "name": "Cearense, Série A",
+    "slug": "cearense-serie-a-playoffs",
+    "uniqueName": "Cearense, Série A",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 378
+  },
+  {
+    "id": 58699,
+    "order": 150,
+    "name": "Gaúcho",
+    "slug": "gaucho-playoffs",
+    "uniqueName": "Gaúcho",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 377
+  },
+  {
+    "id": 59009,
+    "order": 145,
+    "name": "Goiano, 1 Divisão",
+    "slug": "goiano-1-divisao-playoffs",
+    "uniqueName": "Goiano, 1 Divisão",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 381
+  },
+  {
+    "id": 58934,
+    "order": 141,
+    "name": "Mineiro, Módulo I",
+    "slug": "mineiro-modulo-i-playoffs",
+    "uniqueName": "Mineiro, Módulo I",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 379
+  },
+  {
+    "id": 58697,
+    "order": 137,
+    "name": "Paranaense, 1 Divisão",
+    "slug": "paranaense-1-divisao-playoffs",
+    "uniqueName": "Paranaense, 1 Divisão",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 382
+  },
+  {
+    "id": 58692,
+    "order": 131,
+    "name": "Paulista, Série A1",
+    "slug": "paulista-serie-a1-playoffs",
+    "uniqueName": "Paulista, Série A1",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 372
+  },
+  {
+    "id": 59116,
+    "order": 126,
+    "name": "Paulista, Série A2",
+    "slug": "paulista-serie-a2-playoffs-final",
+    "uniqueName": "Paulista, Série A2",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1234
+  },
+  {
+    "id": 7749,
+    "order": 120,
+    "name": "Paulista, Série A3",
+    "slug": "paulista-serie-a3",
+    "uniqueName": "Paulista, Série A3",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1614
+  },
+  {
+    "id": 58938,
+    "order": 114,
+    "name": "Pernambucano, Série A1",
+    "slug": "pernambucano-serie-a1-playoffs",
+    "uniqueName": "Pernambucano, Série A1",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 380
+  },
+  {
+    "id": 50866,
+    "order": 104,
+    "name": "Primeira Liga do Brasil",
+    "slug": "primeira-liga-do-brasil-knockout-stage",
+    "uniqueName": "Primeira Liga do Brasil",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2738
+  },
+  {
+    "id": 31972,
+    "order": 98,
+    "name": "Copa do Nordeste",
+    "slug": "copa-do-nordeste-knockout-stage",
+    "uniqueName": "Copa do Nordeste",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1596
+  },
+  {
+    "id": 42474,
+    "order": 92,
+    "name": "Copa Verde",
+    "slug": "copa-verde",
+    "uniqueName": "Copa Verde",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10158
+  },
+  {
+    "id": 53284,
+    "order": 91,
+    "name": "U20 Campeonato Brasileiro",
+    "slug": "u20-campeonato-brasileiro-group-a",
+    "uniqueName": "U20 Campeonato Brasileiro",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 9233
+  },
+  {
+    "id": 62617,
+    "order": 84,
+    "name": "U20 Paulista",
+    "slug": "u20-paulista-1st-division-playoffs",
+    "uniqueName": "U20 Paulista",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10308
+  },
+  {
+    "id": 42805,
+    "order": 79,
+    "name": "U20 Copa do Brasil",
+    "slug": "u20-copa-do-brasil",
+    "uniqueName": "U20 Copa do Brasil",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 9491
+  },
+  {
+    "id": 59830,
+    "order": 78,
+    "name": "Campeonato Brasileiro, Série A,  Women",
+    "slug": "campeonato-brasileiro-serie-a-women-playoffs",
+    "uniqueName": "Campeonato Brasileiro, Série A,  Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10257
+  },
+  {
+    "id": 17973,
+    "order": 74,
+    "name": "Copa Paulista",
+    "slug": "paulista-cup",
+    "uniqueName": "Copa Paulista",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10383
+  }]
+},
+{
+  "countryName": "Bulgaria",
+  "id": "bulgaria",
+  "href": "https://www.sofascore.com/list/category/football/bulgaria/tournaments/json",
+  "tournaments": [
+  {
+    "id": 33560,
+    "order": 24,
+    "name": "Parva Liga",
+    "slug": "parva-liga-championship-round",
+    "uniqueName": "Parva Liga",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 247
+  },
+  {
+    "id": 22259,
+    "order": 20,
+    "name": "Vtora Liga",
+    "slug": "vtora-liga",
+    "uniqueName": "Vtora Liga",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1135
+  },
+  {
+    "id": 377,
+    "order": 19,
+    "name": "Bulgarian Cup",
+    "slug": "bulgarian-cup",
+    "uniqueName": "Bulgarian Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 365
+  },
+  {
+    "id": 4647,
+    "order": 18,
+    "name": "Super Cup",
+    "slug": "super-cup",
+    "uniqueName": "Super Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 510
+  }]
+},
+{
+  "countryName": "Cameroon",
+  "id": "cameroon",
+  "href": "https://www.sofascore.com/list/category/football/cameroon/tournaments/json",
+  "tournaments": [
+  {
+    "id": 4712,
+    "order": 1,
+    "name": "Elite One",
+    "slug": "elite-one",
+    "uniqueName": "Elite One",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1006
+  }]
+},
+{
+  "countryName": "Canada",
+  "id": "canada",
+  "href": "https://www.sofascore.com/list/category/football/canada/tournaments/json",
+  "tournaments": [
+  {
+    "id": 4707,
+    "order": 5,
+    "name": "Canadian Soccer League",
+    "slug": "canadian-soccer-league",
+    "uniqueName": "Canadian Soccer League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 482
+  },
+  {
+    "id": 8317,
+    "order": 3,
+    "name": "Canadian Championship",
+    "slug": "canadian-championship",
+    "uniqueName": "Canadian Championship",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 9230
+  }]
+},
+{
+  "countryName": "Colombia",
+  "id": "colombia",
+  "href": "https://www.sofascore.com/list/category/football/colombia/tournaments/json",
+  "tournaments": [
+  {
+    "id": 42492,
+    "order": 36,
+    "name": "Primera A",
+    "slug": "primera-a-grand-final",
+    "uniqueName": "Primera A",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 241
+  },
+  {
+    "id": 59570,
+    "order": 25,
+    "name": "Primera B",
+    "slug": "primera-b-apertura-playoffs",
+    "uniqueName": "Primera B",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1238
+  },
+  {
+    "id": 21773,
+    "order": 10,
+    "name": "Super Liga Aguila Cup",
+    "slug": "super-cup",
+    "uniqueName": "Super Liga Aguila Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10756
+  },
+  {
+    "id": 5269,
+    "order": 9,
+    "name": "Copa Colombia",
+    "slug": "copa-colombia-knockout-stage",
+    "uniqueName": "Copa Colombia",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1335
+  }]
+},
+{
+  "countryName": "Congo Republic",
+  "id": "congo-republic",
+  "href": "https://www.sofascore.com/list/category/football/congo-republic/tournaments/json",
+  "tournaments": [
+  {
+    "id": 64524,
+    "order": 1,
+    "name": "Premier League",
+    "slug": "premier-league",
+    "uniqueName": "Premier League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10784
+  }]
+},
+{
+  "countryName": "Costa Rica",
+  "id": "costa-rica",
+  "href": "https://www.sofascore.com/list/category/football/costa-rica/tournaments/json",
+  "tournaments": [
+  {
+    "id": 59032,
+    "order": 10,
+    "name": "Primera División",
+    "slug": "primera-division-clausura-ch-round",
+    "uniqueName": "Primera División",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 84
+  }]
+},
+{
+  "countryName": "Croatia",
+  "id": "croatia",
+  "href": "https://www.sofascore.com/list/category/football/croatia/tournaments/json",
+  "tournaments": [
+  {
+    "id": 48,
+    "order": 10,
+    "name": "1. HNL",
+    "slug": "1-hnl",
+    "uniqueName": "1. HNL",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 170
+  },
+  {
+    "id": 4772,
+    "order": 8,
+    "name": "2. HNL",
+    "slug": "2-hnl",
+    "uniqueName": "2. HNL",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 724
+  },
+  {
+    "id": 170,
+    "order": 7,
+    "name": "Croatian Cup",
+    "slug": "croatia-cup",
+    "uniqueName": "Croatian Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 307
+  },
+  {
+    "id": 2235,
+    "order": 6,
+    "name": "Super Cup",
+    "slug": "super-cup",
+    "uniqueName": "Super Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 800
+  }]
+},
+{
+  "countryName": "Cyprus",
+  "id": "cyprus",
+  "href": "https://www.sofascore.com/list/category/football/cyprus/tournaments/json",
+  "tournaments": [
+  {
+    "id": 34363,
+    "order": 16,
+    "name": "1st Division",
+    "slug": "1st-division-championship-group",
+    "uniqueName": "1st Division",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 171
+  },
+  {
+    "id": 30022,
+    "order": 9,
+    "name": "2nd Division",
+    "slug": "2nd-division-b1",
+    "uniqueName": "2nd Division",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 692
+  },
+  {
+    "id": 838,
+    "order": 6,
+    "name": "Cyprus Cup",
+    "slug": "cyprus-cup",
+    "uniqueName": "Cyprus Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 315
+  },
+  {
+    "id": 6535,
+    "order": 3,
+    "name": "Super Cup",
+    "slug": "super-cup",
+    "uniqueName": "Super Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 550
+  }]
+},
+{
+  "countryName": "Czech Republic",
+  "id": "czech-republic",
+  "href": "https://www.sofascore.com/list/category/football/czech-republic/tournaments/json",
+  "tournaments": [
+  {
+    "id": 49,
+    "order": 31,
+    "name": "1. Liga",
+    "slug": "1-liga",
+    "uniqueName": "1. Liga",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 172
+  },
+  {
+    "id": 843,
+    "order": 30,
+    "name": "FNL",
+    "slug": "fnl",
+    "uniqueName": "FNL",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 205
+  },
+  {
+    "id": 5900,
+    "order": 29,
+    "name": "CFL",
+    "slug": "czech-football-league",
+    "uniqueName": "CFL",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 9387
+  },
+  {
+    "id": 4294,
+    "order": 28,
+    "name": "MSFL",
+    "slug": "moravia-silesia-football-league",
+    "uniqueName": "MSFL",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 9386
+  },
+  {
+    "id": 190,
+    "order": 27,
+    "name": "Cup",
+    "slug": "cup",
+    "uniqueName": "Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 282
+  },
+  {
+    "id": 13214,
+    "order": 26,
+    "name": "Super Cup",
+    "slug": "super-cup",
+    "uniqueName": "Super Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 798
+  },
+  {
+    "id": 5740,
+    "order": 25,
+    "name": "1. Liga, Women",
+    "slug": "1-liga-women",
+    "uniqueName": "1. Liga, Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 823
+  },
+  {
+    "id": 24183,
+    "order": 21,
+    "name": "Winter League",
+    "slug": "winter-league-group-a",
+    "uniqueName": "Winter League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1224
+  },
+  {
+    "id": 10752,
+    "order": 14,
+    "name": "U19 1st Division",
+    "slug": "u19-1st-division",
+    "uniqueName": "U19 1st Division",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 822
+  },
+  {
+    "id": 22129,
+    "order": 12,
+    "name": "U21",
+    "slug": "u21",
+    "uniqueName": "U21",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1303
+  },
+  {
+    "id": 60957,
+    "order": 11,
+    "name": "U21, Bohemia Group",
+    "slug": "u21-bohemia-group",
+    "uniqueName": "U21, Bohemia Group",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10432
+  },
+  {
+    "id": 60958,
+    "order": 10,
+    "name": "U21, Moravia Group",
+    "slug": "u21-moravia-group",
+    "uniqueName": "U21, Moravia Group",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10433
+  }]
+},
+{
+  "countryName": "Denmark",
+  "id": "denmark",
+  "href": "https://www.sofascore.com/list/category/football/denmark/tournaments/json",
+  "tournaments": [
+  {
+    "id": 59452,
+    "order": 20,
+    "name": "Superligaen",
+    "slug": "superligaen-european-playoffs",
+    "uniqueName": "Superligaen",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 39
+  },
+  {
+    "id": 13,
+    "order": 14,
+    "name": "1st Division",
+    "slug": "1st-division",
+    "uniqueName": "1st Division",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 47
+  },
+  {
+    "id": 50058,
+    "order": 13,
+    "name": "2nd Division",
+    "slug": "2nd-division-championship-group",
+    "uniqueName": "2nd Division",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 65
+  },
+  {
+    "id": 15,
+    "order": 5,
+    "name": "DBU Pokalen",
+    "slug": "dbu-pokalen",
+    "uniqueName": "DBU Pokalen",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 76
+  },
+  {
+    "id": 58896,
+    "order": 4,
+    "name": "Elitedivisionen, Women",
+    "slug": "elitedivisionen-women-championship-round",
+    "uniqueName": "Elitedivisionen, Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 9412
+  }]
+},
+{
+  "countryName": "Ecuador",
+  "id": "ecuador",
+  "href": "https://www.sofascore.com/list/category/football/ecuador/tournaments/json",
+  "tournaments": [
+  {
+    "id": 16888,
+    "order": 6,
+    "name": "Serie A",
+    "slug": "serie-a-playoffs",
+    "uniqueName": "Serie A",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 240
+  }]
+},
+{
+  "countryName": "Egypt",
+  "id": "egypt",
+  "href": "https://www.sofascore.com/list/category/football/egypt/tournaments/json",
+  "tournaments": [
+  {
+    "id": 36552,
+    "order": 10,
+    "name": "Premier League",
+    "slug": "premier-league-championship-round",
+    "uniqueName": "Premier League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 808
+  },
+  {
+    "id": 4480,
+    "order": 4,
+    "name": "Egypt Cup",
+    "slug": "egypt-cup",
+    "uniqueName": "Egypt Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2305
+  }]
+},
+{
+  "countryName": "El Salvador",
+  "id": "el-salvador",
+  "href": "https://www.sofascore.com/list/category/football/el-salvador/tournaments/json",
+  "tournaments": [
+  {
+    "id": 17144,
+    "order": 4,
+    "name": "Primera División",
+    "slug": "primera-division-apertura-playoffs",
+    "uniqueName": "Primera División",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1081
+  }]
+},
+{
+  "countryName": "England",
+  "id": "england",
+  "href": "https://www.sofascore.com/list/category/football/england/tournaments/json",
+  "tournaments": [
+  {
+    "id": 1,
+    "order": 16,
+    "name": "Premier League",
+    "slug": "premier-league",
+    "uniqueName": "Premier League",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 17
+  },
+  {
+    "id": 2,
+    "order": 15,
+    "name": "Championship",
+    "slug": "championship",
+    "uniqueName": "Championship",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 18
+  },
+  {
+    "id": 3,
+    "order": 13,
+    "name": "League One",
+    "slug": "league-one",
+    "uniqueName": "League One",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 24
+  },
+  {
+    "id": 84,
+    "order": 11,
+    "name": "League Two",
+    "slug": "league-two",
+    "uniqueName": "League Two",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 25
+  },
+  {
+    "id": 72,
+    "order": 9,
+    "name": "National League",
+    "slug": "national-league",
+    "uniqueName": "National League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 173
+  },
+  {
+    "id": 16,
+    "order": 7,
+    "name": "FA Cup",
+    "slug": "fa-cup",
+    "uniqueName": "FA Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 19
+  },
+  {
+    "id": 34954,
+    "order": 6,
+    "name": "FA Cup, Qualification",
+    "slug": "fa-cup-qualification",
+    "uniqueName": "FA Cup, Qualification",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1696
+  },
+  {
+    "id": 17,
+    "order": 5,
+    "name": "EFL Cup",
+    "slug": "efl-cup",
+    "uniqueName": "EFL Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 21
+  },
+  {
+    "id": 161,
+    "order": 4,
+    "name": "Football League Trophy",
+    "slug": "football-league-trophy",
+    "uniqueName": "Football League Trophy",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 334
+  },
+  {
+    "id": 1307,
+    "order": 3,
+    "name": "Community Shield",
+    "slug": "community-shield",
+    "uniqueName": "Community Shield",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 346
+  }]
+},
+{
+  "countryName": "England Amateur",
+  "id": "england-amateur",
+  "href": "https://www.sofascore.com/list/category/football/england-amateur/tournaments/json",
+  "tournaments": [
+  {
+    "id": 2348,
+    "order": 55,
+    "name": "National League North",
+    "slug": "national-league-north",
+    "uniqueName": "National League North",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 176
+  },
+  {
+    "id": 2349,
+    "order": 53,
+    "name": "National League South",
+    "slug": "national-league-south",
+    "uniqueName": "National League South",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 174
+  },
+  {
+    "id": 968,
+    "order": 51,
+    "name": "Isthmian Football League, Premier Division",
+    "slug": "isthmian-football-league-premier-division",
+    "uniqueName": "Isthmian Football League, Premier Division",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1131
+  },
+  {
+    "id": 966,
+    "order": 48,
+    "name": "Northern Premier League, Premier Division",
+    "slug": "northern-premier-league-premier-division",
+    "uniqueName": "Northern Premier League, Premier Division",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1111
+  },
+  {
+    "id": 2396,
+    "order": 46,
+    "name": "Southern Football League, Premier Division",
+    "slug": "southern-football-league-premier-division",
+    "uniqueName": "Southern Football League, Premier Division",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1113
+  },
+  {
+    "id": 29004,
+    "order": 40,
+    "name": "Premier League 2",
+    "slug": "u21-premier-league",
+    "uniqueName": "Premier League 2",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1129
+  },
+  {
+    "id": 30716,
+    "order": 27,
+    "name": "Premier League Cup",
+    "slug": "premier-league-cup",
+    "uniqueName": "Premier League Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1592
+  },
+  {
+    "id": 231,
+    "order": 26,
+    "name": "FA Trophy",
+    "slug": "fa-trophy",
+    "uniqueName": "FA Trophy",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 628
+  },
+  {
+    "id": 15635,
+    "order": 25,
+    "name": "The FA Women's Super League",
+    "slug": "the-fa-womens-super-league",
+    "uniqueName": "The FA Women's Super League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1044
+  }]
+},
+{
+  "countryName": "Estonia",
+  "id": "estonia",
+  "href": "https://www.sofascore.com/list/category/football/estonia/tournaments/json",
+  "tournaments": [
+  {
+    "id": 618,
+    "order": 13,
+    "name": "Premium Liiga",
+    "slug": "premium-liiga",
+    "uniqueName": "Premium Liiga",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 178
+  },
+  {
+    "id": 8849,
+    "order": 11,
+    "name": "Esiliiga",
+    "slug": "esiliiga",
+    "uniqueName": "Esiliiga",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 678
+  },
+  {
+    "id": 3069,
+    "order": 9,
+    "name": "Cup",
+    "slug": "cup",
+    "uniqueName": "Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 731
+  },
+  {
+    "id": 3011,
+    "order": 8,
+    "name": "Super Cup",
+    "slug": "super-cup",
+    "uniqueName": "Super Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 356
+  }]
+},
+{
+  "countryName": "Europe",
+  "id": "europe",
+  "href": "https://www.sofascore.com/list/category/football/europe/tournaments/json",
+  "tournaments": [
+  {
+    "id": 23,
+    "order": 258,
+    "name": "UEFA Champions League",
+    "slug": "uefa-champions-league",
+    "uniqueName": "UEFA Champions League",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 7
+  },
+  {
+    "id": 10908,
+    "order": 248,
+    "name": "UEFA Europa League",
+    "slug": "uefa-europa-league-group-a",
+    "uniqueName": "UEFA Europa League",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 679
+  },
+  {
+    "id": 64387,
+    "order": 234,
+    "name": "UEFA Nations League",
+    "slug": "uefa-nations-league-league-a-gr-1",
+    "uniqueName": "UEFA Nations League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10783
+  },
+  {
+    "id": 1757,
+    "order": 218,
+    "name": "World Cup Qual. UEFA",
+    "slug": "world-cup-qual-uefa-group-a",
+    "uniqueName": "World Cup Qual. UEFA",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 11
+  },
+  {
+    "id": 680,
+    "order": 207,
+    "name": "UEFA Super Cup",
+    "slug": "uefa-super-cup",
+    "uniqueName": "UEFA Super Cup",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 465
+  },
+  {
+    "id": 11392,
+    "order": 206,
+    "name": "UEFA Champions League, Women",
+    "slug": "uefa-champions-league-women",
+    "uniqueName": "UEFA Champions League, Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 696
+  },
+  {
+    "id": 47389,
+    "order": 195,
+    "name": "UEFA Youth League",
+    "slug": "uefa-youth-league-group-a",
+    "uniqueName": "UEFA Youth League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2132
+  },
+  {
+    "id": 16277,
+    "order": 177,
+    "name": "Audi Cup",
+    "slug": "audi-cup",
+    "uniqueName": "Audi Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 886
+  },
+  {
+    "id": 2137,
+    "order": 176,
+    "name": "Euro Cup",
+    "slug": "euro-cup",
+    "uniqueName": "Euro Cup",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1
+  },
+  {
+    "id": 666,
+    "order": 169,
+    "name": "Euro Cup Qualification",
+    "slug": "euro-cup-qualification-playoffs",
+    "uniqueName": "Euro Cup Qualification",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 27
+  },
+  {
+    "id": 3293,
+    "order": 158,
+    "name": "Euro Cup Women",
+    "slug": "womens-euro-knockout-stage",
+    "uniqueName": "Euro Cup Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 477
+  },
+  {
+    "id": 15878,
+    "order": 153,
+    "name": "Euro Cup Women Qual.",
+    "slug": "womens-euro-qualification-group-1",
+    "uniqueName": "Euro Cup Women Qual.",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 878
+  },
+  {
+    "id": 12678,
+    "order": 142,
+    "name": "World Cup Women Qual.",
+    "slug": "world-cup-qualification-women-uefa-group-1",
+    "uniqueName": "World Cup Women Qual.",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 780
+  },
+  {
+    "id": 7952,
+    "order": 132,
+    "name": "U17 European Championship",
+    "slug": "u17-european-championship-group-a",
+    "uniqueName": "U17 European Championship",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 429
+  },
+  {
+    "id": 11877,
+    "order": 127,
+    "name": "U17 European Championship, Qual.",
+    "slug": "u17-european-championship-elite-round-gr-1",
+    "uniqueName": "U17 European Championship, Qual.",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 755
+  },
+  {
+    "id": 6997,
+    "order": 106,
+    "name": "U17 European Womens Championship",
+    "slug": "u17-european-womens-championship-knockout-stage",
+    "uniqueName": "U17 European Womens Championship",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 917
+  },
+  {
+    "id": 11946,
+    "order": 103,
+    "name": "U17 Euro Womens, Qual",
+    "slug": "u17-european-womens-championship-2nd-qual-gr-1",
+    "uniqueName": "U17 Euro Womens, Qual",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 753
+  },
+  {
+    "id": 15695,
+    "order": 86,
+    "name": "U18 Slovakia Cup",
+    "slug": "u18-slovakia-cup-final-round",
+    "uniqueName": "U18 Slovakia Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1052
+  },
+  {
+    "id": 2248,
+    "order": 82,
+    "name": "U19 European Championship",
+    "slug": "u19-european-championship-knockout-stage",
+    "uniqueName": "U19 European Championship",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 258
+  },
+  {
+    "id": 6113,
+    "order": 78,
+    "name": "U19 European Championship Qualif.",
+    "slug": "u19-european-championship-qualif-gr-1",
+    "uniqueName": "U19 European Championship Qualif.",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 748
+  },
+  {
+    "id": 13021,
+    "order": 58,
+    "name": "U19 European Women's Championship",
+    "slug": "u19-european-womens-championship-knockout-phase",
+    "uniqueName": "U19 European Women's Championship",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 695
+  },
+  {
+    "id": 11936,
+    "order": 55,
+    "name": "U19 European Women's Championship Qualif.",
+    "slug": "u19-european-womens-championship-2nd-qual-gr-1",
+    "uniqueName": "U19 European Women's Championship Qualif.",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 746
+  },
+  {
+    "id": 4837,
+    "order": 38,
+    "name": "U21 European Championship",
+    "slug": "u21-european-championship",
+    "uniqueName": "U21 European Championship",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 454
+  },
+  {
+    "id": 6160,
+    "order": 34,
+    "name": "U21 Euro Qualification",
+    "slug": "u21-euro-qualification-group-1",
+    "uniqueName": "U21 Euro Qualification",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 26
+  }]
+},
+{
+  "countryName": "Faroe Islands",
+  "id": "faroe-islands",
+  "href": "https://www.sofascore.com/list/category/football/faroe-islands/tournaments/json",
+  "tournaments": [
+  {
+    "id": 2006,
+    "order": 3,
+    "name": "Premier League",
+    "slug": "premier-league",
+    "uniqueName": "Premier League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 673
+  },
+  {
+    "id": 7959,
+    "order": 2,
+    "name": "1. deild",
+    "slug": "1-deild",
+    "uniqueName": "1. deild",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 674
+  },
+  {
+    "id": 2039,
+    "order": 1,
+    "name": "Cup",
+    "slug": "cup",
+    "uniqueName": "Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 779
+  }]
+},
+{
+  "countryName": "France",
+  "id": "france",
+  "href": "https://www.sofascore.com/list/category/football/france/tournaments/json",
+  "tournaments": [
+  {
+    "id": 4,
+    "order": 29,
+    "name": "Ligue 1",
+    "slug": "ligue-1",
+    "uniqueName": "Ligue 1",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 34
+  },
+  {
+    "id": 19,
+    "order": 26,
+    "name": "Ligue 2",
+    "slug": "ligue-2",
+    "uniqueName": "Ligue 2",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 182
+  },
+  {
+    "id": 950,
+    "order": 25,
+    "name": "National",
+    "slug": "national",
+    "uniqueName": "National",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 183
+  },
+  {
+    "id": 77,
+    "order": 24,
+    "name": "Coupe de France",
+    "slug": "coupe-de-france",
+    "uniqueName": "Coupe de France",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 335
+  },
+  {
+    "id": 884,
+    "order": 23,
+    "name": "Coupe de la Ligue",
+    "slug": "coupe-de-la-ligue",
+    "uniqueName": "Coupe de la Ligue",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 333
+  },
+  {
+    "id": 1356,
+    "order": 22,
+    "name": "Trophée des Champions",
+    "slug": "trophee-des-champions",
+    "uniqueName": "Trophée des Champions",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 339
+  },
+  {
+    "id": 5397,
+    "order": 21,
+    "name": "Division 1, Feminines",
+    "slug": "division-1-women",
+    "uniqueName": "Division 1, Feminines",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1139
+  }]
+},
+{
+  "countryName": "Germany",
+  "id": "germany",
+  "href": "https://www.sofascore.com/list/category/football/germany/tournaments/json",
+  "tournaments": [
+  {
+    "id": 42,
+    "order": 9,
+    "name": "Bundesliga",
+    "slug": "bundesliga",
+    "uniqueName": "Bundesliga",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 35
+  },
+  {
+    "id": 41,
+    "order": 7,
+    "name": "2. Bundesliga",
+    "slug": "2-bundesliga",
+    "uniqueName": "2. Bundesliga",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 44
+  },
+  {
+    "id": 8343,
+    "order": 5,
+    "name": "3. Liga",
+    "slug": "3rd-liga",
+    "uniqueName": "3. Liga",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 491
+  },
+  {
+    "id": 43,
+    "order": 4,
+    "name": "DFB Pokal",
+    "slug": "dfb-pokal",
+    "uniqueName": "DFB Pokal",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 217
+  },
+  {
+    "id": 6456,
+    "order": 3,
+    "name": "Super Cup",
+    "slug": "super-cup",
+    "uniqueName": "Super Cup",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 799
+  },
+  {
+    "id": 16527,
+    "order": 2,
+    "name": "Telekom Cup",
+    "slug": "telekom-cup",
+    "uniqueName": "Telekom Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 889
+  }]
+},
+{
+  "countryName": "Germany Amateur",
+  "id": "germany-amateur",
+  "href": "https://www.sofascore.com/list/category/football/germany-amateur/tournaments/json",
+  "tournaments": [
+  {
+    "id": 21299,
+    "order": 73,
+    "name": "Regionalliga Bayern",
+    "slug": "regionalliga-bayern",
+    "uniqueName": "Regionalliga Bayern",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1085
+  },
+  {
+    "id": 44,
+    "order": 71,
+    "name": "Regionalliga Nord",
+    "slug": "regionalliga-nord",
+    "uniqueName": "Regionalliga Nord",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 42
+  },
+  {
+    "id": 21301,
+    "order": 69,
+    "name": "Regionalliga Nordost",
+    "slug": "regionalliga-nordost",
+    "uniqueName": "Regionalliga Nordost",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1083
+  },
+  {
+    "id": 8364,
+    "order": 68,
+    "name": "Regionalliga West",
+    "slug": "regionalliga-west",
+    "uniqueName": "Regionalliga West",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 493
+  },
+  {
+    "id": 21300,
+    "order": 67,
+    "name": "Regionalliga Südwest",
+    "slug": "regionalliga-sudwest",
+    "uniqueName": "Regionalliga Südwest",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1079
+  },
+  {
+    "id": 21602,
+    "order": 64,
+    "name": "Bayernliga Nord",
+    "slug": "bayernliga-nord",
+    "uniqueName": "Bayernliga Nord",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1089
+  },
+  {
+    "id": 21603,
+    "order": 63,
+    "name": "Bayernliga Süd",
+    "slug": "bayernliga-sud",
+    "uniqueName": "Bayernliga Süd",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1091
+  },
+  {
+    "id": 8542,
+    "order": 61,
+    "name": "Bremen-Liga",
+    "slug": "bremen-liga",
+    "uniqueName": "Bremen-Liga",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 508
+  },
+  {
+    "id": 757,
+    "order": 60,
+    "name": "Hessenliga",
+    "slug": "hessenliga",
+    "uniqueName": "Hessenliga",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 184
+  },
+  {
+    "id": 755,
+    "order": 58,
+    "name": "Oberliga Baden Wuerttemberg",
+    "slug": "oberliga-baden-wuerttemberg",
+    "uniqueName": "Oberliga Baden Wuerttemberg",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 142
+  },
+  {
+    "id": 1384,
+    "order": 57,
+    "name": "Oberliga Hamburg",
+    "slug": "oberliga-hamburg",
+    "uniqueName": "Oberliga Hamburg",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 509
+  },
+  {
+    "id": 21682,
+    "order": 55,
+    "name": "Oberliga Mittelrhein",
+    "slug": "oberliga-mittelrhein",
+    "uniqueName": "Oberliga Mittelrhein",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1105
+  },
+  {
+    "id": 21678,
+    "order": 54,
+    "name": "Oberliga Niederrhein",
+    "slug": "oberliga-niederrhein",
+    "uniqueName": "Oberliga Niederrhein",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1103
+  },
+  {
+    "id": 13049,
+    "order": 53,
+    "name": "Oberliga Niedersachsen",
+    "slug": "oberliga-niedersachsen-rel-pro-round-gr-a",
+    "uniqueName": "Oberliga Niedersachsen",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 813
+  },
+  {
+    "id": 686,
+    "order": 48,
+    "name": "Oberliga NOFV Nord",
+    "slug": "oberliga-nofv-nord",
+    "uniqueName": "Oberliga NOFV Nord",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 145
+  },
+  {
+    "id": 685,
+    "order": 46,
+    "name": "Oberliga NOFV Süd",
+    "slug": "oberliga-nofv-sud",
+    "uniqueName": "Oberliga NOFV Süd",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 150
+  },
+  {
+    "id": 21745,
+    "order": 43,
+    "name": "Oberliga Rheinland-Pfalz/Saar",
+    "slug": "oberliga-rheinland-pfalzsaar",
+    "uniqueName": "Oberliga Rheinland-Pfalz/Saar",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1109
+  },
+  {
+    "id": 779,
+    "order": 42,
+    "name": "Oberliga Westfalen",
+    "slug": "oberliga-westfalen",
+    "uniqueName": "Oberliga Westfalen",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 146
+  },
+  {
+    "id": 759,
+    "order": 41,
+    "name": "Schleswig-Holstein-Liga",
+    "slug": "schleswig-holstein-liga",
+    "uniqueName": "Schleswig-Holstein-Liga",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 512
+  },
+  {
+    "id": 810,
+    "order": 40,
+    "name": "Women Bundesliga",
+    "slug": "bundesliga-women",
+    "uniqueName": "Women Bundesliga",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 232
+  },
+  {
+    "id": 46927,
+    "order": 39,
+    "name": "2. Bundesliga, Women",
+    "slug": "2-bundesliga-women-group-north",
+    "uniqueName": "2. Bundesliga, Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2288
+  },
+  {
+    "id": 11022,
+    "order": 37,
+    "name": "DFB Pokal, Women",
+    "slug": "dfb-pokal-women",
+    "uniqueName": "DFB Pokal, Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 686
+  },
+  {
+    "id": 15116,
+    "order": 36,
+    "name": "Bundesliga Cup Women",
+    "slug": "bundesliga-cup-women-group-a",
+    "uniqueName": "Bundesliga Cup Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 872
+  },
+  {
+    "id": 5862,
+    "order": 34,
+    "name": "A-Jun-BL N/N-E",
+    "slug": "a-jun-bl-nn-e",
+    "uniqueName": "A-Jun-BL N/N-E",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 809
+  },
+  {
+    "id": 12790,
+    "order": 32,
+    "name": "A-Jun-BL S/S-W",
+    "slug": "a-jun-bl-ss-w",
+    "uniqueName": "A-Jun-BL S/S-W",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 811
+  },
+  {
+    "id": 12789,
+    "order": 31,
+    "name": "A-Jun-BL West",
+    "slug": "a-jun-bl-west",
+    "uniqueName": "A-Jun-BL West",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 810
+  }]
+},
+{
+  "countryName": "Ghana",
+  "id": "ghana",
+  "href": "https://www.sofascore.com/list/category/football/ghana/tournaments/json",
+  "tournaments": [
+  {
+    "id": 9949,
+    "order": 2,
+    "name": "Premier League",
+    "slug": "premier-league",
+    "uniqueName": "Premier League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1191
+  },
+  {
+    "id": 41485,
+    "order": 1,
+    "name": "FA Cup",
+    "slug": "fa-cup",
+    "uniqueName": "FA Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2303
+  }]
+},
+{
+  "countryName": "Greece",
+  "id": "greece",
+  "href": "https://www.sofascore.com/list/category/football/greece/tournaments/json",
+  "tournaments": [
+  {
+    "id": 127,
+    "order": 58,
+    "name": "Super League",
+    "slug": "super-league",
+    "uniqueName": "Super League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 185
+  },
+  {
+    "id": 1094,
+    "order": 54,
+    "name": "Football League",
+    "slug": "football-league-group-1",
+    "uniqueName": "Football League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 186
+  },
+  {
+    "id": 29986,
+    "order": 48,
+    "name": "3rd League",
+    "slug": "3rd-league-group-1",
+    "uniqueName": "3rd League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1448
+  },
+  {
+    "id": 230,
+    "order": 40,
+    "name": "Greece Cup",
+    "slug": "greece-cup-knockout-stage",
+    "uniqueName": "Greece Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 375
+  },
+  {
+    "id": 30008,
+    "order": 30,
+    "name": "Cup of 3rd League",
+    "slug": "cup-of-3rd-league-1st-group",
+    "uniqueName": "Cup of 3rd League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1462
+  },
+  {
+    "id": 40247,
+    "order": 23,
+    "name": "U20 Super League",
+    "slug": "greece-u20-league",
+    "uniqueName": "U20 Super League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 9414
+  },
+  {
+    "id": 40248,
+    "order": 22,
+    "name": "Super League, Women",
+    "slug": "super-league-women",
+    "uniqueName": "Super League, Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10609
+  }]
+},
+{
+  "countryName": "Guatemala",
+  "id": "guatemala",
+  "href": "https://www.sofascore.com/list/category/football/guatemala/tournaments/json",
+  "tournaments": [
+  {
+    "id": 16685,
+    "order": 5,
+    "name": "Liga Nacional",
+    "slug": "liga-nacional-clausura-playoffs",
+    "uniqueName": "Liga Nacional",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 177
+  }]
+},
+{
+  "countryName": "Honduras",
+  "id": "honduras",
+  "href": "https://www.sofascore.com/list/category/football/honduras/tournaments/json",
+  "tournaments": [
+  {
+    "id": 17035,
+    "order": 5,
+    "name": "Liga Nacional",
+    "slug": "liga-nacional-clausura-playoffs",
+    "uniqueName": "Liga Nacional",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 925
+  }]
+},
+{
+  "countryName": "Hong Kong",
+  "id": "hong-kong",
+  "href": "https://www.sofascore.com/list/category/football/hong-kong/tournaments/json",
+  "tournaments": [
+  {
+    "id": 3973,
+    "order": 11,
+    "name": "Premier League",
+    "slug": "premier-league",
+    "uniqueName": "Premier League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 947
+  },
+  {
+    "id": 8203,
+    "order": 9,
+    "name": "FA Cup",
+    "slug": "fa-cup",
+    "uniqueName": "FA Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10291
+  }]
+},
+{
+  "countryName": "Hungary",
+  "id": "hungary",
+  "href": "https://www.sofascore.com/list/category/football/hungary/tournaments/json",
+  "tournaments": [
+  {
+    "id": 50,
+    "order": 26,
+    "name": "NB I",
+    "slug": "nb-i",
+    "uniqueName": "NB I",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 187
+  },
+  {
+    "id": 28609,
+    "order": 25,
+    "name": "NB II",
+    "slug": "nb-ii",
+    "uniqueName": "NB II",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1339
+  },
+  {
+    "id": 3430,
+    "order": 24,
+    "name": "Super Cup",
+    "slug": "super-cup",
+    "uniqueName": "Super Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 446
+  },
+  {
+    "id": 227,
+    "order": 23,
+    "name": "Magyar Kupa",
+    "slug": "magyar-cup",
+    "uniqueName": "Magyar Kupa",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 305
+  },
+  {
+    "id": 6623,
+    "order": 22,
+    "name": "Liga Kupa",
+    "slug": "liga-kupa-group-a",
+    "uniqueName": "Liga Kupa",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 269
+  }]
+},
+{
+  "countryName": "Iceland",
+  "id": "iceland",
+  "href": "https://www.sofascore.com/list/category/football/iceland/tournaments/json",
+  "tournaments": [
+  {
+    "id": 102,
+    "order": 37,
+    "name": "Urvalsdeild",
+    "slug": "urvalsdeild",
+    "uniqueName": "Urvalsdeild",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 188
+  },
+  {
+    "id": 582,
+    "order": 36,
+    "name": "1. deild",
+    "slug": "1-deild",
+    "uniqueName": "1. deild",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 675
+  },
+  {
+    "id": 1228,
+    "order": 35,
+    "name": "2. deild",
+    "slug": "2-deild",
+    "uniqueName": "2. deild",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10309
+  },
+  {
+    "id": 628,
+    "order": 34,
+    "name": "Bikarinn",
+    "slug": "bikarinn",
+    "uniqueName": "Bikarinn",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 504
+  },
+  {
+    "id": 15048,
+    "order": 33,
+    "name": "League Cup A",
+    "slug": "league-cup-a-group-1",
+    "uniqueName": "League Cup A",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2056
+  },
+  {
+    "id": 12830,
+    "order": 28,
+    "name": "Super Cup",
+    "slug": "super-cup",
+    "uniqueName": "Super Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 786
+  },
+  {
+    "id": 6213,
+    "order": 27,
+    "name": "Urvalsdeild, Women",
+    "slug": "urvalsdeild-women",
+    "uniqueName": "Urvalsdeild, Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10307
+  }]
+},
+{
+  "countryName": "India",
+  "id": "india",
+  "href": "https://www.sofascore.com/list/category/football/india/tournaments/json",
+  "tournaments": [
+  {
+    "id": 38566,
+    "order": 24,
+    "name": "Indian Super League",
+    "slug": "indian-super-league",
+    "uniqueName": "Indian Super League",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1900
+  },
+  {
+    "id": 4052,
+    "order": 22,
+    "name": "I-League",
+    "slug": "i-league",
+    "uniqueName": "I-League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 848
+  }]
+},
+{
+  "countryName": "Indonesia",
+  "id": "indonesia",
+  "href": "https://www.sofascore.com/list/category/football/indonesia/tournaments/json",
+  "tournaments": [
+  {
+    "id": 4113,
+    "order": 7,
+    "name": "Liga 1",
+    "slug": "liga-1",
+    "uniqueName": "Liga 1",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1015
+  }]
+},
+{
+  "countryName": "Iran",
+  "id": "iran",
+  "href": "https://www.sofascore.com/list/category/football/iran/tournaments/json",
+  "tournaments": [
+  {
+    "id": 3625,
+    "order": 2,
+    "name": "Persian Gulf League",
+    "slug": "persian-gulf-league",
+    "uniqueName": "Persian Gulf League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 915
+  }]
+},
+{
+  "countryName": "Ireland",
+  "id": "ireland",
+  "href": "https://www.sofascore.com/list/category/football/ireland/tournaments/json",
+  "tournaments": [
+  {
+    "id": 79,
+    "order": 22,
+    "name": "Premier Division",
+    "slug": "premier-division",
+    "uniqueName": "Premier Division",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 192
+  },
+  {
+    "id": 718,
+    "order": 20,
+    "name": "First Division",
+    "slug": "first-division",
+    "uniqueName": "First Division",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 193
+  },
+  {
+    "id": 2150,
+    "order": 18,
+    "name": "League Cup",
+    "slug": "league-cup",
+    "uniqueName": "League Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 194
+  },
+  {
+    "id": 304,
+    "order": 17,
+    "name": "FAI Cup",
+    "slug": "fai-cup",
+    "uniqueName": "FAI Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 195
+  },
+  {
+    "id": 32550,
+    "order": 16,
+    "name": "FAI Presidents Cup",
+    "slug": "fai-presidents-cup",
+    "uniqueName": "FAI Presidents Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1632
+  }]
+},
+{
+  "countryName": "Israel",
+  "id": "israel",
+  "href": "https://www.sofascore.com/list/category/football/israel/tournaments/json",
+  "tournaments": [
+  {
+    "id": 877,
+    "order": 47,
+    "name": "Premier League",
+    "slug": "premier-league",
+    "uniqueName": "Premier League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 266
+  },
+  {
+    "id": 1822,
+    "order": 39,
+    "name": "National League",
+    "slug": "national-league",
+    "uniqueName": "National League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 727
+  },
+  {
+    "id": 54921,
+    "order": 31,
+    "name": "League Cup, Premier",
+    "slug": "league-cup-premier-group-a",
+    "uniqueName": "League Cup, Premier",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 9355
+  },
+  {
+    "id": 54924,
+    "order": 27,
+    "name": "League Cup, National",
+    "slug": "league-cup-national-group-a",
+    "uniqueName": "League Cup, National",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 9356
+  },
+  {
+    "id": 45819,
+    "order": 22,
+    "name": "Super Cup",
+    "slug": "super-cup",
+    "uniqueName": "Super Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2104
+  },
+  {
+    "id": 1130,
+    "order": 21,
+    "name": "State Cup",
+    "slug": "state-cup",
+    "uniqueName": "State Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 370
+  }]
+},
+{
+  "countryName": "Italy",
+  "id": "italy",
+  "href": "https://www.sofascore.com/list/category/football/italy/tournaments/json",
+  "tournaments": [
+  {
+    "id": 33,
+    "order": 104,
+    "name": "Serie A",
+    "slug": "serie-a",
+    "uniqueName": "Serie A",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 23
+  },
+  {
+    "id": 34,
+    "order": 103,
+    "name": "Serie B",
+    "slug": "serie-b",
+    "uniqueName": "Serie B",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 53
+  },
+  {
+    "id": 37884,
+    "order": 100,
+    "name": "Serie C",
+    "slug": "serie-c-girone-a",
+    "uniqueName": "Serie C",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 343
+  },
+  {
+    "id": 7372,
+    "order": 93,
+    "name": "Serie A Femminile",
+    "slug": "serie-a-women",
+    "uniqueName": "Serie A Femminile",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10640
+  },
+  {
+    "id": 35,
+    "order": 92,
+    "name": "Coppa Italia",
+    "slug": "coppa-italia",
+    "uniqueName": "Coppa Italia",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 328
+  },
+  {
+    "id": 15118,
+    "order": 91,
+    "name": "Coppa Italia Serie C",
+    "slug": "coppa-italia-lega-pro-knockout-stage",
+    "uniqueName": "Coppa Italia Serie C",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 824
+  },
+  {
+    "id": 1377,
+    "order": 71,
+    "name": "Supercoppa",
+    "slug": "supercoppa",
+    "uniqueName": "Supercoppa",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 341
+  },
+  {
+    "id": 43972,
+    "order": 70,
+    "name": "Supercoppa Serie C",
+    "slug": "supercoppa-di-lega-pro",
+    "uniqueName": "Supercoppa Serie C",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 884
+  },
+  {
+    "id": 29538,
+    "order": 69,
+    "name": "Serie D",
+    "slug": "serie-d-girone-a",
+    "uniqueName": "Serie D",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2291
+  },
+  {
+    "id": 6006,
+    "order": 37,
+    "name": "Campionato Primavera 1",
+    "slug": "campionato-primavera-girone-a",
+    "uniqueName": "Campionato Primavera 1",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2292
+  },
+  {
+    "id": 62011,
+    "order": 31,
+    "name": "Campionato Primavera 2",
+    "slug": "campionato-primavera-2-girone-a",
+    "uniqueName": "Campionato Primavera 2",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10534
+  },
+  {
+    "id": 19698,
+    "order": 29,
+    "name": "Primavera Cup",
+    "slug": "primavera-cup-knockout-stage",
+    "uniqueName": "Primavera Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1554
+  },
+  {
+    "id": 22643,
+    "order": 28,
+    "name": "Supercoppa Primavera",
+    "slug": "supercoppa-primavera",
+    "uniqueName": "Supercoppa Primavera",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1910
+  }]
+},
+{
+  "countryName": "Ivory Coast",
+  "id": "ivory-coast",
+  "href": "https://www.sofascore.com/list/category/football/ivory-coast/tournaments/json",
+  "tournaments": [
+  {
+    "id": 4715,
+    "order": 3,
+    "name": "Ligue 1",
+    "slug": "ivory-coast-ligue-1",
+    "uniqueName": "Ligue 1",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1211
+  },
+  {
+    "id": 54242,
+    "order": 2,
+    "name": "Coupe Nationale",
+    "slug": "coupe-nationale",
+    "uniqueName": "Coupe Nationale",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 9385
+  },
+  {
+    "id": 62402,
+    "order": 0,
+    "name": "Super Cup",
+    "slug": "super-cup",
+    "uniqueName": "Super Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10589
+  }]
+},
+{
+  "countryName": "Jamaica",
+  "id": "jamaica",
+  "href": "https://www.sofascore.com/list/category/football/jamaica/tournaments/json",
+  "tournaments": [
+  {
+    "id": 7777,
+    "order": 4,
+    "name": "Premier League",
+    "slug": "premier-league",
+    "uniqueName": "Premier League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1892
+  }]
+},
+{
+  "countryName": "Japan",
+  "id": "japan",
+  "href": "https://www.sofascore.com/list/category/football/japan/tournaments/json",
+  "tournaments": [
+  {
+    "id": 82,
+    "order": 27,
+    "name": "J.League",
+    "slug": "jleague",
+    "uniqueName": "J.League",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 196
+  },
+  {
+    "id": 3034,
+    "order": 24,
+    "name": "J.League 2",
+    "slug": "jleague-2",
+    "uniqueName": "J.League 2",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 402
+  },
+  {
+    "id": 5755,
+    "order": 21,
+    "name": "J. League Cup",
+    "slug": "j-league-cup-group-a",
+    "uniqueName": "J. League Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 101
+  },
+  {
+    "id": 10327,
+    "order": 16,
+    "name": "J.League 3",
+    "slug": "j-league-3",
+    "uniqueName": "J.League 3",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2293
+  },
+  {
+    "id": 5126,
+    "order": 15,
+    "name": "Emperor Cup",
+    "slug": "emperor-cup",
+    "uniqueName": "Emperor Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 323
+  },
+  {
+    "id": 1823,
+    "order": 14,
+    "name": "Super Cup",
+    "slug": "super-cup",
+    "uniqueName": "Super Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 393
+  },
+  {
+    "id": 42768,
+    "order": 13,
+    "name": "Nadeshiko League, Div. 1, Women",
+    "slug": "nadeshiko-league-div-1-women",
+    "uniqueName": "Nadeshiko League, Div. 1, Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 3085
+  },
+  {
+    "id": 57525,
+    "order": 10,
+    "name": "J-League New Year Cup",
+    "slug": "j-league-new-year-cup-kagoshima-round",
+    "uniqueName": "J-League New Year Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10156
+  }]
+},
+{
+  "countryName": "Jordan",
+  "id": "jordan",
+  "href": "https://www.sofascore.com/list/category/football/jordan/tournaments/json",
+  "tournaments": [
+  {
+    "id": 3939,
+    "order": 7,
+    "name": "Jordan League",
+    "slug": "jordan-league",
+    "uniqueName": "Jordan League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 929
+  },
+  {
+    "id": 37412,
+    "order": 4,
+    "name": "Jordan Cup",
+    "slug": "jordan-cup-group-a",
+    "uniqueName": "Jordan Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1822
+  }]
+},
+{
+  "countryName": "Kazakhstan",
+  "id": "kazakhstan",
+  "href": "https://www.sofascore.com/list/category/football/kazakhstan/tournaments/json",
+  "tournaments": [
+  {
+    "id": 13618,
+    "order": 9,
+    "name": "Premier League",
+    "slug": "premier-league-champions-pool",
+    "uniqueName": "Premier League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 682
+  },
+  {
+    "id": 3185,
+    "order": 5,
+    "name": "Kazakhstan Cup",
+    "slug": "cup",
+    "uniqueName": "Kazakhstan Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 749
+  },
+  {
+    "id": 12420,
+    "order": 4,
+    "name": "Super Cup",
+    "slug": "super-cup",
+    "uniqueName": "Super Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 773
+  }]
+},
+{
+  "countryName": "Kenya",
+  "id": "kenya",
+  "href": "https://www.sofascore.com/list/category/football/kenya/tournaments/json",
+  "tournaments": [
+  {
+    "id": 17654,
+    "order": 1,
+    "name": "Premier League",
+    "slug": "premier-league",
+    "uniqueName": "Premier League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1644
+  }]
+},
+{
+  "countryName": "Kosovo",
+  "id": "kosovo",
+  "href": "https://www.sofascore.com/list/category/football/kosovo/tournaments/json",
+  "tournaments": [
+  {
+    "id": 55432,
+    "order": 3,
+    "name": "Superliga",
+    "slug": "superliga",
+    "uniqueName": "Superliga",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 9413
+  },
+  {
+    "id": 55478,
+    "order": 2,
+    "name": "First League",
+    "slug": "first-league",
+    "uniqueName": "First League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 9426
+  },
+  {
+    "id": 56735,
+    "order": 1,
+    "name": "Kosovo FA Cup",
+    "slug": "kosovo-fa-cup",
+    "uniqueName": "Kosovo FA Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10069
+  }]
+},
+{
+  "countryName": "Kuwait",
+  "id": "kuwait",
+  "href": "https://www.sofascore.com/list/category/football/kuwait/tournaments/json",
+  "tournaments": [
+  {
+    "id": 21012,
+    "order": 13,
+    "name": "Kuwait League",
+    "slug": "kuwait-league-relegationpromotion",
+    "uniqueName": "Kuwait League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1002
+  },
+  {
+    "id": 56463,
+    "order": 11,
+    "name": "Crown Prince Cup",
+    "slug": "crown-prince-cup-group-a",
+    "uniqueName": "Crown Prince Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 939
+  },
+  {
+    "id": 23553,
+    "order": 6,
+    "name": "Federation Cup",
+    "slug": "federation-cup",
+    "uniqueName": "Federation Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 953
+  }]
+},
+{
+  "countryName": "Latvia",
+  "id": "latvia",
+  "href": "https://www.sofascore.com/list/category/football/latvia/tournaments/json",
+  "tournaments": [
+  {
+    "id": 1279,
+    "order": 15,
+    "name": "Virsliga",
+    "slug": "virsliga",
+    "uniqueName": "Virsliga",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 197
+  },
+  {
+    "id": 7090,
+    "order": 11,
+    "name": "1.Liga",
+    "slug": "1liga",
+    "uniqueName": "1.Liga",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 677
+  },
+  {
+    "id": 3283,
+    "order": 10,
+    "name": "Cup",
+    "slug": "cup",
+    "uniqueName": "Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 761
+  },
+  {
+    "id": 32495,
+    "order": 9,
+    "name": "Winter Cup",
+    "slug": "winter-cup-group-a",
+    "uniqueName": "Winter Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1620
+  },
+  {
+    "id": 25594,
+    "order": 5,
+    "name": "Super Cup",
+    "slug": "super-cup",
+    "uniqueName": "Super Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1266
+  }]
+},
+{
+  "countryName": "Lebanon",
+  "id": "lebanon",
+  "href": "https://www.sofascore.com/list/category/football/lebanon/tournaments/json",
+  "tournaments": [
+  {
+    "id": 5229,
+    "order": 3,
+    "name": "Premier League ",
+    "slug": "premier-league",
+    "uniqueName": "Premier League ",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2295
+  },
+  {
+    "id": 6053,
+    "order": 2,
+    "name": "Lebanon Cup",
+    "slug": "lebanon-cup",
+    "uniqueName": "Lebanon Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2307
+  },
+  {
+    "id": 48717,
+    "order": 1,
+    "name": "Super Cup",
+    "slug": "super-cup",
+    "uniqueName": "Super Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2159
+  }]
+},
+{
+  "countryName": "Macedonia",
+  "id": "macedonia",
+  "href": "https://www.sofascore.com/list/category/football/macedonia/tournaments/json",
+  "tournaments": [
+  {
+    "id": 43660,
+    "order": 17,
+    "name": "1. MFL",
+    "slug": "1-mfl-championship-group",
+    "uniqueName": "1. MFL",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 199
+  },
+  {
+    "id": 61602,
+    "order": 13,
+    "name": "2. MFL",
+    "slug": "2-mfl-east",
+    "uniqueName": "2. MFL",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 718
+  },
+  {
+    "id": 1238,
+    "order": 8,
+    "name": "Macedonia Cup",
+    "slug": "macedonia-cup",
+    "uniqueName": "Macedonia Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 348
+  },
+  {
+    "id": 16810,
+    "order": 7,
+    "name": "Supercup",
+    "slug": "supercup",
+    "uniqueName": "Supercup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 912
+  }]
+},
+{
+  "countryName": "Malaysia",
+  "id": "malaysia",
+  "href": "https://www.sofascore.com/list/category/football/malaysia/tournaments/json",
+  "tournaments": [
+  {
+    "id": 21635,
+    "order": 8,
+    "name": "Super League",
+    "slug": "super-league-relegationpromotion-playoffs",
+    "uniqueName": "Super League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1000
+  }]
+},
+{
+  "countryName": "Malta",
+  "id": "malta",
+  "href": "https://www.sofascore.com/list/category/football/malta/tournaments/json",
+  "tournaments": [
+  {
+    "id": 41807,
+    "order": 19,
+    "name": "Premier Division",
+    "slug": "premier-league-2nd-phase",
+    "uniqueName": "Premier Division",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 629
+  },
+  {
+    "id": 10754,
+    "order": 12,
+    "name": "First Division",
+    "slug": "first-division-champions-playoff",
+    "uniqueName": "First Division",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 630
+  },
+  {
+    "id": 5550,
+    "order": 9,
+    "name": "FA Trophy",
+    "slug": "fa-trophy",
+    "uniqueName": "FA Trophy",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 633
+  },
+  {
+    "id": 11098,
+    "order": 8,
+    "name": "Super Cup",
+    "slug": "super-cup",
+    "uniqueName": "Super Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 725
+  }]
+},
+{
+  "countryName": "Mexico",
+  "id": "mexico",
+  "href": "https://www.sofascore.com/list/category/football/mexico/tournaments/json",
+  "tournaments": [
+  {
+    "id": 16753,
+    "order": 39,
+    "name": "Liga MX",
+    "slug": "liga-mx-clausura",
+    "uniqueName": "Liga MX",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 352
+  },
+  {
+    "id": 27426,
+    "order": 35,
+    "name": "Ascenso MX",
+    "slug": "ascenso-mx-grand-final",
+    "uniqueName": "Ascenso MX",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 697
+  },
+  {
+    "id": 21631,
+    "order": 30,
+    "name": "Copa MX",
+    "slug": "copa-mx-clausura-group-1",
+    "uniqueName": "Copa MX",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1598
+  },
+  {
+    "id": 36796,
+    "order": 10,
+    "name": "Supercopa MX",
+    "slug": "supercopa-mx",
+    "uniqueName": "Supercopa MX",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1754
+  },
+  {
+    "id": 60948,
+    "order": 9,
+    "name": "Liga MX, Women",
+    "slug": "liga-mx-femenil",
+    "uniqueName": "Liga MX, Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10770
+  },
+  {
+    "id": 11218,
+    "order": 6,
+    "name": "U20 League",
+    "slug": "u20-league",
+    "uniqueName": "U20 League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10417
+  },
+  {
+    "id": 45818,
+    "order": 3,
+    "name": "Trofeo de Campeon de Campeones",
+    "slug": "trofeo-de-campeon-de-campeones",
+    "uniqueName": "Trofeo de Campeon de Campeones",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2103
+  }]
+},
+{
+  "countryName": "Moldova",
+  "id": "moldova",
+  "href": "https://www.sofascore.com/list/category/football/moldova/tournaments/json",
+  "tournaments": [
+  {
+    "id": 3113,
+    "order": 7,
+    "name": "Divizia Nationala",
+    "slug": "divizia-nationala",
+    "uniqueName": "Divizia Nationala",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 685
+  },
+  {
+    "id": 11250,
+    "order": 6,
+    "name": "Divizia A",
+    "slug": "divizia-a",
+    "uniqueName": "Divizia A",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 710
+  },
+  {
+    "id": 3161,
+    "order": 5,
+    "name": "Cupa Moldova",
+    "slug": "cupa-moldova",
+    "uniqueName": "Cupa Moldova",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 741
+  },
+  {
+    "id": 16581,
+    "order": 4,
+    "name": "Supercupa",
+    "slug": "supercupa",
+    "uniqueName": "Supercupa",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 890
+  }]
+},
+{
+  "countryName": "Montenegro",
+  "id": "montenegro",
+  "href": "https://www.sofascore.com/list/category/football/montenegro/tournaments/json",
+  "tournaments": [
+  {
+    "id": 4689,
+    "order": 4,
+    "name": "1. CFL",
+    "slug": "1-cfl",
+    "uniqueName": "1. CFL",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 154
+  },
+  {
+    "id": 11259,
+    "order": 2,
+    "name": "Druga liga Crne Gore",
+    "slug": "druga-liga-crne-gore",
+    "uniqueName": "Druga liga Crne Gore",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 717
+  },
+  {
+    "id": 5021,
+    "order": 1,
+    "name": "Cup",
+    "slug": "cup",
+    "uniqueName": "Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 739
+  }]
+},
+{
+  "countryName": "Morocco",
+  "id": "morocco",
+  "href": "https://www.sofascore.com/list/category/football/morocco/tournaments/json",
+  "tournaments": [
+  {
+    "id": 3640,
+    "order": 5,
+    "name": "Botola",
+    "slug": "botola",
+    "uniqueName": "Botola",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 937
+  },
+  {
+    "id": 5518,
+    "order": 4,
+    "name": "Morocco Cup",
+    "slug": "morocco-cup",
+    "uniqueName": "Morocco Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1434
+  }]
+},
+{
+  "countryName": "Myanmar",
+  "id": "myanmar",
+  "href": "https://www.sofascore.com/list/category/football/myanmar/tournaments/json",
+  "tournaments": [
+  {
+    "id": 50644,
+    "order": 1,
+    "name": "National League",
+    "slug": "national-league",
+    "uniqueName": "National League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10535
+  }]
+},
+{
+  "countryName": "Netherlands",
+  "id": "netherlands",
+  "href": "https://www.sofascore.com/list/category/football/netherlands/tournaments/json",
+  "tournaments": [
+  {
+    "id": 6016,
+    "order": 32,
+    "name": "Eredivisie",
+    "slug": "eredivisie-relegationpromotion-playoffs",
+    "uniqueName": "Eredivisie",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 37
+  },
+  {
+    "id": 40,
+    "order": 29,
+    "name": "Eerste Divisie",
+    "slug": "eerste-divisie",
+    "uniqueName": "Eerste Divisie",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 131
+  },
+  {
+    "id": 121,
+    "order": 28,
+    "name": "KNVB beker",
+    "slug": "knvb-beker",
+    "uniqueName": "KNVB beker",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 330
+  },
+  {
+    "id": 2250,
+    "order": 27,
+    "name": "Johan Cruijff Schaal",
+    "slug": "johan-cruijff-schaal",
+    "uniqueName": "Johan Cruijff Schaal",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 340
+  },
+  {
+    "id": 51739,
+    "order": 26,
+    "name": "Beloften Eredivisie",
+    "slug": "beloften-reservecompetitie-2nd-phase-group-1",
+    "uniqueName": "Beloften Eredivisie",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 849
+  },
+  {
+    "id": 47098,
+    "order": 7,
+    "name": "Eredivisie, Women",
+    "slug": "eredivisie-women",
+    "uniqueName": "Eredivisie, Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2123
+  }]
+},
+{
+  "countryName": "New Zealand",
+  "id": "new-zealand",
+  "href": "https://www.sofascore.com/list/category/football/new-zealand/tournaments/json",
+  "tournaments": [
+  {
+    "id": 1063,
+    "order": 5,
+    "name": "Premiership",
+    "slug": "premiership",
+    "uniqueName": "Premiership",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 594
+  }]
+},
+{
+  "countryName": "Nicaragua",
+  "id": "nicaragua",
+  "href": "https://www.sofascore.com/list/category/football/nicaragua/tournaments/json",
+  "tournaments": [
+  {
+    "id": 55735,
+    "order": 2,
+    "name": "Primera Division",
+    "slug": "primera-division",
+    "uniqueName": "Primera Division",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10533
+  }]
+},
+{
+  "countryName": "Nigeria",
+  "id": "nigeria",
+  "href": "https://www.sofascore.com/list/category/football/nigeria/tournaments/json",
+  "tournaments": [
+  {
+    "id": 42048,
+    "order": 1,
+    "name": "Premier League",
+    "slug": "premier-league",
+    "uniqueName": "Premier League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2060
+  }]
+},
+{
+  "countryName": "North & Central America",
+  "id": "north-central-america",
+  "href": "https://www.sofascore.com/list/category/football/north-central-america/tournaments/json",
+  "tournaments": [
+  {
+    "id": 2152,
+    "order": 97,
+    "name": "World Cup Qual. CONCACAF",
+    "slug": "world-cup-qual-concacaf",
+    "uniqueName": "World Cup Qual. CONCACAF",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 14
+  },
+  {
+    "id": 9895,
+    "order": 75,
+    "name": "CONCACAF Champions League",
+    "slug": "concacaf-champions-league-knockout-stage",
+    "uniqueName": "CONCACAF Champions League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 498
+  },
+  {
+    "id": 61227,
+    "order": 65,
+    "name": "CONCACAF League",
+    "slug": "concacaf-league",
+    "uniqueName": "CONCACAF League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10447
+  },
+  {
+    "id": 38922,
+    "order": 64,
+    "name": "CONCACAF Women's Championship",
+    "slug": "concacaf-womens-championship-group-a",
+    "uniqueName": "CONCACAF Women's Championship",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1954
+  },
+  {
+    "id": 51066,
+    "order": 61,
+    "name": "CONCACAF Olympic Qualifications, Women",
+    "slug": "concacaf-olympic-qualif-women-group-a",
+    "uniqueName": "CONCACAF Olympic Qualifications, Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 3071
+  },
+  {
+    "id": 3328,
+    "order": 58,
+    "name": "CONCACAF Gold Cup",
+    "slug": "concacaf-gold-cup-group-a",
+    "uniqueName": "CONCACAF Gold Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 140
+  },
+  {
+    "id": 9869,
+    "order": 53,
+    "name": "CONCACAF Gold Cup Qual.",
+    "slug": "concacaf-gold-cup-qualification",
+    "uniqueName": "CONCACAF Gold Cup Qual.",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 654
+  },
+  {
+    "id": 22428,
+    "order": 51,
+    "name": "Caribbean Cup",
+    "slug": "caribbean-cup-first-round-gr-1",
+    "uniqueName": "Caribbean Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1161
+  },
+  {
+    "id": 23607,
+    "order": 36,
+    "name": "Copa Centroamericana",
+    "slug": "copa-centroamericana-group-a",
+    "uniqueName": "Copa Centroamericana",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1217
+  },
+  {
+    "id": 30509,
+    "order": 31,
+    "name": "U17 CONCACAF Women Championship",
+    "slug": "u17-concacaf-women-championship-group-a",
+    "uniqueName": "U17 CONCACAF Women Championship",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1530
+  },
+  {
+    "id": 42452,
+    "order": 28,
+    "name": "U17 CONCACAF Championship",
+    "slug": "u17-concacaf-championship-finals",
+    "uniqueName": "U17 CONCACAF Championship",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2061
+  },
+  {
+    "id": 10235,
+    "order": 22,
+    "name": "U20 CONCACAF Championship",
+    "slug": "u20-concacaf-championship-group-a",
+    "uniqueName": "U20 CONCACAF Championship",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 638
+  },
+  {
+    "id": 31103,
+    "order": 16,
+    "name": "U20 CONCACAF Women's Championship",
+    "slug": "u20-concacaf-womens-championship-group-a",
+    "uniqueName": "U20 CONCACAF Women's Championship",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1568
+  }]
+},
+{
+  "countryName": "Northern Ireland",
+  "id": "northern-ireland",
+  "href": "https://www.sofascore.com/list/category/football/northern-ireland/tournaments/json",
+  "tournaments": [
+  {
+    "id": 883,
+    "order": 21,
+    "name": "Premiership",
+    "slug": "premiership",
+    "uniqueName": "Premiership",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 200
+  },
+  {
+    "id": 8793,
+    "order": 16,
+    "name": "Championship 1",
+    "slug": "championship-1",
+    "uniqueName": "Championship 1",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 701
+  },
+  {
+    "id": 1885,
+    "order": 15,
+    "name": "Irish Cup",
+    "slug": "irish-cup",
+    "uniqueName": "Irish Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 767
+  },
+  {
+    "id": 9533,
+    "order": 14,
+    "name": "League Cup",
+    "slug": "league-cup",
+    "uniqueName": "League Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 611
+  }]
+},
+{
+  "countryName": "Norway",
+  "id": "norway",
+  "href": "https://www.sofascore.com/list/category/football/norway/tournaments/json",
+  "tournaments": [
+  {
+    "id": 5,
+    "order": 22,
+    "name": "Eliteserien",
+    "slug": "eliteserien",
+    "uniqueName": "Eliteserien",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 20
+  },
+  {
+    "id": 6,
+    "order": 20,
+    "name": "1st Division",
+    "slug": "1st-division",
+    "uniqueName": "1st Division",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 22
+  },
+  {
+    "id": 396,
+    "order": 19,
+    "name": "2nd Division",
+    "slug": "2nd-division-avd-1",
+    "uniqueName": "2nd Division",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 48
+  },
+  {
+    "id": 78,
+    "order": 15,
+    "name": "Toppserien, Women",
+    "slug": "toppserien-women",
+    "uniqueName": "Toppserien, Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 201
+  },
+  {
+    "id": 123,
+    "order": 13,
+    "name": "NM Cup",
+    "slug": "nm-cup",
+    "uniqueName": "NM Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 29
+  },
+  {
+    "id": 65,
+    "order": 12,
+    "name": "NM Cup Women",
+    "slug": "nm-cup-women",
+    "uniqueName": "NM Cup Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1062
+  },
+  {
+    "id": 431,
+    "order": 11,
+    "name": "3rd Division",
+    "slug": "3-division-avdeling-1",
+    "uniqueName": "3rd Division",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10286
+  },
+  {
+    "id": 58477,
+    "order": 2,
+    "name": "Super Cup",
+    "slug": "super-cup",
+    "uniqueName": "Super Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10270
+  }]
+},
+{
+  "countryName": "Oman",
+  "id": "oman",
+  "href": "https://www.sofascore.com/list/category/football/oman/tournaments/json",
+  "tournaments": [
+  {
+    "id": 5023,
+    "order": 5,
+    "name": "Omani League",
+    "slug": "omani-league",
+    "uniqueName": "Omani League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 965
+  },
+  {
+    "id": 39791,
+    "order": 2,
+    "name": "Sultan Cup",
+    "slug": "sultan-cup",
+    "uniqueName": "Sultan Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2306
+  }]
+},
+{
+  "countryName": "Pakistan",
+  "id": "pakistan",
+  "href": "https://www.sofascore.com/list/category/football/pakistan/tournaments/json",
+  "tournaments": [
+  {
+    "id": 14203,
+    "order": 1,
+    "name": "Premier League",
+    "slug": "premier-league",
+    "uniqueName": "Premier League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1137
+  }]
+},
+{
+  "countryName": "Palestine",
+  "id": "palestine",
+  "href": "https://www.sofascore.com/list/category/football/palestine/tournaments/json",
+  "tournaments": [
+  {
+    "id": 47836,
+    "order": 5,
+    "name": "Gaza Strip Premier League",
+    "slug": "gaza-strip-premier-league",
+    "uniqueName": "Gaza Strip Premier League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2142
+  },
+  {
+    "id": 41467,
+    "order": 4,
+    "name": "West Bank League",
+    "slug": "west-bank-league",
+    "uniqueName": "West Bank League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2296
+  }]
+},
+{
+  "countryName": "Panama",
+  "id": "panama",
+  "href": "https://www.sofascore.com/list/category/football/panama/tournaments/json",
+  "tournaments": [
+  {
+    "id": 40356,
+    "order": 7,
+    "name": "Liga Panamena de Futbol",
+    "slug": "liga-panamena-de-futbol-clausura",
+    "uniqueName": "Liga Panamena de Futbol",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1834
+  }]
+},
+{
+  "countryName": "Paraguay",
+  "id": "paraguay",
+  "href": "https://www.sofascore.com/list/category/football/paraguay/tournaments/json",
+  "tournaments": [
+  {
+    "id": 16752,
+    "order": 9,
+    "name": "Primera División",
+    "slug": "primera-division-clausura",
+    "uniqueName": "Primera División",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 693
+  },
+  {
+    "id": 13304,
+    "order": 5,
+    "name": "Division Intermedia",
+    "slug": "division-intermedia",
+    "uniqueName": "Division Intermedia",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1254
+  },
+  {
+    "id": 41479,
+    "order": 3,
+    "name": "Primera División Reserve",
+    "slug": "primera-division-reserve",
+    "uniqueName": "Primera División Reserve",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 9368
+  }]
+},
+{
+  "countryName": "Peru",
+  "id": "peru",
+  "href": "https://www.sofascore.com/list/category/football/peru/tournaments/json",
+  "tournaments": [
+  {
+    "id": 39804,
+    "order": 19,
+    "name": "Primera División",
+    "slug": "primera-division-clausura-final",
+    "uniqueName": "Primera División",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 406
+  },
+  {
+    "id": 35615,
+    "order": 8,
+    "name": "Copa Inca",
+    "slug": "copa-inca-final",
+    "uniqueName": "Copa Inca",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1648
+  },
+  {
+    "id": 13431,
+    "order": 4,
+    "name": "Segunda División",
+    "slug": "segunda-division",
+    "uniqueName": "Segunda División",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10297
+  }]
+},
+{
+  "countryName": "Philippines",
+  "id": "philippines",
+  "href": "https://www.sofascore.com/list/category/football/philippines/tournaments/json",
+  "tournaments": [
+  {
+    "id": 19822,
+    "order": 15,
+    "name": "Philippines Football League",
+    "slug": "philippines-football-league",
+    "uniqueName": "Philippines Football League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1654
+  },
+  {
+    "id": 38605,
+    "order": 13,
+    "name": "FA League Cup",
+    "slug": "fa-league-cup-group-a",
+    "uniqueName": "FA League Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1904
+  }]
+},
+{
+  "countryName": "Poland",
+  "id": "poland",
+  "href": "https://www.sofascore.com/list/category/football/poland/tournaments/json",
+  "tournaments": [
+  {
+    "id": 33562,
+    "order": 38,
+    "name": "Ekstraklasa",
+    "slug": "ekstraklasa-championship-round",
+    "uniqueName": "Ekstraklasa",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 202
+  },
+  {
+    "id": 1427,
+    "order": 34,
+    "name": "I Liga",
+    "slug": "i-liga",
+    "uniqueName": "I Liga",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 229
+  },
+  {
+    "id": 36794,
+    "order": 32,
+    "name": "II Liga",
+    "slug": "ii-liga",
+    "uniqueName": "II Liga",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 515
+  },
+  {
+    "id": 202,
+    "order": 31,
+    "name": "Puchar Polski",
+    "slug": "puchar-polski",
+    "uniqueName": "Puchar Polski",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 281
+  },
+  {
+    "id": 37200,
+    "order": 30,
+    "name": "CLJ",
+    "slug": "clj-east",
+    "uniqueName": "CLJ",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1365
+  },
+  {
+    "id": 4578,
+    "order": 23,
+    "name": "Super Cup",
+    "slug": "super-cup",
+    "uniqueName": "Super Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 511
+  }]
+},
+{
+  "countryName": "Portugal",
+  "id": "portugal",
+  "href": "https://www.sofascore.com/list/category/football/portugal/tournaments/json",
+  "tournaments": [
+  {
+    "id": 52,
+    "order": 51,
+    "name": "Primeira Liga",
+    "slug": "primeira-liga",
+    "uniqueName": "Primeira Liga",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 238
+  },
+  {
+    "id": 280,
+    "order": 48,
+    "name": "Segunda Liga",
+    "slug": "segunda-liga",
+    "uniqueName": "Segunda Liga",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 239
+  },
+  {
+    "id": 5930,
+    "order": 47,
+    "name": "U19 Championship",
+    "slug": "u19-championship-group-north",
+    "uniqueName": "U19 Championship",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1133
+  },
+  {
+    "id": 207,
+    "order": 39,
+    "name": "Taca de Portugal",
+    "slug": "taca-de-portugal",
+    "uniqueName": "Taca de Portugal",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 336
+  },
+  {
+    "id": 2306,
+    "order": 38,
+    "name": "Supertaça",
+    "slug": "super-cup",
+    "uniqueName": "Supertaça",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 345
+  },
+  {
+    "id": 6569,
+    "order": 37,
+    "name": "Taça da Liga",
+    "slug": "taca-da-liga-final-round",
+    "uniqueName": "Taça da Liga",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 327
+  },
+  {
+    "id": 57697,
+    "order": 26,
+    "name": "Campeonato de Portugal",
+    "slug": "campeonato-de-portugal-promotion-round-north",
+    "uniqueName": "Campeonato de Portugal",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10093
+  },
+  {
+    "id": 28616,
+    "order": 8,
+    "name": "Honor Cup",
+    "slug": "honor-cup",
+    "uniqueName": "Honor Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1790
+  }]
+},
+{
+  "countryName": "Romania",
+  "id": "romania",
+  "href": "https://www.sofascore.com/list/category/football/romania/tournaments/json",
+  "tournaments": [
+  {
+    "id": 51702,
+    "order": 34,
+    "name": "Liga I",
+    "slug": "liga-1-championship-round",
+    "uniqueName": "Liga I",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 152
+  },
+  {
+    "id": 33564,
+    "order": 28,
+    "name": "Liga 2",
+    "slug": "liga-2-seria-1-promotion-round",
+    "uniqueName": "Liga 2",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 562
+  },
+  {
+    "id": 1082,
+    "order": 23,
+    "name": "Romania Cup",
+    "slug": "romania-cup",
+    "uniqueName": "Romania Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 355
+  },
+  {
+    "id": 36800,
+    "order": 22,
+    "name": "Cupa Ligii",
+    "slug": "cupa-ligii",
+    "uniqueName": "Cupa Ligii",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1778
+  },
+  {
+    "id": 3492,
+    "order": 21,
+    "name": "Super Cup",
+    "slug": "super-cup",
+    "uniqueName": "Super Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 698
+  }]
+},
+{
+  "countryName": "Russia",
+  "id": "russia",
+  "href": "https://www.sofascore.com/list/category/football/russia/tournaments/json",
+  "tournaments": [
+  {
+    "id": 18359,
+    "order": 53,
+    "name": "Premier League",
+    "slug": "premier-league-championship-group",
+    "uniqueName": "Premier League",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 203
+  },
+  {
+    "id": 18357,
+    "order": 49,
+    "name": "Football National League",
+    "slug": "football-national-league-championship-group",
+    "uniqueName": "Football National League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 204
+  },
+  {
+    "id": 21208,
+    "order": 46,
+    "name": "PFL, Center",
+    "slug": "pfl-center",
+    "uniqueName": "PFL, Center",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1095
+  },
+  {
+    "id": 21211,
+    "order": 45,
+    "name": "PFL, East",
+    "slug": "pfl-east",
+    "uniqueName": "PFL, East",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1087
+  },
+  {
+    "id": 21209,
+    "order": 44,
+    "name": "PFL, South",
+    "slug": "pfl-south",
+    "uniqueName": "PFL, South",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1093
+  },
+  {
+    "id": 21210,
+    "order": 39,
+    "name": "PFL, Ural-Povolzhye",
+    "slug": "pfl-ural-povolzhye",
+    "uniqueName": "PFL, Ural-Povolzhye",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1097
+  },
+  {
+    "id": 3162,
+    "order": 38,
+    "name": "PFL, West",
+    "slug": "pfl-west",
+    "uniqueName": "PFL, West",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1099
+  },
+  {
+    "id": 12610,
+    "order": 37,
+    "name": "Youth League",
+    "slug": "youth-league",
+    "uniqueName": "Youth League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 879
+  },
+  {
+    "id": 6353,
+    "order": 34,
+    "name": "Premier League, Women",
+    "slug": "premier-league-women",
+    "uniqueName": "Premier League, Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 6783
+  },
+  {
+    "id": 387,
+    "order": 33,
+    "name": "Russian Cup",
+    "slug": "russian-cup",
+    "uniqueName": "Russian Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 91
+  },
+  {
+    "id": 1817,
+    "order": 32,
+    "name": "Super Cup",
+    "slug": "super-cup",
+    "uniqueName": "Super Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 397
+  }]
+},
+{
+  "countryName": "Rwanda",
+  "id": "rwanda",
+  "href": "https://www.sofascore.com/list/category/football/rwanda/tournaments/json",
+  "tournaments": [
+  {
+    "id": 40253,
+    "order": 2,
+    "name": "National Football League",
+    "slug": "national-football-league",
+    "uniqueName": "National Football League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10608
+  }]
+},
+{
+  "countryName": "San Marino",
+  "id": "san-marino",
+  "href": "https://www.sofascore.com/list/category/football/san-marino/tournaments/json",
+  "tournaments": [
+  {
+    "id": 12818,
+    "order": 6,
+    "name": "Campionato Sammarinese",
+    "slug": "campionato-sammarinese-playoffs",
+    "uniqueName": "Campionato Sammarinese",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 738
+  },
+  {
+    "id": 12744,
+    "order": 4,
+    "name": "Coppa Titano",
+    "slug": "coppa-titano-playoffs",
+    "uniqueName": "Coppa Titano",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 737
+  },
+  {
+    "id": 29049,
+    "order": 1,
+    "name": "Supercup",
+    "slug": "super-cup",
+    "uniqueName": "Supercup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1343
+  }]
+},
+{
+  "countryName": "Saudi Arabia",
+  "id": "saudi-arabia",
+  "href": "https://www.sofascore.com/list/category/football/saudi-arabia/tournaments/json",
+  "tournaments": [
+  {
+    "id": 53303,
+    "order": 11,
+    "name": "Saudi Professional League",
+    "slug": "saudi-professional-league-relprom-playoffs",
+    "uniqueName": "Saudi Professional League",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 955
+  },
+  {
+    "id": 42021,
+    "order": 8,
+    "name": "King's Cup",
+    "slug": "kings-cup",
+    "uniqueName": "King's Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2058
+  },
+  {
+    "id": 47092,
+    "order": 7,
+    "name": "Division 1",
+    "slug": "division-1",
+    "uniqueName": "Division 1",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2120
+  },
+  {
+    "id": 46924,
+    "order": 6,
+    "name": "Super Cup",
+    "slug": "super-cup",
+    "uniqueName": "Super Cup",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2119
+  }]
+},
+{
+  "countryName": "Scotland",
+  "id": "scotland",
+  "href": "https://www.sofascore.com/list/category/football/scotland/tournaments/json",
+  "tournaments": [
+  {
+    "id": 54,
+    "order": 30,
+    "name": "Premiership",
+    "slug": "premiership",
+    "uniqueName": "Premiership",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 36
+  },
+  {
+    "id": 55,
+    "order": 28,
+    "name": "Championship",
+    "slug": "championship",
+    "uniqueName": "Championship",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 206
+  },
+  {
+    "id": 56,
+    "order": 26,
+    "name": "League One",
+    "slug": "league-one",
+    "uniqueName": "League One",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 207
+  },
+  {
+    "id": 57,
+    "order": 24,
+    "name": "League Two",
+    "slug": "league-two",
+    "uniqueName": "League Two",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 209
+  },
+  {
+    "id": 73,
+    "order": 22,
+    "name": "Scottish Cup",
+    "slug": "scottish-cup",
+    "uniqueName": "Scottish Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 347
+  },
+  {
+    "id": 54500,
+    "order": 19,
+    "name": "League Cup",
+    "slug": "league-cup-group-c",
+    "uniqueName": "League Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 332
+  },
+  {
+    "id": 1520,
+    "order": 12,
+    "name": "Challenge Cup",
+    "slug": "challenge-cup",
+    "uniqueName": "Challenge Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 331
+  },
+  {
+    "id": 7002,
+    "order": 11,
+    "name": "Development League",
+    "slug": "development-league",
+    "uniqueName": "Development League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1782
+  },
+  {
+    "id": 41559,
+    "order": 10,
+    "name": "Premier League, Women",
+    "slug": "premier-league-1-women",
+    "uniqueName": "Premier League, Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2054
+  }]
+},
+{
+  "countryName": "Senegal",
+  "id": "senegal",
+  "href": "https://www.sofascore.com/list/category/football/senegal/tournaments/json",
+  "tournaments": [
+  {
+    "id": 24275,
+    "order": 1,
+    "name": "Premier League",
+    "slug": "premier-league",
+    "uniqueName": "Premier League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1226
+  }]
+},
+{
+  "countryName": "Serbia",
+  "id": "serbia",
+  "href": "https://www.sofascore.com/list/category/football/serbia/tournaments/json",
+  "tournaments": [
+  {
+    "id": 52653,
+    "order": 16,
+    "name": "Superliga",
+    "slug": "superliga-championship-round",
+    "uniqueName": "Superliga",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 210
+  },
+  {
+    "id": 5931,
+    "order": 12,
+    "name": "Prva Liga",
+    "slug": "prva-liga",
+    "uniqueName": "Prva Liga",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 721
+  },
+  {
+    "id": 11363,
+    "order": 11,
+    "name": "Serbia Cup",
+    "slug": "serbia-cup",
+    "uniqueName": "Serbia Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 314
+  }]
+},
+{
+  "countryName": "Singapore",
+  "id": "singapore",
+  "href": "https://www.sofascore.com/list/category/football/singapore/tournaments/json",
+  "tournaments": [
+  {
+    "id": 58,
+    "order": 10,
+    "name": "S-league",
+    "slug": "s-league",
+    "uniqueName": "S-league",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 634
+  },
+  {
+    "id": 184,
+    "order": 9,
+    "name": "Singapore Cup",
+    "slug": "singapore-cup",
+    "uniqueName": "Singapore Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 655
+  },
+  {
+    "id": 10850,
+    "order": 8,
+    "name": "League Cup",
+    "slug": "league-cup",
+    "uniqueName": "League Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 669
+  }]
+},
+{
+  "countryName": "South Africa",
+  "id": "south-africa",
+  "href": "https://www.sofascore.com/list/category/football/south-africa/tournaments/json",
+  "tournaments": [
+  {
+    "id": 3830,
+    "order": 6,
+    "name": "Premier Soccer League",
+    "slug": "premier-league",
+    "uniqueName": "Premier Soccer League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 358
+  },
+  {
+    "id": 10119,
+    "order": 4,
+    "name": "National First Division",
+    "slug": "national-first-division",
+    "uniqueName": "National First Division",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1906
+  },
+  {
+    "id": 10298,
+    "order": 3,
+    "name": "FA Cup",
+    "slug": "fa-cup",
+    "uniqueName": "FA Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1020
+  },
+  {
+    "id": 11234,
+    "order": 2,
+    "name": "MTN 8",
+    "slug": "mtn-8",
+    "uniqueName": "MTN 8",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1125
+  },
+  {
+    "id": 7301,
+    "order": 1,
+    "name": "League Cup",
+    "slug": "league-cup",
+    "uniqueName": "League Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1205
+  }]
+},
+{
+  "countryName": "South America",
+  "id": "south-america",
+  "href": "https://www.sofascore.com/list/category/football/south-america/tournaments/json",
+  "tournaments": [
+  {
+    "id": 1434,
+    "order": 49,
+    "name": "World Cup Qual. CONMEBOL",
+    "slug": "world-cup-qualification-conmebol",
+    "uniqueName": "World Cup Qual. CONMEBOL",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 295
+  },
+  {
+    "id": 309,
+    "order": 48,
+    "name": "CONMEBOL Libertadores",
+    "slug": "conmebol-libertadores",
+    "uniqueName": "CONMEBOL Libertadores",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 384
+  },
+  {
+    "id": 689,
+    "order": 38,
+    "name": "CONMEBOL Sudamericana",
+    "slug": "conmebol-sudamericana",
+    "uniqueName": "CONMEBOL Sudamericana",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 480
+  },
+  {
+    "id": 1353,
+    "order": 37,
+    "name": "CONMEBOL Recopa",
+    "slug": "conmebol-recopa",
+    "uniqueName": "CONMEBOL Recopa",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 490
+  },
+  {
+    "id": 14298,
+    "order": 36,
+    "name": "Copa América",
+    "slug": "copa-america-group-a",
+    "uniqueName": "Copa América",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 133
+  },
+  {
+    "id": 40302,
+    "order": 29,
+    "name": "U17 CONMEBOL Championship",
+    "slug": "u17-conmebol-championship-group-a",
+    "uniqueName": "U17 CONMEBOL Championship",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2041
+  },
+  {
+    "id": 16096,
+    "order": 26,
+    "name": "U20 CONMEBOL Libertadores",
+    "slug": "u20-conmebol-libertadores-group-a",
+    "uniqueName": "U20 CONMEBOL Libertadores",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1074
+  },
+  {
+    "id": 9961,
+    "order": 21,
+    "name": "U20 CONMEBOL Championship",
+    "slug": "u20-conmebol-championship-final-round",
+    "uniqueName": "U20 CONMEBOL Championship",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 632
+  },
+  {
+    "id": 32489,
+    "order": 18,
+    "name": "U20 CONMEBOL Championship, Women",
+    "slug": "u20-conmebol-championship-women-group-a",
+    "uniqueName": "U20 CONMEBOL Championship, Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1612
+  },
+  {
+    "id": 56734,
+    "order": 3,
+    "name": "CONMEBOL Libertadores, Women",
+    "slug": "conmebol-libertadores-women",
+    "uniqueName": "CONMEBOL Libertadores, Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10602
+  }]
+},
+{
+  "countryName": "South Korea",
+  "id": "south-korea",
+  "href": "https://www.sofascore.com/list/category/football/south-korea/tournaments/json",
+  "tournaments": [
+  {
+    "id": 39098,
+    "order": 21,
+    "name": "K-League Classic",
+    "slug": "k-league-classic-championship-round",
+    "uniqueName": "K-League Classic",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 410
+  },
+  {
+    "id": 6230,
+    "order": 14,
+    "name": "K-League Challenge",
+    "slug": "k-league-challenge",
+    "uniqueName": "K-League Challenge",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 777
+  },
+  {
+    "id": 4417,
+    "order": 12,
+    "name": "FA Cup",
+    "slug": "fa-cup",
+    "uniqueName": "FA Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 615
+  },
+  {
+    "id": 48952,
+    "order": 11,
+    "name": "WK-League",
+    "slug": "wk-league-playoff",
+    "uniqueName": "WK-League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2284
+  },
+  {
+    "id": 7964,
+    "order": 9,
+    "name": "National League",
+    "slug": "national-league",
+    "uniqueName": "National League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10268
+  }]
+},
+{
+  "countryName": "Spain",
+  "id": "spain",
+  "href": "https://www.sofascore.com/list/category/football/spain/tournaments/json",
+  "tournaments": [
+  {
+    "id": 36,
+    "order": 34,
+    "name": "LaLiga",
+    "slug": "laliga",
+    "uniqueName": "LaLiga",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 8
+  },
+  {
+    "id": 37,
+    "order": 33,
+    "name": "LaLiga 2",
+    "slug": "laliga-2",
+    "uniqueName": "LaLiga 2",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 54
+  },
+  {
+    "id": 1694,
+    "order": 31,
+    "name": "Segunda División B",
+    "slug": "segunda-b-group-i",
+    "uniqueName": "Segunda División B",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 544
+  },
+  {
+    "id": 150,
+    "order": 24,
+    "name": "Copa del Rey",
+    "slug": "copa-del-rey",
+    "uniqueName": "Copa del Rey",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 329
+  },
+  {
+    "id": 2305,
+    "order": 23,
+    "name": "Super Cup",
+    "slug": "super-cup",
+    "uniqueName": "Super Cup",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 213
+  },
+  {
+    "id": 3739,
+    "order": 22,
+    "name": "Primera División Femenina",
+    "slug": "primera-division-femenina",
+    "uniqueName": "Primera División Femenina",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1127
+  }]
+},
+{
+  "countryName": "Spain Amateur",
+  "id": "spain-amateur",
+  "href": "https://www.sofascore.com/list/category/football/spain-amateur/tournaments/json",
+  "tournaments": [
+  {
+    "id": 42268,
+    "order": 23,
+    "name": "Tercera Division",
+    "slug": "tercera-division-group-1",
+    "uniqueName": "Tercera Division",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10459
+  }]
+},
+{
+  "countryName": "Sweden",
+  "id": "sweden",
+  "href": "https://www.sofascore.com/list/category/football/sweden/tournaments/json",
+  "tournaments": [
+  {
+    "id": 24,
+    "order": 51,
+    "name": "Allsvenskan",
+    "slug": "allsvenskan",
+    "uniqueName": "Allsvenskan",
+    "hasEventPlayerStatistics": true,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 40
+  },
+  {
+    "id": 27,
+    "order": 49,
+    "name": "Superettan",
+    "slug": "superettan",
+    "uniqueName": "Superettan",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 46
+  },
+  {
+    "id": 4302,
+    "order": 46,
+    "name": "Division 1, Norra",
+    "slug": "division-1-norra",
+    "uniqueName": "Division 1, Norra",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 67
+  },
+  {
+    "id": 4301,
+    "order": 45,
+    "name": "Division 1, Södra",
+    "slug": "division-1-sodra",
+    "uniqueName": "Division 1, Södra",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 68
+  },
+  {
+    "id": 56373,
+    "order": 44,
+    "name": "Div 2, Promotion round",
+    "slug": "div-2-promotionrelegation-group-1",
+    "uniqueName": "Div 2, Promotion round",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10641
+  },
+  {
+    "id": 409,
+    "order": 43,
+    "name": "Division 2, Norrland",
+    "slug": "division-2-norrland",
+    "uniqueName": "Division 2, Norrland",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 71
+  },
+  {
+    "id": 3106,
+    "order": 39,
+    "name": "Division 2, Norra Svealand",
+    "slug": "division-2-norra-svealand",
+    "uniqueName": "Division 2, Norra Svealand",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 70
+  },
+  {
+    "id": 408,
+    "order": 36,
+    "name": "Division 2, Södra Svealand",
+    "slug": "division-2-sodra-svealand",
+    "uniqueName": "Division 2, Södra Svealand",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 74
+  },
+  {
+    "id": 405,
+    "order": 33,
+    "name": "Division 2, Ostra Gotaland",
+    "slug": "division-2-ostra-gotaland",
+    "uniqueName": "Division 2, Ostra Gotaland",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 395
+  },
+  {
+    "id": 411,
+    "order": 31,
+    "name": "Division 2, Södra Götaland",
+    "slug": "division-2-sodra-gotaland",
+    "uniqueName": "Division 2, Södra Götaland",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 72
+  },
+  {
+    "id": 410,
+    "order": 28,
+    "name": "Division 2, Västra Götaland ",
+    "slug": "division-2-vastra-gotaland",
+    "uniqueName": "Division 2, Västra Götaland ",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 73
+  },
+  {
+    "id": 426,
+    "order": 19,
+    "name": "Damallsvenskan",
+    "slug": "damallsvenskan",
+    "uniqueName": "Damallsvenskan",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 214
+  },
+  {
+    "id": 406,
+    "order": 18,
+    "name": "Svenska Cupen",
+    "slug": "svenska-cup",
+    "uniqueName": "Svenska Cupen",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 80
+  },
+  {
+    "id": 1480,
+    "order": 7,
+    "name": "Svenska Cupen, Women",
+    "slug": "svenska-cup-women",
+    "uniqueName": "Svenska Cupen, Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1058
+  },
+  {
+    "id": 5801,
+    "order": 6,
+    "name": "Super Cup",
+    "slug": "super-cup",
+    "uniqueName": "Super Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 642
+  },
+  {
+    "id": 5712,
+    "order": 5,
+    "name": "Super Cup Women",
+    "slug": "super-cup-women",
+    "uniqueName": "Super Cup Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 643
+  }]
+},
+{
+  "countryName": "Sweden Amateur",
+  "id": "sweden-amateur",
+  "href": "https://www.sofascore.com/list/category/football/sweden-amateur/tournaments/json",
+  "tournaments": [
+  {
+    "id": 13312,
+    "order": 25,
+    "name": "U21",
+    "slug": "u21-allsvenskan-sodra",
+    "uniqueName": "U21",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1016
+  },
+  {
+    "id": 43067,
+    "order": 8,
+    "name": "U19",
+    "slug": "u19-allsvenskan-norra",
+    "uniqueName": "U19",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 3090
+  }]
+},
+{
+  "countryName": "Switzerland",
+  "id": "switzerland",
+  "href": "https://www.sofascore.com/list/category/football/switzerland/tournaments/json",
+  "tournaments": [
+  {
+    "id": 1060,
+    "order": 7,
+    "name": "Super League",
+    "slug": "super-league",
+    "uniqueName": "Super League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 215
+  },
+  {
+    "id": 1061,
+    "order": 5,
+    "name": "Challenge League",
+    "slug": "challenge-league",
+    "uniqueName": "Challenge League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 216
+  },
+  {
+    "id": 1554,
+    "order": 4,
+    "name": "Erste Liga Promotion",
+    "slug": "promotion-league",
+    "uniqueName": "Erste Liga Promotion",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1101
+  },
+  {
+    "id": 197,
+    "order": 3,
+    "name": "Schweizer Cup",
+    "slug": "schweizer-cup",
+    "uniqueName": "Schweizer Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 399
+  }]
+},
+{
+  "countryName": "Thailand",
+  "id": "thailand",
+  "href": "https://www.sofascore.com/list/category/football/thailand/tournaments/json",
+  "tournaments": [
+  {
+    "id": 7157,
+    "order": 6,
+    "name": "Thai League 1",
+    "slug": "premier-league",
+    "uniqueName": "Thai League 1",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1032
+  }]
+},
+{
+  "countryName": "Tunisia",
+  "id": "tunisia",
+  "href": "https://www.sofascore.com/list/category/football/tunisia/tournaments/json",
+  "tournaments": [
+  {
+    "id": 27293,
+    "order": 10,
+    "name": "Ligue 1",
+    "slug": "ligue-1-championship-round",
+    "uniqueName": "Ligue 1",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 984
+  },
+  {
+    "id": 5679,
+    "order": 3,
+    "name": "Tunisian Cup",
+    "slug": "tunisian-cup",
+    "uniqueName": "Tunisian Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1682
+  }]
+},
+{
+  "countryName": "Turkey Amateur",
+  "id": "turkey-amateur",
+  "href": "https://www.sofascore.com/list/category/football/turkey-amateur/tournaments/json",
+  "tournaments": [
+  {
+    "id": 37929,
+    "order": 20,
+    "name": "U21 Ligi",
+    "slug": "u21-ligi-gr-super-lig",
+    "uniqueName": "U21 Ligi",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1846
+  },
+  {
+    "id": 37930,
+    "order": 19,
+    "name": "U21 1. Lig",
+    "slug": "u21-ligi-gr-1-lig",
+    "uniqueName": "U21 1. Lig",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10457
+  }]
+},
+{
+  "countryName": "Uganda",
+  "id": "uganda",
+  "href": "https://www.sofascore.com/list/category/football/uganda/tournaments/json",
+  "tournaments": [
+  {
+    "id": 40258,
+    "order": 3,
+    "name": "Premier League",
+    "slug": "premier-league",
+    "uniqueName": "Premier League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10166
+  }]
+},
+{
+  "countryName": "Ukraine",
+  "id": "ukraine",
+  "href": "https://www.sofascore.com/list/category/football/ukraine/tournaments/json",
+  "tournaments": [
+  {
+    "id": 58702,
+    "order": 43,
+    "name": "Premier League",
+    "slug": "premier-league-championship-round",
+    "uniqueName": "Premier League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 218
+  },
+  {
+    "id": 3662,
+    "order": 40,
+    "name": "Persha Liga",
+    "slug": "persha-liga",
+    "uniqueName": "Persha Liga",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 691
+  },
+  {
+    "id": 58704,
+    "order": 38,
+    "name": "U21",
+    "slug": "u21-championship-group-i",
+    "uniqueName": "U21",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 892
+  },
+  {
+    "id": 46273,
+    "order": 35,
+    "name": "U19",
+    "slug": "u19-league",
+    "uniqueName": "U19",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1307
+  },
+  {
+    "id": 848,
+    "order": 29,
+    "name": "Ukraine Cup",
+    "slug": "ukraine-cup",
+    "uniqueName": "Ukraine Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 312
+  },
+  {
+    "id": 3415,
+    "order": 28,
+    "name": "Super Cup",
+    "slug": "super-cup",
+    "uniqueName": "Super Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 219
+  }]
+},
+{
+  "countryName": "United Arab Emirates",
+  "id": "united-arab-emirates",
+  "href": "https://www.sofascore.com/list/category/football/united-arab-emirates/tournaments/json",
+  "tournaments": [
+  {
+    "id": 3608,
+    "order": 11,
+    "name": "Arabian Gulf League",
+    "slug": "arabian-gulf-league",
+    "uniqueName": "Arabian Gulf League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 971
+  },
+  {
+    "id": 29466,
+    "order": 10,
+    "name": "League Cup",
+    "slug": "league-cup-group-a",
+    "uniqueName": "League Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1369
+  },
+  {
+    "id": 42759,
+    "order": 7,
+    "name": "Super Cup",
+    "slug": "super-cup",
+    "uniqueName": "Super Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2304
+  },
+  {
+    "id": 15220,
+    "order": 6,
+    "name": "Presidents Cup",
+    "slug": "presidents-cup",
+    "uniqueName": "Presidents Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 3080
+  }]
+},
+{
+  "countryName": "Uruguay",
+  "id": "uruguay",
+  "href": "https://www.sofascore.com/list/category/football/uruguay/tournaments/json",
+  "tournaments": [
+  {
+    "id": 17126,
+    "order": 14,
+    "name": "Primera División",
+    "slug": "primera-division-clausura",
+    "uniqueName": "Primera División",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 278
+  },
+  {
+    "id": 13716,
+    "order": 7,
+    "name": "Segunda División",
+    "slug": "segunda-division-primera-fase-serie-a",
+    "uniqueName": "Segunda División",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1908
+  }]
+},
+{
+  "countryName": "Uzbekistan",
+  "id": "uzbekistan",
+  "href": "https://www.sofascore.com/list/category/football/uzbekistan/tournaments/json",
+  "tournaments": [
+  {
+    "id": 4429,
+    "order": 1,
+    "name": "PFL",
+    "slug": "pfl",
+    "uniqueName": "PFL",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 772
+  }]
+},
+{
+  "countryName": "Venezuela",
+  "id": "venezuela",
+  "href": "https://www.sofascore.com/list/category/football/venezuela/tournaments/json",
+  "tournaments": [
+  {
+    "id": 17038,
+    "order": 9,
+    "name": "Primera División",
+    "slug": "primera-division-grand-final",
+    "uniqueName": "Primera División",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 231
+  }]
+},
+{
+  "countryName": "Vietnam",
+  "id": "vietnam",
+  "href": "https://www.sofascore.com/list/category/football/vietnam/tournaments/json",
+  "tournaments": [
+  {
+    "id": 4104,
+    "order": 10,
+    "name": "V-League",
+    "slug": "v-league",
+    "uniqueName": "V-League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 626
+  },
+  {
+    "id": 12324,
+    "order": 8,
+    "name": "V-League 2",
+    "slug": "v-league-2",
+    "uniqueName": "V-League 2",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 771
+  },
+  {
+    "id": 25407,
+    "order": 7,
+    "name": "Super Cup",
+    "slug": "super-cup",
+    "uniqueName": "Super Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1236
+  },
+  {
+    "id": 51896,
+    "order": 6,
+    "name": "Vietnam Cup",
+    "slug": "vietnam-cup",
+    "uniqueName": "Vietnam Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 3087
+  }]
+},
+{
+  "countryName": "Wales",
+  "id": "wales",
+  "href": "https://www.sofascore.com/list/category/football/wales/tournaments/json",
+  "tournaments": [
+  {
+    "id": 904,
+    "order": 16,
+    "name": "Premier League",
+    "slug": "premier-league",
+    "uniqueName": "Premier League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 254
+  },
+  {
+    "id": 10429,
+    "order": 12,
+    "name": "Welsh League Division One",
+    "slug": "welsh-league-division-one",
+    "uniqueName": "Welsh League Division One",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 702
+  },
+  {
+    "id": 6938,
+    "order": 11,
+    "name": "League Cup",
+    "slug": "league-cup",
+    "uniqueName": "League Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 367
+  },
+  {
+    "id": 6937,
+    "order": 4,
+    "name": "FAW Welsh Cup",
+    "slug": "faw-welsh-cup",
+    "uniqueName": "FAW Welsh Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 388
+  },
+  {
+    "id": 10428,
+    "order": 3,
+    "name": "Huws Gray Alliance",
+    "slug": "feeder-leagues-huws-gray-alliance",
+    "uniqueName": "Huws Gray Alliance",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 719
+  }]
+},
+{
+  "countryName": "World",
+  "id": "world",
+  "href": "https://www.sofascore.com/list/category/football/world/tournaments/json",
+  "tournaments": [
+  {
+    "id": 3954,
+    "order": 243,
+    "name": "World Cup",
+    "slug": "world-cup-group-a",
+    "uniqueName": "World Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 16
+  },
+  {
+    "id": 86,
+    "order": 234,
+    "name": "Club Friendly Games",
+    "slug": "club-friendly-games",
+    "uniqueName": "Club Friendly Games",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 853
+  },
+  {
+    "id": 3091,
+    "order": 233,
+    "name": "Confederations Cup",
+    "slug": "confederations-cup-group-a",
+    "uniqueName": "Confederations Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 460
+  },
+  {
+    "id": 3888,
+    "order": 229,
+    "name": "FIFA Club World Cup",
+    "slug": "fifa-club-world-cup",
+    "uniqueName": "FIFA Club World Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 357
+  },
+  {
+    "id": 29005,
+    "order": 227,
+    "name": "Premier League Asia Trophy",
+    "slug": "premier-league-asia-trophy",
+    "uniqueName": "Premier League Asia Trophy",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1325
+  },
+  {
+    "id": 6339,
+    "order": 226,
+    "name": "Emirates Cup",
+    "slug": "emirates-cup",
+    "uniqueName": "Emirates Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1295
+  },
+  {
+    "id": 29019,
+    "order": 225,
+    "name": "Int. Champions Cup",
+    "slug": "international-champions-cup",
+    "uniqueName": "Int. Champions Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1337
+  },
+  {
+    "id": 66,
+    "order": 221,
+    "name": "Int. Friendly Games",
+    "slug": "int-friendly-games",
+    "uniqueName": "Int. Friendly Games",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 851
+  },
+  {
+    "id": 2307,
+    "order": 220,
+    "name": "Olympic Games",
+    "slug": "olympic-games-group-a",
+    "uniqueName": "Olympic Games",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 436
+  },
+  {
+    "id": 62608,
+    "order": 215,
+    "name": "World Cup Qualification, Inter-Confederation Playoffs",
+    "slug": "world-cup-qualification-concacafafc-playoffs",
+    "uniqueName": "World Cup Qualification, Inter-Confederation Playoffs",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10618
+  },
+  {
+    "id": 64370,
+    "order": 213,
+    "name": "Atlantic Cup",
+    "slug": "atlantic-cup",
+    "uniqueName": "Atlantic Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10785
+  },
+  {
+    "id": 7723,
+    "order": 211,
+    "name": "Algarve Cup Women",
+    "slug": "algarve-cup-women-group-a",
+    "uniqueName": "Algarve Cup Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 411
+  },
+  {
+    "id": 19635,
+    "order": 205,
+    "name": "Cyprus Women Cup",
+    "slug": "cyprus-women-cup-final-round",
+    "uniqueName": "Cyprus Women Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1018
+  },
+  {
+    "id": 1039,
+    "order": 200,
+    "name": "Int. Friendly Games, Women",
+    "slug": "int-friendly-games-women",
+    "uniqueName": "Int. Friendly Games, Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 852
+  },
+  {
+    "id": 2383,
+    "order": 199,
+    "name": "Olympic Games Women",
+    "slug": "olympic-games-women-final-round",
+    "uniqueName": "Olympic Games Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 437
+  },
+  {
+    "id": 6833,
+    "order": 195,
+    "name": "World Cup Women",
+    "slug": "world-cup-women-final-round",
+    "uniqueName": "World Cup Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 290
+  },
+  {
+    "id": 1429,
+    "order": 188,
+    "name": "U17 World Cup",
+    "slug": "u17-world-cup-knockout-stage",
+    "uniqueName": "U17 World Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 279
+  },
+  {
+    "id": 9291,
+    "order": 181,
+    "name": "U17 Womens World Cup",
+    "slug": "u17-world-championship-women",
+    "uniqueName": "U17 Womens World Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 827
+  },
+  {
+    "id": 5842,
+    "order": 176,
+    "name": "U17 Friendly Games",
+    "slug": "u17-int-friendly-games",
+    "uniqueName": "U17 Friendly Games",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 858
+  },
+  {
+    "id": 14812,
+    "order": 175,
+    "name": "U18 Valentin Granatkin Memorial Cup",
+    "slug": "u18-valentin-granatkin-memorial-group-a",
+    "uniqueName": "U18 Valentin Granatkin Memorial Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1594
+  },
+  {
+    "id": 5896,
+    "order": 157,
+    "name": "U18 Friendly Games",
+    "slug": "u18-friendly-games",
+    "uniqueName": "U18 Friendly Games",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 857
+  },
+  {
+    "id": 5799,
+    "order": 156,
+    "name": "U19 Friendly Games",
+    "slug": "u19-int-friendly-games",
+    "uniqueName": "U19 Friendly Games",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 856
+  },
+  {
+    "id": 11289,
+    "order": 155,
+    "name": "U19 Friendly Games, Women",
+    "slug": "u19-friendly-games-women",
+    "uniqueName": "U19 Friendly Games, Women",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2302
+  },
+  {
+    "id": 21638,
+    "order": 154,
+    "name": "U19 CEE Cup",
+    "slug": "u19-cee-cup",
+    "uniqueName": "U19 CEE Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2105
+  },
+  {
+    "id": 6238,
+    "order": 147,
+    "name": "U20 Friendly Games",
+    "slug": "u20-friendly-games",
+    "uniqueName": "U20 Friendly Games",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 855
+  },
+  {
+    "id": 6071,
+    "order": 146,
+    "name": "U20 World Cup",
+    "slug": "u20-world-cup-group-a",
+    "uniqueName": "U20 World Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 453
+  },
+  {
+    "id": 13316,
+    "order": 139,
+    "name": "U20 Women's World Cup",
+    "slug": "u20-womens-world-cup",
+    "uniqueName": "U20 Women's World Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 804
+  },
+  {
+    "id": 25508,
+    "order": 133,
+    "name": "U20 Viareggio Cup",
+    "slug": "u20-viareggio-cup-final-round",
+    "uniqueName": "U20 Viareggio Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1246
+  },
+  {
+    "id": 18922,
+    "order": 122,
+    "name": "U21 Commonwealth States Cup",
+    "slug": "u21-commonwealth-states-cup-gr-a",
+    "uniqueName": "U21 Commonwealth States Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1622
+  },
+  {
+    "id": 1435,
+    "order": 112,
+    "name": "U21 Friendly Games",
+    "slug": "u21-friendly-games",
+    "uniqueName": "U21 Friendly Games",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 854
+  },
+  {
+    "id": 5804,
+    "order": 111,
+    "name": "U21 Toulon Tournament",
+    "slug": "u21-toulon-tournament-group-a",
+    "uniqueName": "U21 Toulon Tournament",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 452
+  },
+  {
+    "id": 44281,
+    "order": 107,
+    "name": "U23 Toulon Tournament",
+    "slug": "u23-toulon-tournament-knockout-stage",
+    "uniqueName": "U23 Toulon Tournament",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2084
+  },
+  {
+    "id": 6573,
+    "order": 103,
+    "name": "U23 Friendly Games",
+    "slug": "u23-friendly-games",
+    "uniqueName": "U23 Friendly Games",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 1072
+  },
+  {
+    "id": 63921,
+    "order": 2,
+    "name": "Florida Cup",
+    "slug": "florida-cup",
+    "uniqueName": "Florida Cup",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 10709
+  }]
+},
+{
+  "countryName": "Zambia",
+  "id": "zambia",
+  "href": "https://www.sofascore.com/list/category/football/zambia/tournaments/json",
+  "tournaments": [
+  {
+    "id": 42436,
+    "order": 1,
+    "name": "Premier League",
+    "slug": "premier-league",
+    "uniqueName": "Premier League",
+    "hasEventPlayerStatistics": false,
+    "hasEventPlayerHeatMap": false,
+    "isActive": false,
+    "uniqueId": 2065
+  }]
+}
+]
+}
