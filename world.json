@@ -1,0 +1,3419 @@
+[
+    {
+        "countrySlug": "africa",
+        "countryName": "Africa",
+        "data": [
+            {
+                "uniqueId": "1054",
+                "uniqueName": "CAF Champions League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1054/season/24785/json"
+            },
+            {
+                "uniqueId": "1115",
+                "uniqueName": "CAF Confederations Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1115/season/24786/json"
+            },
+            {
+                "uniqueId": "13",
+                "uniqueName": "World Cup Qual. CAF ",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/13/season/24680/json"
+            },
+            {
+                "uniqueId": "270",
+                "uniqueName": "Africa Cup of Nations",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/270/season/23112/json"
+            },
+            {
+                "uniqueId": "1848",
+                "uniqueName": "Africa Cup of Nations Qual.",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1848/season/26033/json"
+            },
+            {
+                "uniqueId": "9558",
+                "uniqueName": "Africa Cup of Nations, Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/9558/season/19753/json"
+            },
+            {
+                "uniqueId": "2139",
+                "uniqueName": "African Games",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2139/season/25053/json"
+            },
+            {
+                "uniqueId": "637",
+                "uniqueName": "African Nations Championship",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/637/season/15598/json"
+            },
+            {
+                "uniqueId": "1250",
+                "uniqueName": "CAF Super Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1250/season/23643/json"
+            },
+            {
+                "uniqueId": "2076",
+                "uniqueName": "COSAFA Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2076/season/23263/json"
+            },
+            {
+                "uniqueId": "2063",
+                "uniqueName": "U20 CAF African Championship",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2063/season/22494/json"
+            },
+            {
+                "uniqueId": "981",
+                "uniqueName": "U23 CAF Championship",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/981/season/26161/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "albania",
+        "countryName": "Albania",
+        "data": [
+            {
+                "uniqueId": "720",
+                "uniqueName": "Kategoria Superiore",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/720/season/24849/json"
+            },
+            {
+                "uniqueId": "722",
+                "uniqueName": "Kategoria e Pare",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/722/season/25339/json"
+            },
+            {
+                "uniqueId": "756",
+                "uniqueName": "Kupa e Shqiperise",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/756/season/25461/json"
+            },
+            {
+                "uniqueId": "1107",
+                "uniqueName": "Supercup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1107/season/24850/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "algeria",
+        "countryName": "Algeria",
+        "data": [
+            {
+                "uniqueId": "841",
+                "uniqueName": "Ligue 1",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/841/season/24749/json"
+            },
+            {
+                "uniqueId": "1588",
+                "uniqueName": "Algerian Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1588/season/26778/json"
+            },
+            {
+                "uniqueId": "9459",
+                "uniqueName": "Ligue 2",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/9459/season/24750/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "andorra",
+        "countryName": "Andorra",
+        "data": [
+            {
+                "uniqueId": "742",
+                "uniqueName": "Primera Divisio",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/742/season/25200/json"
+            },
+            {
+                "uniqueId": "743",
+                "uniqueName": "Segona Divisio",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/743/season/25201/json"
+            },
+            {
+                "uniqueId": "881",
+                "uniqueName": "Copa Constitucio",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/881/season/26823/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "angola",
+        "countryName": "Angola",
+        "data": [
+            {
+                "uniqueId": "2308",
+                "uniqueName": "Girabola",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2308/season/24961/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "argentina",
+        "countryName": "Argentina",
+        "data": [
+            {
+                "uniqueId": "155",
+                "uniqueName": "Superliga",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/155/season/24239/json"
+            },
+            {
+                "uniqueId": "703",
+                "uniqueName": "Primera B Nacional",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/703/season/24808/json"
+            },
+            {
+                "uniqueId": "1347",
+                "uniqueName": "Primera B",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1347/season/24670/json"
+            },
+            {
+                "uniqueId": "1024",
+                "uniqueName": "Copa Argentina",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1024/season/22702/json"
+            },
+            {
+                "uniqueId": "1618",
+                "uniqueName": "Super Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1618/season/22907/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "armenia",
+        "countryName": "Armenia",
+        "data": [
+            {
+                "uniqueId": "671",
+                "uniqueName": "Premier League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/671/season/24666/json"
+            },
+            {
+                "uniqueId": "672",
+                "uniqueName": "First League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/672/season/24807/json"
+            },
+            {
+                "uniqueId": "778",
+                "uniqueName": "Armenian Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/778/season/26028/json"
+            },
+            {
+                "uniqueId": "1924",
+                "uniqueName": "Super Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1924/season/25589/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "asia",
+        "countryName": "Asia",
+        "data": [
+            {
+                "uniqueId": "308",
+                "uniqueName": "World Cup Qual. AFC",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/308/season/23606/json"
+            },
+            {
+                "uniqueId": "463",
+                "uniqueName": "AFC Champions League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/463/season/26783/json"
+            },
+            {
+                "uniqueId": "668",
+                "uniqueName": "AFC Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/668/season/27069/json"
+            },
+            {
+                "uniqueId": "246",
+                "uniqueName": "AFC Asian Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/246/season/16919/json"
+            },
+            {
+                "uniqueId": "28",
+                "uniqueName": "AFC Asian Cup Qual.",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/28/season/11651/json"
+            },
+            {
+                "uniqueId": "1692",
+                "uniqueName": "AFC Asian Cup, Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1692/season/15782/json"
+            },
+            {
+                "uniqueId": "602",
+                "uniqueName": "AFF Suzuki Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/602/season/17251/json"
+            },
+            {
+                "uniqueId": "1862",
+                "uniqueName": "Asian Games",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1862/season/18142/json"
+            },
+            {
+                "uniqueId": "474",
+                "uniqueName": "Asian Games Men's Round 2",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/474/season/3112/json"
+            },
+            {
+                "uniqueId": "1866",
+                "uniqueName": "Asian Games Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1866/season/8986/json"
+            },
+            {
+                "uniqueId": "392",
+                "uniqueName": "East Asian Championship",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/392/season/26140/json"
+            },
+            {
+                "uniqueId": "622",
+                "uniqueName": "Gulf Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/622/season/26072/json"
+            },
+            {
+                "uniqueId": "2354",
+                "uniqueName": "SAFF Championship",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2354/season/17258/json"
+            },
+            {
+                "uniqueId": "842",
+                "uniqueName": "WAFF Championship",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/842/season/24593/json"
+            },
+            {
+                "uniqueId": "1890",
+                "uniqueName": "U19 AFC Championship",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1890/season/19251/json"
+            },
+            {
+                "uniqueId": "2087",
+                "uniqueName": "U19 AFC Championship, Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2087/season/26016/json"
+            },
+            {
+                "uniqueId": "1610",
+                "uniqueName": "U22 AFC Championship",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1610/season/7628/json"
+            },
+            {
+                "uniqueId": "2349",
+                "uniqueName": "U23 AFC Championship",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2349/season/25665/json"
+            },
+            {
+                "uniqueId": "2157",
+                "uniqueName": "U23 WAFF Championship",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2157/season/10932/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "austria",
+        "countryName": "Austria",
+        "data": [
+            {
+                "uniqueId": "45",
+                "uniqueName": "Bundesliga",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/45/season/23972/json"
+            },
+            {
+                "uniqueId": "135",
+                "uniqueName": "Erste Liga",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/135/season/23992/json"
+            },
+            {
+                "uniqueId": "445",
+                "uniqueName": "ÖFB Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/445/season/24049/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "austria-amateur",
+        "countryName": "Austria Amateur",
+        "data": [
+            {
+                "uniqueId": "166",
+                "uniqueName": "Regionalliga East",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/166/season/24008/json"
+            },
+            {
+                "uniqueId": "167",
+                "uniqueName": "Regionalliga West",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/167/season/26828/json"
+            },
+            {
+                "uniqueId": "168",
+                "uniqueName": "Regionalliga Centre",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/168/season/24007/json"
+            },
+            {
+                "uniqueId": "9415",
+                "uniqueName": "Bundesliga, Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/9415/season/24156/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "azerbaijan",
+        "countryName": "Azerbaijan",
+        "data": [
+            {
+                "uniqueId": "709",
+                "uniqueName": "Premier League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/709/season/24795/json"
+            },
+            {
+                "uniqueId": "736",
+                "uniqueName": "First Division",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/736/season/24956/json"
+            },
+            {
+                "uniqueId": "740",
+                "uniqueName": "Azerbaijan Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/740/season/26276/json"
+            },
+            {
+                "uniqueId": "1544",
+                "uniqueName": "Super Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1544/season/7392/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "bolivia",
+        "countryName": "Bolivia",
+        "data": [
+            {
+                "uniqueId": "866",
+                "uniqueName": "Liga Profesional Boliviano",
+                "jsonUrl": "#ERROR!"
+            }
+        ]
+    },
+    {
+        "countrySlug": "bosnia-herzegovina",
+        "countryName": "Bosnia & Herzegovina",
+        "data": [
+            {
+                "uniqueId": "222",
+                "uniqueName": "Premijer Liga",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/222/season/23981/json"
+            },
+            {
+                "uniqueId": "716",
+                "uniqueName": "Prva Liga, Federacije BiH",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/716/season/24225/json"
+            },
+            {
+                "uniqueId": "715",
+                "uniqueName": "Prva Liga, Republike Srpske",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/715/season/24274/json"
+            },
+            {
+                "uniqueId": "583",
+                "uniqueName": "Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/583/season/23985/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "brazil",
+        "countryName": "Brazil",
+        "data": [
+            {
+                "uniqueId": "325",
+                "uniqueName": "Brasileiro Série A",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/325/season/22931/json"
+            },
+            {
+                "uniqueId": "390",
+                "uniqueName": "Brasileiro Série B",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/390/season/22932/json"
+            },
+            {
+                "uniqueId": "1281",
+                "uniqueName": "Brasileiro Série C",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1281/season/22933/json"
+            },
+            {
+                "uniqueId": "10326",
+                "uniqueName": "Brasileiro Série D",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10326/season/23103/json"
+            },
+            {
+                "uniqueId": "373",
+                "uniqueName": "Copa do Brasil",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/373/season/26773/json"
+            },
+            {
+                "uniqueId": "374",
+                "uniqueName": "Baiano",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/374/season/26547/json"
+            },
+            {
+                "uniqueId": "92",
+                "uniqueName": "Carioca, Série A",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/92/season/26251/json"
+            },
+            {
+                "uniqueId": "376",
+                "uniqueName": "Catarinense, Divisão Principal",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/376/season/26506/json"
+            },
+            {
+                "uniqueId": "378",
+                "uniqueName": "Cearense, Série A",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/378/season/26507/json"
+            },
+            {
+                "uniqueId": "377",
+                "uniqueName": "Gaúcho",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/377/season/26508/json"
+            },
+            {
+                "uniqueId": "381",
+                "uniqueName": "Goiano, 1 Divisão",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/381/season/26751/json"
+            },
+            {
+                "uniqueId": "379",
+                "uniqueName": "Mineiro, Módulo I",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/379/season/26504/json"
+            },
+            {
+                "uniqueId": "382",
+                "uniqueName": "Paranaense, 1 Divisão",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/382/season/26511/json"
+            },
+            {
+                "uniqueId": "372",
+                "uniqueName": "Paulista, Série A1",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/372/season/26501/json"
+            },
+            {
+                "uniqueId": "1234",
+                "uniqueName": "Paulista, Série A2",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1234/season/26502/json"
+            },
+            {
+                "uniqueId": "1614",
+                "uniqueName": "Paulista, Série A3",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1614/season/26503/json"
+            },
+            {
+                "uniqueId": "380",
+                "uniqueName": "Pernambucano, Série A1",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/380/season/26318/json"
+            },
+            {
+                "uniqueId": "2738",
+                "uniqueName": "Primeira Liga do Brasil",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2738/season/12766/json"
+            },
+            {
+                "uniqueId": "1596",
+                "uniqueName": "Copa do Nordeste",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1596/season/26250/json"
+            },
+            {
+                "uniqueId": "10158",
+                "uniqueName": "Copa Verde",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10158/season/24138/json"
+            },
+            {
+                "uniqueId": "9233",
+                "uniqueName": "U20 Campeonato Brasileiro",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/9233/season/23764/json"
+            },
+            {
+                "uniqueId": "10308",
+                "uniqueName": "U20 Paulista",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10308/season/23113/json"
+            },
+            {
+                "uniqueId": "9491",
+                "uniqueName": "U20 Copa do Brasil",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/9491/season/22761/json"
+            },
+            {
+                "uniqueId": "10257",
+                "uniqueName": "Campeonato Brasileiro, Série A,  Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10257/season/26840/json"
+            },
+            {
+                "uniqueId": "10383",
+                "uniqueName": "Copa Paulista",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10383/season/23601/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "bulgaria",
+        "countryName": "Bulgaria",
+        "data": [
+            {
+                "uniqueId": "247",
+                "uniqueName": "Parva Liga",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/247/season/23773/json"
+            },
+            {
+                "uniqueId": "1135",
+                "uniqueName": "Vtora Liga",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1135/season/23879/json"
+            },
+            {
+                "uniqueId": "365",
+                "uniqueName": "Bulgarian Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/365/season/25592/json"
+            },
+            {
+                "uniqueId": "510",
+                "uniqueName": "Super Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/510/season/23635/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "cameroon",
+        "countryName": "Cameroon",
+        "data": [
+            {
+                "uniqueId": "1006",
+                "uniqueName": "Elite One",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1006/season/25871/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "canada",
+        "countryName": "Canada",
+        "data": [
+            {
+                "uniqueId": "482",
+                "uniqueName": "Canadian Soccer League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/482/season/25452/json"
+            },
+            {
+                "uniqueId": "9230",
+                "uniqueName": "Canadian Championship",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/9230/season/26822/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "colombia",
+        "countryName": "Colombia",
+        "data": [
+            {
+                "uniqueId": "241",
+                "uniqueName": "Primera A",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/241/season/3715/json"
+            },
+            {
+                "uniqueId": "1238",
+                "uniqueName": "Primera B",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1238/season/26959/json"
+            },
+            {
+                "uniqueId": "10756",
+                "uniqueName": "Super Liga Aguila Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10756/season/20161/json"
+            },
+            {
+                "uniqueId": "1335",
+                "uniqueName": "Copa Colombia",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1335/season/22512/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "congo-republic",
+        "countryName": "Congo Republic",
+        "data": [
+            {
+                "uniqueId": "10784",
+                "uniqueName": "Premier League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10784/season/25548/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "costa-rica",
+        "countryName": "Costa Rica",
+        "data": [
+            {
+                "uniqueId": "84",
+                "uniqueName": "Primera División",
+                "jsonUrl": "#ERROR!"
+            }
+        ]
+    },
+    {
+        "countrySlug": "croatia",
+        "countryName": "Croatia",
+        "data": [
+            {
+                "uniqueId": "170",
+                "uniqueName": "1. HNL",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/170/season/23778/json"
+            },
+            {
+                "uniqueId": "724",
+                "uniqueName": "2. HNL",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/724/season/24134/json"
+            },
+            {
+                "uniqueId": "307",
+                "uniqueName": "Croatian Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/307/season/25470/json"
+            },
+            {
+                "uniqueId": "800",
+                "uniqueName": "Super Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/800/season/24223/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "cyprus",
+        "countryName": "Cyprus",
+        "data": [
+            {
+                "uniqueId": "171",
+                "uniqueName": "1st Division",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/171/season/24157/json"
+            },
+            {
+                "uniqueId": "692",
+                "uniqueName": "2nd Division",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/692/season/24804/json"
+            },
+            {
+                "uniqueId": "315",
+                "uniqueName": "Cyprus Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/315/season/25943/json"
+            },
+            {
+                "uniqueId": "550",
+                "uniqueName": "Super Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/550/season/25553/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "czech-republic",
+        "countryName": "Czech Republic",
+        "data": [
+            {
+                "uniqueId": "172",
+                "uniqueName": "1. Liga",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/172/season/23984/json"
+            },
+            {
+                "uniqueId": "205",
+                "uniqueName": "FNL",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/205/season/23993/json"
+            },
+            {
+                "uniqueId": "9387",
+                "uniqueName": "CFL",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/9387/season/24152/json"
+            },
+            {
+                "uniqueId": "9386",
+                "uniqueName": "MSFL",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/9386/season/24258/json"
+            },
+            {
+                "uniqueId": "282",
+                "uniqueName": "Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/282/season/24107/json"
+            },
+            {
+                "uniqueId": "798",
+                "uniqueName": "Super Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/798/season/10451/json"
+            },
+            {
+                "uniqueId": "823",
+                "uniqueName": "1. Liga, Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/823/season/24143/json"
+            },
+            {
+                "uniqueId": "1224",
+                "uniqueName": "Winter League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1224/season/26679/json"
+            },
+            {
+                "uniqueId": "822",
+                "uniqueName": "U19 1st Division",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/822/season/24256/json"
+            },
+            {
+                "uniqueId": "1303",
+                "uniqueName": "U21",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1303/season/17773/json"
+            },
+            {
+                "uniqueId": "10432",
+                "uniqueName": "U21, Bohemia Group",
+                "jsonUrl": "#ERROR!"
+            },
+            {
+                "uniqueId": "10433",
+                "uniqueName": "U21, Moravia Group",
+                "jsonUrl": "#ERROR!"
+            }
+        ]
+    },
+    {
+        "countrySlug": "denmark",
+        "countryName": "Denmark",
+        "data": [
+            {
+                "uniqueId": "39",
+                "uniqueName": "Superligaen",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/39/season/23743/json"
+            },
+            {
+                "uniqueId": "47",
+                "uniqueName": "1st Division",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/47/season/24000/json"
+            },
+            {
+                "uniqueId": "65",
+                "uniqueName": "2nd Division",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/65/season/24111/json"
+            },
+            {
+                "uniqueId": "76",
+                "uniqueName": "DBU Pokalen",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/76/season/24626/json"
+            },
+            {
+                "uniqueId": "9412",
+                "uniqueName": "Elitedivisionen, Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/9412/season/24153/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "ecuador",
+        "countryName": "Ecuador",
+        "data": [
+            {
+                "uniqueId": "240",
+                "uniqueName": "Serie A",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/240/season/26952/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "egypt",
+        "countryName": "Egypt",
+        "data": [
+            {
+                "uniqueId": "808",
+                "uniqueName": "Premier League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/808/season/25455/json"
+            },
+            {
+                "uniqueId": "2305",
+                "uniqueName": "Egypt Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2305/season/26319/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "el-salvador",
+        "countryName": "El Salvador",
+        "data": [
+            {
+                "uniqueId": "1081",
+                "uniqueName": "Primera División",
+                "jsonUrl": "#ERROR!"
+            }
+        ]
+    },
+    {
+        "countrySlug": "england",
+        "countryName": "England",
+        "data": [
+            {
+                "uniqueId": "17",
+                "uniqueName": "Premier League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/17/season/23776/json"
+            },
+            {
+                "uniqueId": "18",
+                "uniqueName": "Championship",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/18/season/23976/json"
+            },
+            {
+                "uniqueId": "24",
+                "uniqueName": "League One",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/24/season/23977/json"
+            },
+            {
+                "uniqueId": "25",
+                "uniqueName": "League Two",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/25/season/23980/json"
+            },
+            {
+                "uniqueId": "173",
+                "uniqueName": "National League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/173/season/24130/json"
+            },
+            {
+                "uniqueId": "19",
+                "uniqueName": "FA Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/19/season/25944/json"
+            },
+            {
+                "uniqueId": "1696",
+                "uniqueName": "FA Cup, Qualification",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1696/season/25274/json"
+            },
+            {
+                "uniqueId": "21",
+                "uniqueName": "EFL Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/21/season/24004/json"
+            },
+            {
+                "uniqueId": "334",
+                "uniqueName": "Football League Trophy",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/334/season/24656/json"
+            },
+            {
+                "uniqueId": "346",
+                "uniqueName": "Community Shield",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/346/season/23752/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "england-amateur",
+        "countryName": "England Amateur",
+        "data": [
+            {
+                "uniqueId": "176",
+                "uniqueName": "National League North",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/176/season/24132/json"
+            },
+            {
+                "uniqueId": "174",
+                "uniqueName": "National League South",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/174/season/24133/json"
+            },
+            {
+                "uniqueId": "1131",
+                "uniqueName": "Isthmian Football League, Premier Division",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1131/season/24265/json"
+            },
+            {
+                "uniqueId": "1111",
+                "uniqueName": "Northern Premier League, Premier Division",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1111/season/24264/json"
+            },
+            {
+                "uniqueId": "1113",
+                "uniqueName": "Southern Football League, Premier Division",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1113/season/13973/json"
+            },
+            {
+                "uniqueId": "1129",
+                "uniqueName": "Premier League 2",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1129/season/24675/json"
+            },
+            {
+                "uniqueId": "1592",
+                "uniqueName": "Premier League Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1592/season/26830/json"
+            },
+            {
+                "uniqueId": "628",
+                "uniqueName": "FA Trophy",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/628/season/26323/json"
+            },
+            {
+                "uniqueId": "1044",
+                "uniqueName": "The FA Women's Super League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1044/season/24121/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "estonia",
+        "countryName": "Estonia",
+        "data": [
+            {
+                "uniqueId": "178",
+                "uniqueName": "Premium Liiga",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/178/season/27059/json"
+            },
+            {
+                "uniqueId": "678",
+                "uniqueName": "Esiliiga",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/678/season/27060/json"
+            },
+            {
+                "uniqueId": "731",
+                "uniqueName": "Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/731/season/24392/json"
+            },
+            {
+                "uniqueId": "356",
+                "uniqueName": "Super Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/356/season/22625/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "europe",
+        "countryName": "Europe",
+        "data": [
+            {
+                "uniqueId": "7",
+                "uniqueName": "UEFA Champions League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/7/season/23766/json"
+            },
+            {
+                "uniqueId": "679",
+                "uniqueName": "UEFA Europa League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/679/season/23755/json"
+            },
+            {
+                "uniqueId": "10783",
+                "uniqueName": "UEFA Nations League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10783/season/16000/json"
+            },
+            {
+                "uniqueId": "11",
+                "uniqueName": "World Cup Qual. UEFA",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/11/season/10585/json"
+            },
+            {
+                "uniqueId": "465",
+                "uniqueName": "UEFA Super Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/465/season/23614/json"
+            },
+            {
+                "uniqueId": "696",
+                "uniqueName": "UEFA Champions League, Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/696/season/24451/json"
+            },
+            {
+                "uniqueId": "2132",
+                "uniqueName": "UEFA Youth League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2132/season/25325/json"
+            },
+            {
+                "uniqueId": "886",
+                "uniqueName": "Audi Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/886/season/24228/json"
+            },
+            {
+                "uniqueId": "1",
+                "uniqueName": "Euro Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1/season/26542/json"
+            },
+            {
+                "uniqueId": "27",
+                "uniqueName": "Euro Cup Qualification",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/27/season/19857/json"
+            },
+            {
+                "uniqueId": "477",
+                "uniqueName": "Euro Cup Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/477/season/12634/json"
+            },
+            {
+                "uniqueId": "878",
+                "uniqueName": "Euro Cup Women Qual.",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/878/season/25022/json"
+            },
+            {
+                "uniqueId": "780",
+                "uniqueName": "World Cup Women Qual.",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/780/season/13233/json"
+            },
+            {
+                "uniqueId": "429",
+                "uniqueName": "U17 European Championship",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/429/season/23045/json"
+            },
+            {
+                "uniqueId": "755",
+                "uniqueName": "U17 European Championship, Qual.",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/755/season/25607/json"
+            },
+            {
+                "uniqueId": "917",
+                "uniqueName": "U17 European Womens Championship",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/917/season/23102/json"
+            },
+            {
+                "uniqueId": "753",
+                "uniqueName": "U17 Euro Womens, Qual",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/753/season/25451/json"
+            },
+            {
+                "uniqueId": "1052",
+                "uniqueName": "U18 Slovakia Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1052/season/23385/json"
+            },
+            {
+                "uniqueId": "258",
+                "uniqueName": "U19 European Championship",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/258/season/23741/json"
+            },
+            {
+                "uniqueId": "748",
+                "uniqueName": "U19 European Championship Qualif.",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/748/season/25683/json"
+            },
+            {
+                "uniqueId": "695",
+                "uniqueName": "U19 European Women's Championship",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/695/season/23154/json"
+            },
+            {
+                "uniqueId": "746",
+                "uniqueName": "U19 European Women's Championship Qualif.",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/746/season/25596/json"
+            },
+            {
+                "uniqueId": "454",
+                "uniqueName": "U21 European Championship",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/454/season/19788/json"
+            },
+            {
+                "uniqueId": "26",
+                "uniqueName": "U21 Euro Qualification",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/26/season/22580/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "faroe-islands",
+        "countryName": "Faroe Islands",
+        "data": [
+            {
+                "uniqueId": "673",
+                "uniqueName": "Premier League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/673/season/22501/json"
+            },
+            {
+                "uniqueId": "674",
+                "uniqueName": "1. deild",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/674/season/22502/json"
+            },
+            {
+                "uniqueId": "779",
+                "uniqueName": "Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/779/season/23544/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "france",
+        "countryName": "France",
+        "data": [
+            {
+                "uniqueId": "34",
+                "uniqueName": "Ligue 1",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/34/season/23872/json"
+            },
+            {
+                "uniqueId": "182",
+                "uniqueName": "Ligue 2",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/182/season/23875/json"
+            },
+            {
+                "uniqueId": "183",
+                "uniqueName": "National",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/183/season/24254/json"
+            },
+            {
+                "uniqueId": "335",
+                "uniqueName": "Coupe de France",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/335/season/26061/json"
+            },
+            {
+                "uniqueId": "333",
+                "uniqueName": "Coupe de la Ligue",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/333/season/24488/json"
+            },
+            {
+                "uniqueId": "339",
+                "uniqueName": "Trophée des Champions",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/339/season/23754/json"
+            },
+            {
+                "uniqueId": "1139",
+                "uniqueName": "Division 1, Feminines",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1139/season/24253/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "germany",
+        "countryName": "Germany",
+        "data": [
+            {
+                "uniqueId": "35",
+                "uniqueName": "Bundesliga",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/35/season/23538/json"
+            },
+            {
+                "uniqueId": "44",
+                "uniqueName": "2. Bundesliga",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/44/season/24043/json"
+            },
+            {
+                "uniqueId": "491",
+                "uniqueName": "3. Liga",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/491/season/24117/json"
+            },
+            {
+                "uniqueId": "217",
+                "uniqueName": "DFB Pokal",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/217/season/23877/json"
+            },
+            {
+                "uniqueId": "799",
+                "uniqueName": "Super Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/799/season/23602/json"
+            },
+            {
+                "uniqueId": "889",
+                "uniqueName": "Telekom Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/889/season/20024/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "germany-amateur",
+        "countryName": "Germany Amateur",
+        "data": [
+            {
+                "uniqueId": "1085",
+                "uniqueName": "Regionalliga Bayern",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1085/season/23876/json"
+            },
+            {
+                "uniqueId": "42",
+                "uniqueName": "Regionalliga Nord",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/42/season/24221/json"
+            },
+            {
+                "uniqueId": "1083",
+                "uniqueName": "Regionalliga Nordost",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1083/season/24141/json"
+            },
+            {
+                "uniqueId": "493",
+                "uniqueName": "Regionalliga West",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/493/season/24220/json"
+            },
+            {
+                "uniqueId": "1079",
+                "uniqueName": "Regionalliga Südwest",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1079/season/24120/json"
+            },
+            {
+                "uniqueId": "1089",
+                "uniqueName": "Bayernliga Nord",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1089/season/24009/json"
+            },
+            {
+                "uniqueId": "1091",
+                "uniqueName": "Bayernliga Süd",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1091/season/24006/json"
+            },
+            {
+                "uniqueId": "508",
+                "uniqueName": "Bremen-Liga",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/508/season/24482/json"
+            },
+            {
+                "uniqueId": "184",
+                "uniqueName": "Hessenliga",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/184/season/24375/json"
+            },
+            {
+                "uniqueId": "142",
+                "uniqueName": "Oberliga Baden Wuerttemberg",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/142/season/24450/json"
+            },
+            {
+                "uniqueId": "509",
+                "uniqueName": "Oberliga Hamburg",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/509/season/24396/json"
+            },
+            {
+                "uniqueId": "1105",
+                "uniqueName": "Oberliga Mittelrhein",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1105/season/24483/json"
+            },
+            {
+                "uniqueId": "1103",
+                "uniqueName": "Oberliga Niederrhein",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1103/season/24386/json"
+            },
+            {
+                "uniqueId": "813",
+                "uniqueName": "Oberliga Niedersachsen",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/813/season/24391/json"
+            },
+            {
+                "uniqueId": "145",
+                "uniqueName": "Oberliga NOFV Nord",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/145/season/24388/json"
+            },
+            {
+                "uniqueId": "150",
+                "uniqueName": "Oberliga NOFV Süd",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/150/season/24390/json"
+            },
+            {
+                "uniqueId": "1109",
+                "uniqueName": "Oberliga Rheinland-Pfalz/Saar",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1109/season/24521/json"
+            },
+            {
+                "uniqueId": "146",
+                "uniqueName": "Oberliga Westfalen",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/146/season/24398/json"
+            },
+            {
+                "uniqueId": "512",
+                "uniqueName": "Schleswig-Holstein-Liga",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/512/season/24472/json"
+            },
+            {
+                "uniqueId": "232",
+                "uniqueName": "Women Bundesliga",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/232/season/24139/json"
+            },
+            {
+                "uniqueId": "2288",
+                "uniqueName": "2. Bundesliga, Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2288/season/24142/json"
+            },
+            {
+                "uniqueId": "686",
+                "uniqueName": "DFB Pokal, Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/686/season/24240/json"
+            },
+            {
+                "uniqueId": "872",
+                "uniqueName": "Bundesliga Cup Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/872/season/3242/json"
+            },
+            {
+                "uniqueId": "809",
+                "uniqueName": "A-Jun-BL N/N-E",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/809/season/24410/json"
+            },
+            {
+                "uniqueId": "811",
+                "uniqueName": "A-Jun-BL S/S-W",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/811/season/24409/json"
+            },
+            {
+                "uniqueId": "810",
+                "uniqueName": "A-Jun-BL West",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/810/season/24408/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "ghana",
+        "countryName": "Ghana",
+        "data": [
+            {
+                "uniqueId": "1191",
+                "uniqueName": "Premier League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1191/season/26805/json"
+            },
+            {
+                "uniqueId": "2303",
+                "uniqueName": "FA Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2303/season/13379/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "greece",
+        "countryName": "Greece",
+        "data": [
+            {
+                "uniqueId": "185",
+                "uniqueName": "Super League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/185/season/24108/json"
+            },
+            {
+                "uniqueId": "186",
+                "uniqueName": "Football League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/186/season/25183/json"
+            },
+            {
+                "uniqueId": "1448",
+                "uniqueName": "3rd League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1448/season/18937/json"
+            },
+            {
+                "uniqueId": "375",
+                "uniqueName": "Greece Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/375/season/25891/json"
+            },
+            {
+                "uniqueId": "1462",
+                "uniqueName": "Cup of 3rd League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1462/season/12546/json"
+            },
+            {
+                "uniqueId": "9414",
+                "uniqueName": "U20 Super League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/9414/season/14198/json"
+            },
+            {
+                "uniqueId": "10609",
+                "uniqueName": "Super League, Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10609/season/25493/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "guatemala",
+        "countryName": "Guatemala",
+        "data": [
+            {
+                "uniqueId": "177",
+                "uniqueName": "Liga Nacional",
+                "jsonUrl": "#ERROR!"
+            }
+        ]
+    },
+    {
+        "countrySlug": "honduras",
+        "countryName": "Honduras",
+        "data": [
+            {
+                "uniqueId": "925",
+                "uniqueName": "Liga Nacional",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/925/season/23261/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "hong-kong",
+        "countryName": "Hong Kong",
+        "data": [
+            {
+                "uniqueId": "947",
+                "uniqueName": "Premier League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/947/season/24973/json"
+            },
+            {
+                "uniqueId": "10291",
+                "uniqueName": "FA Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10291/season/22353/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "hungary",
+        "countryName": "Hungary",
+        "data": [
+            {
+                "uniqueId": "187",
+                "uniqueName": "NB I",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/187/season/24044/json"
+            },
+            {
+                "uniqueId": "1339",
+                "uniqueName": "NB II",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1339/season/24109/json"
+            },
+            {
+                "uniqueId": "446",
+                "uniqueName": "Super Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/446/season/10334/json"
+            },
+            {
+                "uniqueId": "305",
+                "uniqueName": "Magyar Kupa",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/305/season/25494/json"
+            },
+            {
+                "uniqueId": "269",
+                "uniqueName": "Liga Kupa",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/269/season/8846/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "iceland",
+        "countryName": "Iceland",
+        "data": [
+            {
+                "uniqueId": "188",
+                "uniqueName": "Urvalsdeild",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/188/season/26940/json"
+            },
+            {
+                "uniqueId": "675",
+                "uniqueName": "1. deild",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/675/season/26943/json"
+            },
+            {
+                "uniqueId": "10309",
+                "uniqueName": "2. deild",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10309/season/27307/json"
+            },
+            {
+                "uniqueId": "504",
+                "uniqueName": "Bikarinn",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/504/season/22714/json"
+            },
+            {
+                "uniqueId": "2056",
+                "uniqueName": "League Cup A",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2056/season/26843/json"
+            },
+            {
+                "uniqueId": "786",
+                "uniqueName": "Super Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/786/season/26941/json"
+            },
+            {
+                "uniqueId": "10307",
+                "uniqueName": "Urvalsdeild, Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10307/season/26942/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "india",
+        "countryName": "India",
+        "data": [
+            {
+                "uniqueId": "1900",
+                "uniqueName": "Indian Super League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1900/season/25114/json"
+            },
+            {
+                "uniqueId": "848",
+                "uniqueName": "I-League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/848/season/26232/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "indonesia",
+        "countryName": "Indonesia",
+        "data": [
+            {
+                "uniqueId": "1015",
+                "uniqueName": "Liga 1",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1015/season/23386/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "iran",
+        "countryName": "Iran",
+        "data": [
+            {
+                "uniqueId": "915",
+                "uniqueName": "Persian Gulf League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/915/season/24971/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "ireland",
+        "countryName": "Ireland",
+        "data": [
+            {
+                "uniqueId": "192",
+                "uniqueName": "Premier Division",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/192/season/26826/json"
+            },
+            {
+                "uniqueId": "193",
+                "uniqueName": "First Division",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/193/season/26948/json"
+            },
+            {
+                "uniqueId": "194",
+                "uniqueName": "League Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/194/season/22674/json"
+            },
+            {
+                "uniqueId": "195",
+                "uniqueName": "FAI Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/195/season/24242/json"
+            },
+            {
+                "uniqueId": "1632",
+                "uniqueName": "FAI Presidents Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1632/season/26832/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "israel",
+        "countryName": "Israel",
+        "data": [
+            {
+                "uniqueId": "266",
+                "uniqueName": "Premier League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/266/season/23996/json"
+            },
+            {
+                "uniqueId": "727",
+                "uniqueName": "National League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/727/season/24001/json"
+            },
+            {
+                "uniqueId": "9355",
+                "uniqueName": "League Cup, Premier",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/9355/season/23911/json"
+            },
+            {
+                "uniqueId": "9356",
+                "uniqueName": "League Cup, National",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/9356/season/23885/json"
+            },
+            {
+                "uniqueId": "2104",
+                "uniqueName": "Super Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2104/season/24050/json"
+            },
+            {
+                "uniqueId": "370",
+                "uniqueName": "State Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/370/season/25787/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "italy",
+        "countryName": "Italy",
+        "data": [
+            {
+                "uniqueId": "23",
+                "uniqueName": "Serie A",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/23/season/24644/json"
+            },
+            {
+                "uniqueId": "53",
+                "uniqueName": "Serie B",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/53/season/24758/json"
+            },
+            {
+                "uniqueId": "343",
+                "uniqueName": "Serie C",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/343/season/6909/json"
+            },
+            {
+                "uniqueId": "10640",
+                "uniqueName": "Serie A Femminile",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10640/season/24792/json"
+            },
+            {
+                "uniqueId": "328",
+                "uniqueName": "Coppa Italia",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/328/season/24519/json"
+            },
+            {
+                "uniqueId": "824",
+                "uniqueName": "Coppa Italia Serie C",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/824/season/24679/json"
+            },
+            {
+                "uniqueId": "341",
+                "uniqueName": "Supercoppa",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/341/season/26157/json"
+            },
+            {
+                "uniqueId": "884",
+                "uniqueName": "Supercoppa Serie C",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/884/season/23376/json"
+            },
+            {
+                "uniqueId": "2291",
+                "uniqueName": "Serie D",
+                "jsonUrl": "#ERROR!"
+            },
+            {
+                "uniqueId": "2292",
+                "uniqueName": "Campionato Primavera 1",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2292/season/24790/json"
+            },
+            {
+                "uniqueId": "10534",
+                "uniqueName": "Campionato Primavera 2",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10534/season/25176/json"
+            },
+            {
+                "uniqueId": "1554",
+                "uniqueName": "Primavera Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1554/season/25590/json"
+            },
+            {
+                "uniqueId": "1910",
+                "uniqueName": "Supercoppa Primavera",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1910/season/25859/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "ivory-coast",
+        "countryName": "Ivory Coast",
+        "data": [
+            {
+                "uniqueId": "1211",
+                "uniqueName": "Ligue 1",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1211/season/24962/json"
+            },
+            {
+                "uniqueId": "9385",
+                "uniqueName": "Coupe Nationale",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/9385/season/23453/json"
+            },
+            {
+                "uniqueId": "10589",
+                "uniqueName": "Super Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10589/season/14815/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "jamaica",
+        "countryName": "Jamaica",
+        "data": [
+            {
+                "uniqueId": "1892",
+                "uniqueName": "Premier League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1892/season/25219/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "japan",
+        "countryName": "Japan",
+        "data": [
+            {
+                "uniqueId": "196",
+                "uniqueName": "J.League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/196/season/27042/json"
+            },
+            {
+                "uniqueId": "402",
+                "uniqueName": "J.League 2",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/402/season/27159/json"
+            },
+            {
+                "uniqueId": "101",
+                "uniqueName": "J. League Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/101/season/27196/json"
+            },
+            {
+                "uniqueId": "2293",
+                "uniqueName": "J.League 3",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2293/season/27160/json"
+            },
+            {
+                "uniqueId": "323",
+                "uniqueName": "Emperor Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/323/season/23546/json"
+            },
+            {
+                "uniqueId": "393",
+                "uniqueName": "Super Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/393/season/26875/json"
+            },
+            {
+                "uniqueId": "3085",
+                "uniqueName": "Nadeshiko League, Div. 1, Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/3085/season/22629/json"
+            },
+            {
+                "uniqueId": "10156",
+                "uniqueName": "J-League New Year Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10156/season/12853/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "jordan",
+        "countryName": "Jordan",
+        "data": [
+            {
+                "uniqueId": "929",
+                "uniqueName": "Jordan League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/929/season/18240/json"
+            },
+            {
+                "uniqueId": "1822",
+                "uniqueName": "Jordan Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1822/season/22757/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "kazakhstan",
+        "countryName": "Kazakhstan",
+        "data": [
+            {
+                "uniqueId": "682",
+                "uniqueName": "Premier League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/682/season/27055/json"
+            },
+            {
+                "uniqueId": "749",
+                "uniqueName": "Kazakhstan Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/749/season/22943/json"
+            },
+            {
+                "uniqueId": "773",
+                "uniqueName": "Super Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/773/season/26944/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "kenya",
+        "countryName": "Kenya",
+        "data": [
+            {
+                "uniqueId": "1644",
+                "uniqueName": "Premier League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1644/season/24023/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "kosovo",
+        "countryName": "Kosovo",
+        "data": [
+            {
+                "uniqueId": "9413",
+                "uniqueName": "Superliga",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/9413/season/24747/json"
+            },
+            {
+                "uniqueId": "9426",
+                "uniqueName": "First League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/9426/season/24748/json"
+            },
+            {
+                "uniqueId": "10069",
+                "uniqueName": "Kosovo FA Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10069/season/26278/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "kuwait",
+        "countryName": "Kuwait",
+        "data": [
+            {
+                "uniqueId": "1002",
+                "uniqueName": "Kuwait League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1002/season/25098/json"
+            },
+            {
+                "uniqueId": "939",
+                "uniqueName": "Crown Prince Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/939/season/26795/json"
+            },
+            {
+                "uniqueId": "953",
+                "uniqueName": "Federation Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/953/season/25100/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "latvia",
+        "countryName": "Latvia",
+        "data": [
+            {
+                "uniqueId": "197",
+                "uniqueName": "Virsliga",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/197/season/22627/json"
+            },
+            {
+                "uniqueId": "677",
+                "uniqueName": "1.Liga",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/677/season/23160/json"
+            },
+            {
+                "uniqueId": "761",
+                "uniqueName": "Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/761/season/24255/json"
+            },
+            {
+                "uniqueId": "1620",
+                "uniqueName": "Winter Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1620/season/11086/json"
+            },
+            {
+                "uniqueId": "1266",
+                "uniqueName": "Super Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1266/season/6042/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "lebanon",
+        "countryName": "Lebanon",
+        "data": [
+            {
+                "uniqueId": "2295",
+                "uniqueName": "Premier League ",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2295/season/25443/json"
+            },
+            {
+                "uniqueId": "2307",
+                "uniqueName": "Lebanon Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2307/season/22404/json"
+            },
+            {
+                "uniqueId": "2159",
+                "uniqueName": "Super Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2159/season/25368/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "macedonia",
+        "countryName": "Macedonia",
+        "data": [
+            {
+                "uniqueId": "199",
+                "uniqueName": "1. MFL",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/199/season/24597/json"
+            },
+            {
+                "uniqueId": "718",
+                "uniqueName": "2. MFL",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/718/season/24854/json"
+            },
+            {
+                "uniqueId": "348",
+                "uniqueName": "Macedonia Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/348/season/25036/json"
+            },
+            {
+                "uniqueId": "912",
+                "uniqueName": "Supercup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/912/season/10338/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "malaysia",
+        "countryName": "Malaysia",
+        "data": [
+            {
+                "uniqueId": "1000",
+                "uniqueName": "Super League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1000/season/26919/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "malta",
+        "countryName": "Malta",
+        "data": [
+            {
+                "uniqueId": "629",
+                "uniqueName": "Premier Division",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/629/season/24796/json"
+            },
+            {
+                "uniqueId": "630",
+                "uniqueName": "First Division",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/630/season/24797/json"
+            },
+            {
+                "uniqueId": "633",
+                "uniqueName": "FA Trophy",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/633/season/26320/json"
+            },
+            {
+                "uniqueId": "725",
+                "uniqueName": "Super Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/725/season/26796/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "mexico",
+        "countryName": "Mexico",
+        "data": [
+            {
+                "uniqueId": "352",
+                "uniqueName": "Liga MX",
+                "jsonUrl": "#ERROR!"
+            },
+            {
+                "uniqueId": "697",
+                "uniqueName": "Ascenso MX",
+                "jsonUrl": "#ERROR!"
+            },
+            {
+                "uniqueId": "1598",
+                "uniqueName": "Copa MX",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1598/season/24013/json"
+            },
+            {
+                "uniqueId": "1754",
+                "uniqueName": "Supercopa MX",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1754/season/23756/json"
+            },
+            {
+                "uniqueId": "10770",
+                "uniqueName": "Liga MX, Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10770/season/15854/json"
+            },
+            {
+                "uniqueId": "10417",
+                "uniqueName": "U20 League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10417/season/26836/json"
+            },
+            {
+                "uniqueId": "2103",
+                "uniqueName": "Trofeo de Campeon de Campeones",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2103/season/23763/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "moldova",
+        "countryName": "Moldova",
+        "data": [
+            {
+                "uniqueId": "685",
+                "uniqueName": "Divizia Nationala",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/685/season/22762/json"
+            },
+            {
+                "uniqueId": "710",
+                "uniqueName": "Divizia A",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/710/season/22930/json"
+            },
+            {
+                "uniqueId": "741",
+                "uniqueName": "Cupa Moldova",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/741/season/23389/json"
+            },
+            {
+                "uniqueId": "890",
+                "uniqueName": "Supercupa",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/890/season/22626/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "montenegro",
+        "countryName": "Montenegro",
+        "data": [
+            {
+                "uniqueId": "154",
+                "uniqueName": "1. CFL",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/154/season/24028/json"
+            },
+            {
+                "uniqueId": "717",
+                "uniqueName": "Druga liga Crne Gore",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/717/season/24029/json"
+            },
+            {
+                "uniqueId": "739",
+                "uniqueName": "Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/739/season/25060/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "morocco",
+        "countryName": "Morocco",
+        "data": [
+            {
+                "uniqueId": "937",
+                "uniqueName": "Botola",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/937/season/25365/json"
+            },
+            {
+                "uniqueId": "1434",
+                "uniqueName": "Morocco Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1434/season/25190/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "myanmar",
+        "countryName": "Myanmar",
+        "data": [
+            {
+                "uniqueId": "10535",
+                "uniqueName": "National League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10535/season/26876/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "netherlands",
+        "countryName": "Netherlands",
+        "data": [
+            {
+                "uniqueId": "37",
+                "uniqueName": "Eredivisie",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/37/season/23873/json"
+            },
+            {
+                "uniqueId": "131",
+                "uniqueName": "Eerste Divisie",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/131/season/23874/json"
+            },
+            {
+                "uniqueId": "330",
+                "uniqueName": "KNVB beker",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/330/season/25679/json"
+            },
+            {
+                "uniqueId": "340",
+                "uniqueName": "Johan Cruijff Schaal",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/340/season/23662/json"
+            },
+            {
+                "uniqueId": "849",
+                "uniqueName": "Beloften Eredivisie",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/849/season/24560/json"
+            },
+            {
+                "uniqueId": "2123",
+                "uniqueName": "Eredivisie, Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2123/season/24423/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "new-zealand",
+        "countryName": "New Zealand",
+        "data": [
+            {
+                "uniqueId": "594",
+                "uniqueName": "Premiership",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/594/season/25776/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "nicaragua",
+        "countryName": "Nicaragua",
+        "data": [
+            {
+                "uniqueId": "10533",
+                "uniqueName": "Primera Division",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10533/season/24443/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "nigeria",
+        "countryName": "Nigeria",
+        "data": [
+            {
+                "uniqueId": "2060",
+                "uniqueName": "Premier League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2060/season/26034/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "north-central-america",
+        "countryName": "North & Central America",
+        "data": [
+            {
+                "uniqueId": "14",
+                "uniqueName": "World Cup Qual. CONCACAF",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/14/season/10191/json"
+            },
+            {
+                "uniqueId": "498",
+                "uniqueName": "CONCACAF Champions League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/498/season/26749/json"
+            },
+            {
+                "uniqueId": "10447",
+                "uniqueName": "CONCACAF League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10447/season/24224/json"
+            },
+            {
+                "uniqueId": "1954",
+                "uniqueName": "CONCACAF Women's Championship",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1954/season/19158/json"
+            },
+            {
+                "uniqueId": "3071",
+                "uniqueName": "CONCACAF Olympic Qualifications, Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/3071/season/26973/json"
+            },
+            {
+                "uniqueId": "140",
+                "uniqueName": "CONCACAF Gold Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/140/season/23156/json"
+            },
+            {
+                "uniqueId": "654",
+                "uniqueName": "CONCACAF Gold Cup Qual.",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/654/season/3212/json"
+            },
+            {
+                "uniqueId": "1161",
+                "uniqueName": "Caribbean Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1161/season/9452/json"
+            },
+            {
+                "uniqueId": "1217",
+                "uniqueName": "Copa Centroamericana",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1217/season/12769/json"
+            },
+            {
+                "uniqueId": "1530",
+                "uniqueName": "U17 CONCACAF Women Championship",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1530/season/16758/json"
+            },
+            {
+                "uniqueId": "2061",
+                "uniqueName": "U17 CONCACAF Championship",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2061/season/23252/json"
+            },
+            {
+                "uniqueId": "638",
+                "uniqueName": "U20 CONCACAF Championship",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/638/season/19504/json"
+            },
+            {
+                "uniqueId": "1568",
+                "uniqueName": "U20 CONCACAF Women's Championship",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1568/season/15904/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "northern-ireland",
+        "countryName": "Northern Ireland",
+        "data": [
+            {
+                "uniqueId": "200",
+                "uniqueName": "Premiership",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/200/season/24030/json"
+            },
+            {
+                "uniqueId": "701",
+                "uniqueName": "Championship 1",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/701/season/24031/json"
+            },
+            {
+                "uniqueId": "767",
+                "uniqueName": "Irish Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/767/season/26839/json"
+            },
+            {
+                "uniqueId": "611",
+                "uniqueName": "League Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/611/season/24789/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "norway",
+        "countryName": "Norway",
+        "data": [
+            {
+                "uniqueId": "20",
+                "uniqueName": "Eliteserien",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/20/season/26799/json"
+            },
+            {
+                "uniqueId": "22",
+                "uniqueName": "1st Division",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/22/season/26800/json"
+            },
+            {
+                "uniqueId": "48",
+                "uniqueName": "2nd Division",
+                "jsonUrl": "#ERROR!"
+            },
+            {
+                "uniqueId": "201",
+                "uniqueName": "Toppserien, Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/201/season/26801/json"
+            },
+            {
+                "uniqueId": "29",
+                "uniqueName": "NM Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/29/season/23159/json"
+            },
+            {
+                "uniqueId": "1062",
+                "uniqueName": "NM Cup Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1062/season/23202/json"
+            },
+            {
+                "uniqueId": "10286",
+                "uniqueName": "3rd Division",
+                "jsonUrl": "#ERROR!"
+            },
+            {
+                "uniqueId": "10270",
+                "uniqueName": "Super Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10270/season/22482/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "oman",
+        "countryName": "Oman",
+        "data": [
+            {
+                "uniqueId": "965",
+                "uniqueName": "Omani League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/965/season/25315/json"
+            },
+            {
+                "uniqueId": "2306",
+                "uniqueName": "Sultan Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2306/season/25942/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "pakistan",
+        "countryName": "Pakistan",
+        "data": [
+            {
+                "uniqueId": "1137",
+                "uniqueName": "Premier League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1137/season/18932/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "palestine",
+        "countryName": "Palestine",
+        "data": [
+            {
+                "uniqueId": "2142",
+                "uniqueName": "Gaza Strip Premier League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2142/season/25197/json"
+            },
+            {
+                "uniqueId": "2296",
+                "uniqueName": "West Bank League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2296/season/25442/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "panama",
+        "countryName": "Panama",
+        "data": [
+            {
+                "uniqueId": "1834",
+                "uniqueName": "Liga Panamena de Futbol",
+                "jsonUrl": "#ERROR!"
+            }
+        ]
+    },
+    {
+        "countrySlug": "paraguay",
+        "countryName": "Paraguay",
+        "data": [
+            {
+                "uniqueId": "693",
+                "uniqueName": "Primera División",
+                "jsonUrl": "#ERROR!"
+            },
+            {
+                "uniqueId": "1254",
+                "uniqueName": "Division Intermedia",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1254/season/26855/json"
+            },
+            {
+                "uniqueId": "9368",
+                "uniqueName": "Primera División Reserve",
+                "jsonUrl": "#ERROR!"
+            }
+        ]
+    },
+    {
+        "countrySlug": "peru",
+        "countryName": "Peru",
+        "data": [
+            {
+                "uniqueId": "406",
+                "uniqueName": "Primera División",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/406/season/27096/json"
+            },
+            {
+                "uniqueId": "1648",
+                "uniqueName": "Copa Inca",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1648/season/9747/json"
+            },
+            {
+                "uniqueId": "10297",
+                "uniqueName": "Segunda División",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10297/season/23449/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "philippines",
+        "countryName": "Philippines",
+        "data": [
+            {
+                "uniqueId": "1654",
+                "uniqueName": "Philippines Football League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1654/season/23208/json"
+            },
+            {
+                "uniqueId": "1904",
+                "uniqueName": "FA League Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1904/season/9188/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "poland",
+        "countryName": "Poland",
+        "data": [
+            {
+                "uniqueId": "202",
+                "uniqueName": "Ekstraklasa",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/202/season/23666/json"
+            },
+            {
+                "uniqueId": "229",
+                "uniqueName": "I Liga",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/229/season/23999/json"
+            },
+            {
+                "uniqueId": "515",
+                "uniqueName": "II Liga",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/515/season/24412/json"
+            },
+            {
+                "uniqueId": "281",
+                "uniqueName": "Puchar Polski",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/281/season/25252/json"
+            },
+            {
+                "uniqueId": "1365",
+                "uniqueName": "CLJ",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1365/season/13894/json"
+            },
+            {
+                "uniqueId": "511",
+                "uniqueName": "Super Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/511/season/23681/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "portugal",
+        "countryName": "Portugal",
+        "data": [
+            {
+                "uniqueId": "238",
+                "uniqueName": "Primeira Liga",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/238/season/24150/json"
+            },
+            {
+                "uniqueId": "239",
+                "uniqueName": "Segunda Liga",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/239/season/24151/json"
+            },
+            {
+                "uniqueId": "1133",
+                "uniqueName": "U19 Championship",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1133/season/24559/json"
+            },
+            {
+                "uniqueId": "336",
+                "uniqueName": "Taca de Portugal",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/336/season/25591/json"
+            },
+            {
+                "uniqueId": "345",
+                "uniqueName": "Supertaça",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/345/season/24012/json"
+            },
+            {
+                "uniqueId": "327",
+                "uniqueName": "Taça da Liga",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/327/season/24389/json"
+            },
+            {
+                "uniqueId": "10093",
+                "uniqueName": "Campeonato de Portugal",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10093/season/24570/json"
+            },
+            {
+                "uniqueId": "1790",
+                "uniqueName": "Honor Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1790/season/8452/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "romania",
+        "countryName": "Romania",
+        "data": [
+            {
+                "uniqueId": "152",
+                "uniqueName": "Liga I",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/152/season/24051/json"
+            },
+            {
+                "uniqueId": "562",
+                "uniqueName": "Liga 2",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/562/season/24414/json"
+            },
+            {
+                "uniqueId": "355",
+                "uniqueName": "Romania Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/355/season/25342/json"
+            },
+            {
+                "uniqueId": "1778",
+                "uniqueName": "Cupa Ligii",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1778/season/12029/json"
+            },
+            {
+                "uniqueId": "698",
+                "uniqueName": "Super Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/698/season/23921/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "russia",
+        "countryName": "Russia",
+        "data": [
+            {
+                "uniqueId": "203",
+                "uniqueName": "Premier League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/203/season/23682/json"
+            },
+            {
+                "uniqueId": "204",
+                "uniqueName": "Football National League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/204/season/23683/json"
+            },
+            {
+                "uniqueId": "1095",
+                "uniqueName": "PFL, Center",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1095/season/24308/json"
+            },
+            {
+                "uniqueId": "1087",
+                "uniqueName": "PFL, East",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1087/season/24678/json"
+            },
+            {
+                "uniqueId": "1093",
+                "uniqueName": "PFL, South",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1093/season/24312/json"
+            },
+            {
+                "uniqueId": "1097",
+                "uniqueName": "PFL, Ural-Povolzhye",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1097/season/24310/json"
+            },
+            {
+                "uniqueId": "1099",
+                "uniqueName": "PFL, West",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1099/season/24311/json"
+            },
+            {
+                "uniqueId": "879",
+                "uniqueName": "Youth League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/879/season/23684/json"
+            },
+            {
+                "uniqueId": "6783",
+                "uniqueName": "Premier League, Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/6783/season/23104/json"
+            },
+            {
+                "uniqueId": "91",
+                "uniqueName": "Russian Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/91/season/24853/json"
+            },
+            {
+                "uniqueId": "397",
+                "uniqueName": "Super Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/397/season/23603/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "rwanda",
+        "countryName": "Rwanda",
+        "data": [
+            {
+                "uniqueId": "10608",
+                "uniqueName": "National Football League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10608/season/25570/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "san-marino",
+        "countryName": "San Marino",
+        "data": [
+            {
+                "uniqueId": "738",
+                "uniqueName": "Campionato Sammarinese",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/738/season/25199/json"
+            },
+            {
+                "uniqueId": "737",
+                "uniqueName": "Coppa Titano",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/737/season/26014/json"
+            },
+            {
+                "uniqueId": "1343",
+                "uniqueName": "Supercup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1343/season/26829/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "saudi-arabia",
+        "countryName": "Saudi Arabia",
+        "data": [
+            {
+                "uniqueId": "955",
+                "uniqueName": "Saudi Professional League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/955/season/24744/json"
+            },
+            {
+                "uniqueId": "2058",
+                "uniqueName": "King's Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2058/season/26550/json"
+            },
+            {
+                "uniqueId": "2120",
+                "uniqueName": "Division 1",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2120/season/24745/json"
+            },
+            {
+                "uniqueId": "2119",
+                "uniqueName": "Super Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2119/season/26220/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "scotland",
+        "countryName": "Scotland",
+        "data": [
+            {
+                "uniqueId": "36",
+                "uniqueName": "Premiership",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/36/season/23987/json"
+            },
+            {
+                "uniqueId": "206",
+                "uniqueName": "Championship",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/206/season/23988/json"
+            },
+            {
+                "uniqueId": "207",
+                "uniqueName": "League One",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/207/season/23989/json"
+            },
+            {
+                "uniqueId": "209",
+                "uniqueName": "League Two",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/209/season/23990/json"
+            },
+            {
+                "uniqueId": "347",
+                "uniqueName": "Scottish Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/347/season/25430/json"
+            },
+            {
+                "uniqueId": "332",
+                "uniqueName": "League Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/332/season/23742/json"
+            },
+            {
+                "uniqueId": "331",
+                "uniqueName": "Challenge Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/331/season/24036/json"
+            },
+            {
+                "uniqueId": "1782",
+                "uniqueName": "Development League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1782/season/18433/json"
+            },
+            {
+                "uniqueId": "2054",
+                "uniqueName": "Premier League, Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2054/season/27195/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "senegal",
+        "countryName": "Senegal",
+        "data": [
+            {
+                "uniqueId": "1226",
+                "uniqueName": "Premier League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1226/season/26715/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "serbia",
+        "countryName": "Serbia",
+        "data": [
+            {
+                "uniqueId": "210",
+                "uniqueName": "Superliga",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/210/season/23779/json"
+            },
+            {
+                "uniqueId": "721",
+                "uniqueName": "Prva Liga",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/721/season/23780/json"
+            },
+            {
+                "uniqueId": "314",
+                "uniqueName": "Serbia Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/314/season/25468/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "singapore",
+        "countryName": "Singapore",
+        "data": [
+            {
+                "uniqueId": "634",
+                "uniqueName": "S-league",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/634/season/27158/json"
+            },
+            {
+                "uniqueId": "655",
+                "uniqueName": "Singapore Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/655/season/25600/json"
+            },
+            {
+                "uniqueId": "669",
+                "uniqueName": "League Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/669/season/13495/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "south-africa",
+        "countryName": "South Africa",
+        "data": [
+            {
+                "uniqueId": "358",
+                "uniqueName": "Premier Soccer League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/358/season/24027/json"
+            },
+            {
+                "uniqueId": "1906",
+                "uniqueName": "National First Division",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1906/season/24781/json"
+            },
+            {
+                "uniqueId": "1020",
+                "uniqueName": "FA Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1020/season/27054/json"
+            },
+            {
+                "uniqueId": "1125",
+                "uniqueName": "MTN 8",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1125/season/24839/json"
+            },
+            {
+                "uniqueId": "1205",
+                "uniqueName": "League Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1205/season/25788/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "south-america",
+        "countryName": "South America",
+        "data": [
+            {
+                "uniqueId": "295",
+                "uniqueName": "World Cup Qual. CONMEBOL",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/295/season/26781/json"
+            },
+            {
+                "uniqueId": "384",
+                "uniqueName": "CONMEBOL Libertadores",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/384/season/26785/json"
+            },
+            {
+                "uniqueId": "480",
+                "uniqueName": "CONMEBOL Sudamericana",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/480/season/26788/json"
+            },
+            {
+                "uniqueId": "490",
+                "uniqueName": "CONMEBOL Recopa",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/490/season/27132/json"
+            },
+            {
+                "uniqueId": "133",
+                "uniqueName": "Copa América",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/133/season/26681/json"
+            },
+            {
+                "uniqueId": "2041",
+                "uniqueName": "U17 CONMEBOL Championship",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2041/season/22827/json"
+            },
+            {
+                "uniqueId": "1074",
+                "uniqueName": "U20 CONMEBOL Libertadores",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1074/season/16125/json"
+            },
+            {
+                "uniqueId": "632",
+                "uniqueName": "U20 CONMEBOL Championship",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/632/season/20109/json"
+            },
+            {
+                "uniqueId": "1612",
+                "uniqueName": "U20 CONMEBOL Championship, Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1612/season/15724/json"
+            },
+            {
+                "uniqueId": "10602",
+                "uniqueName": "CONMEBOL Libertadores, Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10602/season/25708/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "south-korea",
+        "countryName": "South Korea",
+        "data": [
+            {
+                "uniqueId": "410",
+                "uniqueName": "K-League Classic",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/410/season/27192/json"
+            },
+            {
+                "uniqueId": "777",
+                "uniqueName": "K-League Challenge",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/777/season/27193/json"
+            },
+            {
+                "uniqueId": "615",
+                "uniqueName": "FA Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/615/season/23111/json"
+            },
+            {
+                "uniqueId": "2284",
+                "uniqueName": "WK-League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2284/season/23116/json"
+            },
+            {
+                "uniqueId": "10268",
+                "uniqueName": "National League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10268/season/22628/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "spain",
+        "countryName": "Spain",
+        "data": [
+            {
+                "uniqueId": "8",
+                "uniqueName": "LaLiga",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/8/season/24127/json"
+            },
+            {
+                "uniqueId": "54",
+                "uniqueName": "LaLiga 2",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/54/season/24149/json"
+            },
+            {
+                "uniqueId": "544",
+                "uniqueName": "Segunda División B",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/544/season/24387/json"
+            },
+            {
+                "uniqueId": "329",
+                "uniqueName": "Copa del Rey",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/329/season/26137/json"
+            },
+            {
+                "uniqueId": "213",
+                "uniqueName": "Super Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/213/season/26219/json"
+            },
+            {
+                "uniqueId": "1127",
+                "uniqueName": "Primera División Femenina",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1127/season/24756/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "spain-amateur",
+        "countryName": "Spain Amateur",
+        "data": [
+            {
+                "uniqueId": "10459",
+                "uniqueName": "Tercera Division",
+                "jsonUrl": "#ERROR!"
+            }
+        ]
+    },
+    {
+        "countrySlug": "sweden",
+        "countryName": "Sweden",
+        "data": [
+            {
+                "uniqueId": "40",
+                "uniqueName": "Allsvenskan",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/40/season/26784/json"
+            },
+            {
+                "uniqueId": "46",
+                "uniqueName": "Superettan",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/46/season/26803/json"
+            },
+            {
+                "uniqueId": "67",
+                "uniqueName": "Division 1, Norra",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/67/season/26813/json"
+            },
+            {
+                "uniqueId": "68",
+                "uniqueName": "Division 1, Södra",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/68/season/26814/json"
+            },
+            {
+                "uniqueId": "10641",
+                "uniqueName": "Div 2, Promotion round",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10641/season/25867/json"
+            },
+            {
+                "uniqueId": "71",
+                "uniqueName": "Division 2, Norrland",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/71/season/27138/json"
+            },
+            {
+                "uniqueId": "70",
+                "uniqueName": "Division 2, Norra Svealand",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/70/season/27133/json"
+            },
+            {
+                "uniqueId": "74",
+                "uniqueName": "Division 2, Södra Svealand",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/74/season/27134/json"
+            },
+            {
+                "uniqueId": "395",
+                "uniqueName": "Division 2, Ostra Gotaland",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/395/season/27135/json"
+            },
+            {
+                "uniqueId": "72",
+                "uniqueName": "Division 2, Södra Götaland",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/72/season/11426/json"
+            },
+            {
+                "uniqueId": "73",
+                "uniqueName": "Division 2, Västra Götaland ",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/73/season/27137/json"
+            },
+            {
+                "uniqueId": "214",
+                "uniqueName": "Damallsvenskan",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/214/season/26804/json"
+            },
+            {
+                "uniqueId": "80",
+                "uniqueName": "Svenska Cupen",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/80/season/23452/json"
+            },
+            {
+                "uniqueId": "1058",
+                "uniqueName": "Svenska Cupen, Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1058/season/25044/json"
+            },
+            {
+                "uniqueId": "642",
+                "uniqueName": "Super Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/642/season/11041/json"
+            },
+            {
+                "uniqueId": "643",
+                "uniqueName": "Super Cup Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/643/season/11391/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "sweden-amateur",
+        "countryName": "Sweden Amateur",
+        "data": [
+            {
+                "uniqueId": "1016",
+                "uniqueName": "U21",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1016/season/22489/json"
+            },
+            {
+                "uniqueId": "3090",
+                "uniqueName": "U19",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/3090/season/22491/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "switzerland",
+        "countryName": "Switzerland",
+        "data": [
+            {
+                "uniqueId": "215",
+                "uniqueName": "Super League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/215/season/23982/json"
+            },
+            {
+                "uniqueId": "216",
+                "uniqueName": "Challenge League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/216/season/23994/json"
+            },
+            {
+                "uniqueId": "1101",
+                "uniqueName": "Erste Liga Promotion",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1101/season/24110/json"
+            },
+            {
+                "uniqueId": "399",
+                "uniqueName": "Schweizer Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/399/season/24123/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "thailand",
+        "countryName": "Thailand",
+        "data": [
+            {
+                "uniqueId": "1032",
+                "uniqueName": "Thai League 1",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1032/season/27056/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "tunisia",
+        "countryName": "Tunisia",
+        "data": [
+            {
+                "uniqueId": "984",
+                "uniqueName": "Ligue 1",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/984/season/25058/json"
+            },
+            {
+                "uniqueId": "1682",
+                "uniqueName": "Tunisian Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1682/season/26877/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "turkey-amateur",
+        "countryName": "Turkey Amateur",
+        "data": [
+            {
+                "uniqueId": "1846",
+                "uniqueName": "U21 Ligi",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1846/season/18042/json"
+            },
+            {
+                "uniqueId": "10457",
+                "uniqueName": "U21 1. Lig",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10457/season/18043/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "uganda",
+        "countryName": "Uganda",
+        "data": [
+            {
+                "uniqueId": "10166",
+                "uniqueName": "Premier League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10166/season/25175/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "ukraine",
+        "countryName": "Ukraine",
+        "data": [
+            {
+                "uniqueId": "218",
+                "uniqueName": "Premier League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/218/season/23995/json"
+            },
+            {
+                "uniqueId": "691",
+                "uniqueName": "Persha Liga",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/691/season/24131/json"
+            },
+            {
+                "uniqueId": "892",
+                "uniqueName": "U21",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/892/season/24411/json"
+            },
+            {
+                "uniqueId": "1307",
+                "uniqueName": "U19",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1307/season/24561/json"
+            },
+            {
+                "uniqueId": "312",
+                "uniqueName": "Ukraine Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/312/season/24976/json"
+            },
+            {
+                "uniqueId": "219",
+                "uniqueName": "Super Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/219/season/23878/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "united-arab-emirates",
+        "countryName": "United Arab Emirates",
+        "data": [
+            {
+                "uniqueId": "971",
+                "uniqueName": "Arabian Gulf League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/971/season/24424/json"
+            },
+            {
+                "uniqueId": "1369",
+                "uniqueName": "League Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1369/season/24955/json"
+            },
+            {
+                "uniqueId": "2304",
+                "uniqueName": "Super Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2304/season/25119/json"
+            },
+            {
+                "uniqueId": "3080",
+                "uniqueName": "Presidents Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/3080/season/26229/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "uruguay",
+        "countryName": "Uruguay",
+        "data": [
+            {
+                "uniqueId": "278",
+                "uniqueName": "Primera División",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/278/season/22581/json"
+            },
+            {
+                "uniqueId": "1908",
+                "uniqueName": "Segunda División",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1908/season/23257/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "uzbekistan",
+        "countryName": "Uzbekistan",
+        "data": [
+            {
+                "uniqueId": "772",
+                "uniqueName": "PFL",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/772/season/22703/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "venezuela",
+        "countryName": "Venezuela",
+        "data": [
+            {
+                "uniqueId": "231",
+                "uniqueName": "Primera División",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/231/season/27191/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "vietnam",
+        "countryName": "Vietnam",
+        "data": [
+            {
+                "uniqueId": "626",
+                "uniqueName": "V-League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/626/season/26933/json"
+            },
+            {
+                "uniqueId": "771",
+                "uniqueName": "V-League 2",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/771/season/26934/json"
+            },
+            {
+                "uniqueId": "1236",
+                "uniqueName": "Super Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1236/season/26936/json"
+            },
+            {
+                "uniqueId": "3087",
+                "uniqueName": "Vietnam Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/3087/season/26935/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "wales",
+        "countryName": "Wales",
+        "data": [
+            {
+                "uniqueId": "254",
+                "uniqueName": "Premier League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/254/season/24024/json"
+            },
+            {
+                "uniqueId": "702",
+                "uniqueName": "Welsh League Division One",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/702/season/18252/json"
+            },
+            {
+                "uniqueId": "367",
+                "uniqueName": "League Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/367/season/24672/json"
+            },
+            {
+                "uniqueId": "388",
+                "uniqueName": "FAW Welsh Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/388/season/26543/json"
+            },
+            {
+                "uniqueId": "719",
+                "uniqueName": "Huws Gray Alliance",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/719/season/18253/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "world",
+        "countryName": "World",
+        "data": [
+            {
+                "uniqueId": "16",
+                "uniqueName": "World Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/16/season/15586/json"
+            },
+            {
+                "uniqueId": "853",
+                "uniqueName": "Club Friendly Games",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/853/season/26870/json"
+            },
+            {
+                "uniqueId": "460",
+                "uniqueName": "Confederations Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/460/season/10839/json"
+            },
+            {
+                "uniqueId": "357",
+                "uniqueName": "FIFA Club World Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/357/season/26177/json"
+            },
+            {
+                "uniqueId": "1325",
+                "uniqueName": "Premier League Asia Trophy",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1325/season/24124/json"
+            },
+            {
+                "uniqueId": "1295",
+                "uniqueName": "Emirates Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1295/season/23671/json"
+            },
+            {
+                "uniqueId": "1337",
+                "uniqueName": "Int. Champions Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1337/season/23027/json"
+            },
+            {
+                "uniqueId": "851",
+                "uniqueName": "Int. Friendly Games",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/851/season/26914/json"
+            },
+            {
+                "uniqueId": "436",
+                "uniqueName": "Olympic Games",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/436/season/11442/json"
+            },
+            {
+                "uniqueId": "10618",
+                "uniqueName": "World Cup Qualification, Inter-Confederation Playoffs",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10618/season/15012/json"
+            },
+            {
+                "uniqueId": "10785",
+                "uniqueName": "Atlantic Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10785/season/26851/json"
+            },
+            {
+                "uniqueId": "411",
+                "uniqueName": "Algarve Cup Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/411/season/26969/json"
+            },
+            {
+                "uniqueId": "1018",
+                "uniqueName": "Cyprus Women Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1018/season/22280/json"
+            },
+            {
+                "uniqueId": "852",
+                "uniqueName": "Int. Friendly Games, Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/852/season/26921/json"
+            },
+            {
+                "uniqueId": "437",
+                "uniqueName": "Olympic Games Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/437/season/11443/json"
+            },
+            {
+                "uniqueId": "290",
+                "uniqueName": "World Cup Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/290/season/19902/json"
+            },
+            {
+                "uniqueId": "279",
+                "uniqueName": "U17 World Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/279/season/24336/json"
+            },
+            {
+                "uniqueId": "827",
+                "uniqueName": "U17 Womens World Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/827/season/17360/json"
+            },
+            {
+                "uniqueId": "858",
+                "uniqueName": "U17 Friendly Games",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/858/season/26924/json"
+            },
+            {
+                "uniqueId": "1594",
+                "uniqueName": "U18 Valentin Granatkin Memorial Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1594/season/23542/json"
+            },
+            {
+                "uniqueId": "857",
+                "uniqueName": "U18 Friendly Games",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/857/season/22910/json"
+            },
+            {
+                "uniqueId": "856",
+                "uniqueName": "U19 Friendly Games",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/856/season/26923/json"
+            },
+            {
+                "uniqueId": "2302",
+                "uniqueName": "U19 Friendly Games, Women",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2302/season/22712/json"
+            },
+            {
+                "uniqueId": "2105",
+                "uniqueName": "U19 CEE Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2105/season/24495/json"
+            },
+            {
+                "uniqueId": "855",
+                "uniqueName": "U20 Friendly Games",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/855/season/22885/json"
+            },
+            {
+                "uniqueId": "453",
+                "uniqueName": "U20 World Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/453/season/22665/json"
+            },
+            {
+                "uniqueId": "804",
+                "uniqueName": "U20 Women's World Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/804/season/16382/json"
+            },
+            {
+                "uniqueId": "1246",
+                "uniqueName": "U20 Viareggio Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1246/season/22763/json"
+            },
+            {
+                "uniqueId": "1622",
+                "uniqueName": "U21 Commonwealth States Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1622/season/11142/json"
+            },
+            {
+                "uniqueId": "854",
+                "uniqueName": "U21 Friendly Games",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/854/season/22884/json"
+            },
+            {
+                "uniqueId": "452",
+                "uniqueName": "U21 Toulon Tournament",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/452/season/8018/json"
+            },
+            {
+                "uniqueId": "2084",
+                "uniqueName": "U23 Toulon Tournament",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2084/season/23609/json"
+            },
+            {
+                "uniqueId": "1072",
+                "uniqueName": "U23 Friendly Games",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/1072/season/22911/json"
+            },
+            {
+                "uniqueId": "10709",
+                "uniqueName": "Florida Cup",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/10709/season/26838/json"
+            }
+        ]
+    },
+    {
+        "countrySlug": "zambia",
+        "countryName": "Zambia",
+        "data": [
+            {
+                "uniqueId": "2065",
+                "uniqueName": "Premier League",
+                "jsonUrl": "https://www.sofascore.com/u-tournament/2065/season/25196/json"
+            }
+        ]
+    }
+]
