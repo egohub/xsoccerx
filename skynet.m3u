@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="ช่อง ต่างประเทศ" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/hd-sporttv1.jpg",SPORT TV1
+https://live.mawintv2.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง ต่างประเทศ" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/hd-sporttv2.jpg",SPORT TV2
+https://live.mawintv2.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง ต่างประเทศ" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/hd-sporttv3.jpg",SPORT TV3
+https://live.mawintv2.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง ต่างประเทศ" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/hd-sporttv4.jpg",SPORT TV4
+https://live.mawintv2.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง ต่างประเทศ" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/hd-sporttv5.jpg",SPORT TV5
+https://live.mawintv2.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง ต่างประเทศ" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsportshd-1.png",SKYNET SPORT HD
+https://live.mawintv2.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports1.png",SKYNET SPORT 1
+https://live.mawintv2.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports2.png",SKYNET SPORT 2
+https://live.mawintv2.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports3.png",SKYNET SPORT 3
+https://live.mawintv2.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports4.png",SKYNET SPORT 4
+https://live.mawintv2.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports5.png",SKYNET SPORT 5
+https://live.mawintv2.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports6.png",SKYNET SPORT 6
+https://live.mawintv2.com/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports6.png",SKYNET SPORT6
+https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
