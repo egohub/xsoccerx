@@ -1,0 +1,85 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="FOOTBALL+",Sony Ten 1
+https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
+#EXTINF:-1 group-title="FOOTBALL+",Sony Ten 2
+https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
+#EXTINF:-1 group-title="FOOTBALL+",Sony Ten 3
+https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
+#EXTINF:-1 group-title="FOOTBALL+",Sony ESPN
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports กีฬา", tah apa
+#EXTINF:-1 tvg-name="beIN Sports 1" tvg-logo="" group-title="BEINSPORT", BEIN SPORTS NEWS HD
+http://46.60.1.82:8081/live/hdmib2/playlist.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 1" tvg-logo="" group-title="BEINSPORT", BEIN SPORTS HD
+http://46.60.1.82:8081/live/hdmib3/playlist.m3u8
+https://live.mawintv2.com/02_TRUE4U_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/epl-bein1.png",BEIN SPORT HD 1
+https://live.mawintv2.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/epl-bein2.png",BEIN SPORT HD 2
+https://live.mawintv2.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-tsport1.png",TRUE SPORT HD1
+https://live.mawintv2.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-tsport2.png",TRUE SPORT HD2
+https://live.mawintv2.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-tsport3.png",TRUE SPORT HD3
+https://live.mawintv2.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-tsport4.png",TRUE SPORT HD4
+https://live.mawintv2.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-nba.png",NBA HD
+https://live.mawintv2.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-tennis.png",TENNIS HD
+https://live.mawintv2.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-golf.png",GOLF CHANNEL HD
+https://live.mawintv2.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",FOX SPORT HD1
+https://live.mawintv2.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-foxsports2.png",FOX SPORT 2
+https://live.mawintv2.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-foxsports3.png",FOX SPORT 3
+https://live.mawintv2.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-tsport2.png",TRUE SPORT 2
+https://live.mawintv2.com/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-tsport5.png",TRUE SPORT 5
+https://live.mawintv2.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-tsport6.png",TRUE SPORT 6
+https://live.mawintv2.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-tsport7.png",TRUE SPORT 7
+https://live.mawintv2.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/07/hd-edge.png",EDGE HD
+https://stream6.xpeer-cdn.com/02_EDGEHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/08/uplay-epl1-2.png",Premier Football HD 1
+https://live.mawintv2.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/08/uplay-epl2.png",Premier Football HD 2
+https://live.mawintv2.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/08/uplay-epl3.png",Premier Football HD 3
+https://live.mawintv2.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/08/uplay-epl4-1.png",Premier Football HD 4
+https://live.mawintv2.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/08/uplay-epl5.png",Premier Football HD 5
+https://live.mawintv2.com/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ช่อง ต่างประเทศ" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/hd-sporttv1.jpg",SPORT TV1
+https://live.mawintv2.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง ต่างประเทศ" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/hd-sporttv2.jpg",SPORT TV2
+https://live.mawintv2.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง ต่างประเทศ" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/hd-sporttv3.jpg",SPORT TV3
+https://live.mawintv2.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง ต่างประเทศ" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/hd-sporttv4.jpg",SPORT TV4
+https://live.mawintv2.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง ต่างประเทศ" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/hd-sporttv5.jpg",SPORT TV5
+https://live.mawintv2.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่อง ต่างประเทศ" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsportshd-1.png",SKYNET SPORT HD
+https://live.mawintv2.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports1.png",SKYNET SPORT 1
+https://live.mawintv2.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports2.png",SKYNET SPORT 2
+https://live.mawintv2.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports3.png",SKYNET SPORT 3
+https://live.mawintv2.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports4.png",SKYNET SPORT 4
+https://live.mawintv2.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports5.png",SKYNET SPORT 5
+https://live.mawintv2.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/09/sd-skynetsports6.png",SKYNET SPORT 6
+https://live.mawintv2.com/03_skynetsport6_480p/chunklist.m3u8
